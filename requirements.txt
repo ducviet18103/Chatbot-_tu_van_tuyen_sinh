@@ -13,5 +13,6 @@ milvus_model==0.2.10
 qdrant_client==1.12.1
 langchain_qdrant==0.2.0
 sentence_transformers==3.3.1
+google.generativeai
 fastembed==0.4.2
 joblib

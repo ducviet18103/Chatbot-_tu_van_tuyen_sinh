@@ -1,0 +1,57 @@
+Trường ĐHBK Hà Nội xét tuyển thẳng vào tất cả các ngành đối với thí sinh có chứng chỉ quốc tế 22-09-2021 
+
+
+Theo đề án tuyển sinh năm đại học chính quy năm 2020 của Trường ĐHBK Hà Nội được công bố vào ngày 28/5/2020 vừa qua, những thí sinh có chứng chỉ quốc tế SAT, ACT hoặc kết quả học dự bị đại học theo hình thức A-Level được xét tuyển vào tất cả các chương trình/ngành đào tạo của Trường. Riêng chứng chỉ tiếng Anh quốc tế IELTS từ 6.5 trở lên (còn hiệu lực tính đến ngày bắt đầu đăng ký) được xét tuyển thẳng vào các ngành Ngôn ngữ Anh. 
+
+Cụ thể, thí sinh có chứng chỉ SAT 1465/1600 trở lên (trong đó, điểm Toán từ 770 trở lên) sẽ được xét tuyển vào tất cả các ngành, kể cả các ngành có điểm chuẩn thuộc top đầu của trường như: Khoa học máy tính (Điểm chuẩn năm 2019 là 27.42, cao nhất cả nước đối với nhóm ngành CNTT) , Khoa học dữ liệu và Trí tuệ nhân tạo (bắt đầu tuyển sinh năm 2019 với điểm chuẩn là 27), Kỹ thuật điều khiển-tự động hóa, Thí sinh có chứng chỉ SAT từ 1270/1600 trở lên (trong đó, điểm Toán từ 640 trở lên) có thể tham gia xét tuyển thẳng vào một số ngành theo quy định. 
+
+
+
+
+
+Để tham gia xét tuyển thẳng dựa trên các chứng chỉ quốc tế, thí sinh cần có điểm trung bình chung học tập từng năm học lớp 10, 11, 12 đạt từ 8.0 trở lên (Riêng đối với thí sinh tốt nghiệp năm 2020, lớp 12 chỉ tính học kỳ I). Đối với các thí sinh có chứng chỉ A-Level, các môn học phải phù hợp với ngành dự tuyển. Theo quy định, số thí sinh xét tuyển thẳng không vượt quá 15 chỉ tiêu của một ngành, và khi xét tuyển thẳng, sẽ ưu tiên những thí sinh có kết quả cao hơn. 
+
+TT | Tên ngành, chương trình đào tạo | Chỉ tiêu | Mã xét tuyển | TT | Tên ngành, chương trình đào tạo | Chỉ tiêu | Mã xét tuyển
+1 | Kỹ thuật Cơ điện tử | 300 | ME1 | 30 | Kỹ thuật Sinh học | 100 | BF1
+2 | Kỹ thuật Cơ khí | 500 | ME2 | 31 | Kỹ thuật Thực phẩm | 200 | BF2
+3 | Kỹ thuật Cơ điện tử (CT tiên tiến) | 80 | ME-E1 | 32 | Kỹ thuật Thực phẩm (CT tiên tiến) | 40 | BF-E12
+4 | Kỹ thuật Ô tô | 220 | TE1 | 33 | Kỹ thuật Môi trường | 120 | EV1
+5 | Kỹ thuật Cơ khí động lực | 90 | TE2 | 34 | Kỹ thuật Vật liệu | 220 | MS1
+6 | Kỹ thuật Hàng không | 50 | TE3 | 35 | KHKT Vật liệu (CT tiên tiến) | 50 | MS-E3
+7 | Kỹ thuật Ô tô (CT tiên tiến) | 40 | TE-E2 | 36 | Kỹ thuật Dệt-May | 200 | TX1
+8 | Cơ khí Hàng không (CT Việt-Pháp PFIEV) | 35 | TE-EP | 37 | Công nghệ Giáo dục | 40 | ED2
+9 | Kỹ thuật Nhiệt | 250 | HE1 | 38 | Vật lý Kỹ thuật | 150 | PH1
+10 | Kỹ thuật Điện | 220 | EE1 | 39 | Kỹ thuật Hạt nhân | 30 | PH2
+11 | Kỹ thuật Điều khiển-Tự động hóa | 500 | EE2 | 40 | Kinh tế Công nghiệp | 40 | EM1
+12 | Kỹ thuật Điều khiển-Tự động hóa và Hệ thống điện (CT tiên tiến) | 80 | EE-E8 | 41 | Quản lý Công nghiệp | 100 | EM2
+13 | Tin học công nghiệp và tự động hóa (CT Việt-Pháp PFIEV) | 35 | EE-EP | 42 | Quản trị Kinh doanh | 80 | EM3
+14 | Kỹ thuật Điện tử-Viễn thông | 500 | ET1 | 43 | Kế toán | 60 | EM4
+15 | Kỹ thuật Điện tử-Viễn thông (CT tiên tiến) | 40 | ET-E4 | 44 | Tài chính-Ngân hàng | 50 | EM5
+16 | Kỹ thuật Y sinh (CT tiên tiến) | 40 | ET-E5 | 45 | Phân tích Kinh doanh (CT tiên tiến) | 40 | EM-E13
+17 | Hệ thống nhúng thông minh và IoT (CT tiên tiến) | 60 | ET-E9 | 46 | Logistics và Quản lý chuỗi cung ứng (CT tiên tiến) | 50 | EM-E14
+18 | CNTT: Khoa học Máy tính | 260 | IT1 | 47 | Tiếng Anh KHKT và Công nghệ | 140 | FL1
+19 | CNTT: Kỹ thuật Máy tính | 180 | IT2 | 48 | Tiếng Anh chuyên nghiệp quốc tế | 60 | FL2
+20 | Khoa học Dữ liệu và Trí tuệ nhân tạo (CT tiên tiến) | 100 | IT-E10 | 49 | Cơ điện tử - ĐH Nagaoka (Nhật Bản) | 100 | ME-NUT
+21 | Công nghệ Thông tin (Việt-Nhật) | 240 | IT-E6 | 50 | Cơ khí-Chế tạo máy - ĐH Griffith (Úc) | 40 | ME-GU
+22 | Công nghệ Thông tin (Global ICT) | 80 | IT-E7 | 51 | Điện tử - Viễn thông - ĐH Leibniz Hannover (Đức) | 40 | ET-LUH
+23 | Công nghệ Thông tin (Việt-Pháp) | 40 | IT-EP | 52 | Cơ điện tử - ĐH Leibniz Hannover (Đức) | 40 | ME-LUH
+24 | Toán-Tin | 120 | MI1 | 53 | Công nghệ Thông tin - ĐH La Trobe (Úc) | 70 | IT-LTU
+25 | Hệ thống Thông tin quản lý | 60 | MI2 | 54 | Công nghệ Thông tin - ĐH Victoria (New Zealand) | 60 | IT-VUW
+26 | Kỹ thuật Hóa học | 490 | CH1 | 55 | Quản trị Kinh doanh - ĐH Victoria (New Zealand) | 40 | EM-VUW
+27 | Hóa học | 100 | CH2 | 56 | Quản trị Kinh doanh - ĐH Troy (Hoa Kỳ) | 40 | Troy-BA
+28 | Kỹ thuật In | 30 | CH3 | 57 | Khoa học Máy tính - ĐH Troy (Hoa Kỳ) | 40 | Troy-IT
+29 | Kỹ thuật Hóa dược (CT tiên tiến) | 30 | CH-E11 |  |  |  | 
+(Các mã ngành/chương trình đào tạo, chỉ tiêu và mã xét tuyển tương ứng của Trường ĐHBK Hà Nội năm 2020)
+
+
+
+
+
+
+Ngoài ra, Trường ĐHBK Hà Nội vẫn áp dụng phương thức xét tuyển thẳng đối với những học sinh giỏi theo quy định của Bộ GDĐT; xét tuyển kết hợp phỏng vấn những thí sinh đạt giải HSG cấp tỉnh/thành phố, thí sinh hệ chuyên của các trường THPT chuyên trên toàn quốc, thí sinh tham gia cuộc thi Đường lên đỉnh Olympia vòng thi tháng, quý, năm,; và xét tuyển theo điểm thi. 
+
+Trường Đại học Bách khoa (ĐHBK) Hà Nội là trường đại học hàng đầu về kỹ thuật và công nghệ tại Việt Nam. Năm 2019, cùng với hai Đại học Quốc gia, Trường ĐHBK Hà Nội được Times Higher Education xếp hạng là một trong những trường đại học tốt nhất thế giới, trong đó ĐHBK Hà Nội và ĐHQG Hà Nội lọt vào top 801-1000. Năm 2020, bốn nhóm ngành của Trường ĐHBK Hà Nội được xếp trong top 400 và 500 thế giới theo Bảng xếp hạng QS World University Ranking by Subject, bao gồm: Nhóm ngành Kỹ thuật Điện - Điện tử; Nhóm ngành Kỹ thuật Cơ khí, Hàng không và Chế tạo; Nhóm ngành Khoa học máy tính và Hệ thống thông tin; và Toán học. Ba nhóm ngành đầu tăng từ 50 đến 100 bậc so với năm 2019 và tiếp tục giữ vị trí số 1 Việt Nam.
+
+Trong những năm gần đây, với định hướng phát triển hội nhập quốc tế, Trường ĐHBK Hà Nội áp dụng những tiêu chuẩn chất lượng của khu vực và quốc tế, tiếp thu chọn lọc những mô hình và kinh nghiệm thành công của các trường đại học danh tiếng trên thế giới. Bên cạnh đó, Nhà trường chú trọng nâng cao năng lực thực chất, đồng thời, định hướng theo các tiêu chí xếp hạng quốc tế. 
+
+Việc xét tuyển thẳng đối với các thí sinh có chứng chỉ quốc tế với mức điểm cao là một trong những bước đi đột phá của Nhà trường nhằm thu hút những sinh viên ưu tú, nâng tầm chất lượng đào tạo đạt mức cao theo các tiêu chuẩn kiểm định khu vực hoặc quốc tế, đưa Trường lên nhóm đầu khu vực theo xếp hạng khả năng làm việc và thích nghi toàn cầu của người tốt nghiệp. 

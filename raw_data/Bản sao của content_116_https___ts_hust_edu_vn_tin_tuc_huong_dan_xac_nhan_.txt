@@ -1,0 +1,106 @@
+Hướng dẫn xác nhận nhập học đối với thí sinh xét tuyển tài năng đạt ngưỡng yêu cầu 22-09-2021 
+
+
+
+Trường Đại học Bách khoa Hà Nội vừa công bố ngưỡng yêu cầu đối với các thí sinh đăng ký xét tuyển tài năng năm 2021. Theo đó, ngưỡng yêu cầu đối với thí sinh sử dụng phương thức xét tuyển theo chứng chỉ quốc tế như sau
+
+
+
+
+
+Mã xét tuyển | Chứng chỉ / Ngưỡng yêu cầu
+A-Level | ACT (36) | SAT (1600) | IELTS Academic
+IT1, IT-E10 | PUM range ³ 96 (Toán A) |  | ³ 1520 (Toán ³ 770) | 
+IT2, IT-E6, IT-E7, IT-E15, EE2 | PUM range ³ 95 (Toán A) |  | ³ 1460 (Toán ³ 770) | 
+IT-EP |  | ³ 32 (Toán ³ 32) | ³ 1400 (Toán ³ 750) | 
+BF2, EE-E8, EE-E18, EE-EP, ET1, ET-E4, ET-E5, ET-E9, ET-E16, IT-EP, ME1, ME-E1, MI1, MI2, TE-E2 | PUM range ³ 90 (Toán A) |  | ³ 1400 (Toán ³ 750) | 
+BF1, BF-E12, CH1, CH2, CH-E11, ED2, EV1, EM2, EM3, EM5, EM-E13, EM-E14, HE1, MS1, MS-E3, ME2, TE2, TE3, TE-EP, FL1, FL2 | PUM range ³ 80 (Toán A) FL1, FL2: tiếng Anh A |  | ³ 1340 (Toán ³ 700) | 
+ET-LUH, ME-NUT, ME-LUH, TROY-IT | PUM range ³ 70 (Toán B) |  | ³ 1270 (Toán ³ 640) | 
+FL1, FL2 |  |  |  | ³ 7.0
+EM1, EM2, EM4, TROY-BA |  |  |  | ³ 6.0
+EM3, EM5, EM-E13 |  |  |  | ³ 7.0
+EM-E14 |  |  |  | ³ 7.5
+
+Đối với thí sinh sử dụng phương thức xét tuyển theo hồ sơ năng lực kết hợp phỏng vấn, ngưỡng yêu cầu được quy định như sau: 
+
+TT | Ngành/CTĐT | Mã XT | Ngưỡng yêu cầu
+1 | Kỹ thuật Sinh học | BF1 | 84,25
+2 | Kỹ thuật Thực phẩm | BF2 | 75,74
+3 | Kỹ thuật Thực phẩm (CT tiên tiến) | BF-E12 | 73,20
+4 | Kỹ thuật Hóa dược (CT tiên tiến) | CH-E11 | 86,26
+5 | Kỹ thuật điều khiển  Tự động hóa | EE2 | 79,86
+6 | Hệ thống điện và năng lượng tái tạo (CT tiên tiến) | EE-E18 | 72,66
+7 | Kỹ thuật điều khiển-Tự động hóa (CT tiên tiến) | EE-E8 | 68,43
+8 | Chương trình Việt pháp: Tin học công nghiệp và Tự động hóa | EE-EP | 73,79
+9 | Quản trị Kinh doanh | EM3 | 72,75
+10 | Tài chính-Ngân hàng | EM5 | 74,39
+11 | Phân tích Kinh doanh (CT tiên tiến) | EM-E13 | 74,7
+12 | Logistics và Quản lý chuỗi cung ứng (CT tiên tiến) | EM-E14 | 68,63
+13 | Kỹ thuật Điện tử-Viễn thông | ET1 | 76,97
+14 | Truyền thông số và Kỹ thuật đa phương tiện (CT tiên tiến) | ET-E16 | 70,35
+15 | Kỹ thuật Điện tử - Viễn thông (CT tiên tiến) | ET-E4 | 72,03
+16 | Kỹ thuật Y sinh (CT tiên tiến) | ET-E5 | 72,01
+17 | Hệ thống nhúng thông minh và IoT (CT tiên tiến) | ET-E9 | 67,46
+18 | CNTT: Khoa học Máy tính | IT1 | 94,18
+19 | CNTT: Kỹ thuật Máy tính | IT2 | 90,45
+20 | Khoa học Dữ liệu và Trí tuệ nhân tạo (CT tiên tiến) | IT-E10 | 97,01
+21 | An toàn không gian số - Cyber Security (CT Tiên tiến) | IT-E15 | 92,85
+22 | Công nghệ Thông tin (Việt-Nhật) | IT-E6 | 75,94
+23 | Công nghệ Thông tin Global ICT | IT-E7 | 92,43
+24 | Công nghệ Thông tin Việt-Pháp | IT-EP | 69,27
+25 | Kỹ thuật Cơ điện tử | ME1 | 67,13
+26 | Toán-Tin | MI1 | 78,1
+27 | Hệ thống Thông tin quản lý | MI2 | 67,83
+28 | Kỹ thuật Hàng không | TE3 | 70,17
+29 | Kỹ thuật Ô tô (CT tiên tiến) | TE-E2 | 66,46
+30 | Cơ khí Hàng không (CT Việt-Pháp PFIEV) | TE-EP | 74,91
+31 | Kỹ thuật Hóa học | CH1 | 64,8
+32 | Hóa học | CH2
+33 | Kỹ thuật In | CH3
+34 | Công nghệ Giáo dục | ED2
+35 | Kỹ thuật điện | EE1
+36 | Kinh tế Công nghiệp | EM1
+37 | Quản lý Công nghiệp | EM2
+38 | Kế toán | EM4
+39 | Điện tử - Viễn thông - ĐH Leibniz Hannover (Đức) | ET-LUH
+40 | Kỹ thuật Môi trường | EV1
+41 | Quản lý Tài nguyên và Môi trường | EV2
+42 | Tiếng Anh KHKT và Công nghệ | FL1
+43 | Tiếng Anh chuyên nghiệp quốc tế | FL2
+44 | Kỹ thuật Nhiệt | HE1
+45 | Kỹ thuật Cơ khí | ME2
+46 | Kỹ thuật Cơ điện tử (CT tiên tiến) | ME-E1
+47 | Cơ khí - Chế tạo máy - hợp tác với ĐH Griffith (Úc) | ME-GU
+48 | Cơ điện tử - hợp tác với ĐH Leibniz Hannover (Đức) | ME-LUH
+49 | Cơ điện tử - hợp tác với ĐHCN Nagaoka (Nhật Bản) | ME-NUT
+50 | Kỹ thuật Vật liệu | MS1
+51 | KHKT Vật liệu (CT tiên tiến) | MS-E3
+52 | Vật lý Kỹ thuật | PH1
+53 | Kỹ thuật Hạt nhân | PH2
+54 | Vật lý Y khoa | PH3
+55 | Kỹ thuật Ô tô | TE1
+56 | Kỹ thuật Cơ khí động lực | TE2
+57 | Quản trị Kinh doanh - ĐH Troy (Hoa Kỳ) | TROY-BA
+58 | Khoa học Máy tính - ĐH Troy (Hoa Kỳ) | TROY-IT
+
+
+
+Thí sinh tra cứu kết quả xét tuyển trên Hệ thống đăng ký tuyển sinh của Trường ĐHBK Hà Nội tại địa chỉ https://dangkytuyensinh.hust.edu.vn/tracuu
+
+Những thí sinh đạt ngưỡng yêu cầu nói trên, nếu có nguyện vọng nhập học, thì thực hiện xác nhận nhập học theo hướng dẫn sau: Thí sinh tải Giấy xác nhận nhập học ( Tại đây ), điền thông tin, ký và xin ý kiến của gia đình, sau đó, gửi về địa chỉ Phòng Tuyển sinh - Phòng 101, Nhà C1B, Trường ĐH Bách khoa Hà Nội, Số 1 Đường Đại Cồ Việt, Quận Hai Bà Trưng, Hà Nội.
+
+
+
+- Thí sinh có thể nộp Giấy xác nhận nhập học qua đường bưu điện hoặc nộp trực tiếp tại Trường ĐHBK Hà Nội theo địa chỉ trên. 
+
+- Thời gian xác nhận nhập học: 
+
++ Đợt 1: Từ ngày 10/6/2021 đến hết 17h ngày 16/6/2021 
+
++ Đợt 2: Từ ngày 28/6/2021 đến hết 17h ngày 02/07/2021 
+
+
+
+Thí sinh đã nộp Giấy xác nhận nhập học và có đủ các điều kiện trúng tuyển như đã công bố trong Đề án Tuyển sinh của ĐHBK Hà Nội sẽ làm thủ tục xác nhận nhập học chính thức trong khoảng thời gian trước 17h ngày 10/8/2021 theo quy định của Bộ Giáo dục và Đào tạo. Thủ tục và hồ sơ xác nhận nhập học chính thức sẽ được Nhà trường hướng dẫn trong những thông báo tiếp theo. 
+
+Riêng đối với các thí sinh xét tuyển thẳng bằng kết quả Kỳ thi HSG, KHKT quốc gia, quốc tế theo quy định của Bộ Giáo dục và Đào tạo sẽ có thông báo trước ngày 15/6/2021. 

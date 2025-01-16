@@ -1,0 +1,36 @@
+[Review] Ngành Kỹ thuật Điều khiển và Tự động hóa (EE2) - Viện Điện
+22-09-2020
+
+Ngành Kỹ thuật Điều khiển và Tự động hóa là gì? Các kiến thức được trang bị trong quá trình học? Kỹ năng đạt được sau khi tốt nghiệp?. Tất cả sẽ được giải đáp trong bài review ngắn này.
+Ngành Kỹ thuật Điều khiển và Tự động hóa là gì?
+
+Kỹ thuật Điều khiển và Tự động hoá là ngành học nghiên cứu, thiết kế, vận hành các hệ thống tự động, các quá trình công nghệ và sản xuất tự động tại các nhà máy (xi măng, sắt thép, nước giải khát, dược phẩm,…); Thiết kế, điều khiển, giám sát và chế tạo các hệ thống điện cơ, hệ thống robot; quản lý sản phẩm tại các công ty kinh doanh các thiết bị điện tử tự động…
+
+
+
+Ảnh: Nữ sinh Viện Điện, ít nhưng mà chất 
+
+Các kiến thức được trang bị trong quá trình học?
+
+Sinh viên theo học ngành Kỹ thuật Điều khiển và Tự động hóa được trang bị các kiến thức: Lý thuyết mạch điện – điện tử; Kỹ thuật đo lường và các hệ thống cảm biến thông minh; Các hệ thống mạng truyền thông công nghiệp; Kỹ thuật lập trình các chip vi điều khiển, vi xử lý; Các phương pháp điều khiển truyền thống và hiện đại; Lập trình tự động hóa các hệ thống và dây chuyền sản xuất công nghiệp; Điều khiển điện tử công suất và truyền động điện; Các hệ thống điều khiển giám sát thời gian thực; Kỹ thuật điều khiển Robot; Kỹ thuật mạng nơron và trí tuệ nhân tạo (AI)…
+
+Kỹ năng đạt được sau khi tốt nghiệp?
+
+Với các kiến thức được trang bị trong quá trình đào tạo, khi tốt nghiệp ngành Kỹ thuật Điều khiển và Tự động hóa, sinh viên có khả năng thực hiện các công việc sau:
+
+Quản lý, giám sát các dự án kỹ thuật;
+Tư vấn, thiết kế và phát triển hệ thống tự động hóa;
+Vận hành, giám sát các dây chuyền sản xuất tự động;
+Cài đặt, cấu hình và bảo trì kỹ thuật các thiết bị phần cứng và phần mềm của hệ thống tự động hóa
+Tích hợp các thiết bị để thiết lập các hệ thống điều khiển;
+Thiết kế, chế tạo và kiểm định các thiết bị đo lường điều khiển;
+Nghiên cứu, phát triển các thiết bị tự động thông minh và hệ thống điều khiển hiện đại hướng tới công nghiệp 4.0, Internet vạn vật (IoT), trí tuệ nhân tạo (AI).
+Các vị trí việc làm tiêu biểu sau khi tốt nghiệp ngành Kỹ thuật Điều khiển và Tự động hóa.
+
+Tốt nghiệp ngành Kỹ thuật Điều khiển và Tự động hóa, sinh viên có khả năng làm việc tại các vị trí việc làm tiêu biểu như sau:
+
+Kỹ sư thiết kế, vận hành, phát triển sản phẩm tại các tập đoàn có vốn đầu tư nước ngoài (FDI) trong lĩnh vực Điện -Tự động hóa;
+Kỹ sư vận hành tại các nhà máy điện: nhiệt điện, thủy điện, điện gió, điện mặt trời; các nhà máy sản xuất công nghiệp: dầu khí, hóa chất, xi măng, thép, giấy, chế biến thực phẩm; các nhà máy chế tạo thiết bị điện-tự động hóa; các cơ quan thuộc tổng cục, chi cục kiểm định thiết bị đo lường chất lượng thuộc các tỉnh và thành phố…
+Khởi nghiệp, tự thành lập các công ty, doanh nghiệp trong lĩnh vực Điện – Tự động hóa;
+Cán bộ nghiên cứu, giảng dạy tại các trường đại học, các viện nghiên cứu…
+Nguồn: FB Viện Điện

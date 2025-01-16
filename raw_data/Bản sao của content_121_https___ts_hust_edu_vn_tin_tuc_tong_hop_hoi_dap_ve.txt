@@ -1,0 +1,292 @@
+Tổng hợp Hỏi Đáp về thông tin tuyển sinh vào ĐH Bách Khoa Hà Nội năm 2021 21-09-2021 
+
+
+
+Năm 2021, ĐH Bách Khoa sẽ tuyển sinh 7420 thí sinh vào trường bằng 3 phương thức, bao gồm: (1) Xét tuyển thẳng, (2) Xét bằng kết quả thi tư duy, (3) Xét bằng kết quả thi TN THPT. Phương thức tuyển sinh năm 2021 của trường ĐHBKHN có một số điểm mới, ngành mới. 
+
+Mùa tuyển sinh đại học năm 2021 đã đến. Trong những ngày này, phòng tuyển sinh nhận được rất nhiều câu hỏi từ các bạn thí sinh/phụ huynh qua nhiều kênh thông tin khác nhau (qua số hotline, qua hình thức nhắn tin tại fanpage, đặt câu hỏi trong group, mục hỏi đáp trên website, bình luận trên kênh youtube Tuyển sinh...). Vào thời gian cao điểm chúng tôi nhận được hàng trăm câu hỏi mỗi ngày, tần suất câu hỏi ghi nhận được là 80 giây. Cũng vì vậy có thời điểm thí sinh chưa gặp được tư vấn viên bởi các đường dây bận hoặc tư vấn viên đang tiếp nhận tư vấn cho một trường hợp khác. 
+
+Trong số các câu hỏi gửi đến, có nhiều câu hỏi là các thông tin đã đăng tải hoặc đã trả lời tại nhiều kênh thông tin. Bài viết này sẽ tổng hợp lại những thắc mắc hay gặp nhất, giúp bạn tự chủ động tìm kiếm và nắm bắt được thông tin tuyển sinh năm 2021 của trường ĐH Bách Khoa Hà Nội một cách rõ ràng và cụ thể nhất. 
+
+CÂU HỎI 1: Em có thể tìm kiếm thông tin điểm chuẩn/tổ hợp xét tuyển/số lượng chỉ tiêu tuyển sinh của một ngành X ở đâu?
+
+
+Trả lời:
+
+Cách 1:  Để tìm kiếm thông tin điểm chuẩn/tổ hợp xét tuyển/số lượng chỉ tiêu tuyển sinh năm 2021 em có thể tìm kiếm bằng cách xem tại bài viết này: Thông tin tuyển sinh đại học chính quy năm 2021 ĐHBKHN
+
+Cách 2: (Khuyến khích em sử dụng cách này!)
+
+Em chọn vào menu "TUYỂN SINH ĐẠI HỌC", chọn tiếp đến "CHƯƠNG TRÌNH ĐÀO TẠO ĐẠI HỌC".
+
+
+
+Tại đây sẽ liệt kê toàn bộ các chương trình đào tạo đại học chính quy mà trường ĐH Bách Khoa Hà Nội đang tuyển sinh năm nay. Em có thể tìm bằng cách sử dụng một trong các hình thức, bao gồm: 
+
+1/ Gõ từ khóa hoặc mã xét tuyển ngành cần tìm vào ô tìm kiếm. 
+
+2/ Tìm/lọc ra các ngành theo 1 trong 3 loại chương trình đào tạo: Chương trình chuẩn - Chương trình Elitech - Chương trình Hợp tác quốc tế. 
+Tại mỗi chương trình đào tạo, em có thể thấy được rất nhiều thông tin quan trọng mà mình cần quan tâm khi tìm hiểu về ngành đó. 
+
+Ví dụ như: 
+
+- Ngôn ngữ đào tạo 
+
+- Mã xét tuyển: Mã ngành sẽ được điền vào phiếu đăng ký nguyện vọng của Bộ GDĐT khi các em đăng ký xét tuyển diện thi TN THPT. 
+
+(?) Mã xét tuyển có 2 dòng: Dòng đầu là xét tuyển theo các tổ hợp thi TN THPT; Dòng thứ hai (có chữ x nhỏ) là xét tuyển theo các tổ hợp khi các em chọn xét bằng điểm Bài kiểm tra tư duy. 
+
+Khi di chuột lên từng tên tổ hợp xét tuyển (VD: A00, A01...). Em sẽ biết môn chính của ngành này là gì 
+
+(?) Chi tiết chương trình đào tạo: Nhấp chuột trái vào Chi tiết, em sẽ biết được ngành này tổng quan là gì Chương trình đào tạo học những môn nào Học phí Lộ trình học từ Cử nhân đến sau cử nhân Cơ hội học bổng Cơ hội nghề nghiệp khi ra trường Thuộc viện nào.... 
+
+
+CÂU HỎI 2: Công thức tính điểm xét tuyển vào ĐHBKHN?
+
+Trả lời:
+
+Bước 1: Em cần xác định xem tổ hợp xét tuyển đăng ký theo chương trình đào tạo của mình có môn chính hay không? (Xem hướng dẫn tại Câu hỏi 1).
+
+Bước 2: 
+(a) Đối với tổ hợp môn không có môn chính 
+
+ĐX = [Môn 1 + Môn 2 + Môn3] + Điểm ưu tiên KV/ĐT + Điểm ưu tiên xét tuyển. 
+
+(b) Đối với tổ hợp môn có môn chính
+
+ ĐX = [Môn chính x 2 + Môn2 + Môn3] x ¾ + Điểm ưu tiên KV/ĐT + Điểm ưu tiên xét tuyển (làm tròn đến 2 chữ số thập phân).
+(c) Đối với tổ hợp BK1, BK2, BK3: Xác định điểm thi bằng điểm bài thi tư duy. Các tổ hợp xét tuyển bằng điểm bài thi tư duy sẽ có thang điểm chuẩn riêng, độc lập với thang điểm chuẩn của các tổ hợp thi TN THPT. 
+
+Lưu ý: Năm tuyển sinh 2021 KHÔNG ÁP DỤNG hình thức cộng điểm ưu tiên xét tuyển nào nên Điểm ưu tiên xét tuyển ở công thức trên cho năm tuyển sinh 2021 bằng không (0). 
+CÂU HỎI 3: Tại sao lại có một mức điểm chuẩn thấp - cao tại mỗi chương trình đào tạo?
+
+Trả lời: 
+
+Nếu em tìm hiểu thông tin tuyển sinh năm 2020, đây là năm đầu tiên ĐHBKHN bắt đầu đưa phương thức xét tuyển bằng điểm bài thi tư duy vào là 1 trong 3 phương thức xét tuyển vào trường. Bài thi tư duy có tính chất đặc thù, độ khó cao hơn nên điểm xét theo các tổ hợp A19, A20 của năm ngoái mặt bằng chung thấp. 
+
+Các tổ hợp xét tuyển bằng điểm bài thi tư duy sẽ có thang điểm chuẩn riêng, độc lập với thang điểm chuẩn của các tổ hợp thi TN THPT do đó tồn tại 2 mức điểm chuẩn tại một chương trình đào tạo. 
+
+(*) Khi em đăng ký xét tuyển trên phiếu đăng ký nguyện vọng của Bộ GD&ĐT bằng cả tổ hợp BK1, BK2, BK3 và tổ hợp thi TN THPT, chỉ cần đủ điểm chuẩn của một trong 2 phương thức, đương nhiên em đủ điều kiện trúng tuyển vào ngành đó.
+CÂU HỎI 5: Hình thức phỏng vấn diện xét tuyển theo hồ sơ là gì? Khi nào sẽ phỏng vấn?
+
+Nhà trường sẽ lên danh sách và gửi email/điện thoại tới các bạn đủ điều kiện (trên mức 55 điểm (điểm sàn)) để thông báo tới các em lịch phỏng vấn sau ngày 18/4/2021. 
+
+Hình thức phỏng vấn: Trực tiếp hoặc Trực tuyến (Khuyến khích thí sinh phỏng vấn trực tiếp, trong trường hợp bất khả kháng hoặc do tình hình hình dịch Covid, thí sinh sẽ đăng ký trực tuyến với nhà trường) 
+
+Chuẩn bị: Máy tính kết nối mạng và tai nghe có micro 
+
+Thời gian phỏng vấn: Kể từ sau 18/4 đến 31/5/2021 
+
+
+
+CÂU HỎI 6: Em muốn đăng ký bài thi tư duy? Đóng lệ phí tham dự bài thi tư duy?
+
+Trả lời: Hệ thống đăng ký bài thi tư duy mở từ ngày 20/4/2021 đến ngày 18/5/2021. 
+
+Để đăng ký bài thi tư duy, em cần thực hiện tuần tự các Bước 1, Bước 2 và Bước 5. Xem bài hướng dẫn TẠI ĐÂY. 
+
+Để đăng ký bài thi tư duy, em cần thực hiện tuần tự các Bước 1, Bước 2 và Bước 5. Xem bài hướng dẫn . 
+
+Sau ngày 10/6/2021, phòng tuyển sinh sẽ cập nhật danh sách, những bạn đạt điều kiện sơ tuyển để tham dự bài thi tư duy, khi đó em mới thực hiện đóng lệ phí dự thi bài kiểm tra tư duy theo Hướng dẫn này
+
+
+CÂU HỎI 7: Liệu thi bài thi tư duy có phải là bắt buộc nếu muốn vào ĐHBKHN?
+
+Trả lời: Không bắt buộc!
+
+Bài thi tư duy là 1 trong 3 "con đường" để vào ĐHBKHN.
+
+Bài thi tư duy không bắt buộc, là tùy chọn có thể tham gia hoặc không. "3 con đường" gồm:
+
+(1) Xét tuyển thẳng (xét tuyển tài năng);
+
+(2) Thi bài kiểm tra tư duy;
+
+(3) Thi TN THPT
+
+
+
+
+
+
+
+
+
+
+
+
+
+Điểm trung bình 6 học kỳ (điểm các kỳ có thể bù trừ cho nhau MIỄN LÀ trung bình chung phải đạt từ 7,0 trở lên). 
+
+
+
+Bạn A thi tổ hợp A00 (Toán - Lý - Hóa). 
+
+- Bạn A đạt điểm 6 kỳ môn Toán THPT là: 7 - 8 - - 9 - 9 - 10  49. Bình quân 6 kỳ là  Bạn A ĐẠT môn Toán (Mặc dù có 1 kỳ bị 6 điểm môn Toán). 
+
+- Bạn A đạt điểm 6 kỳ môn Lý THPT là: 6 - 6 - 6 - 7 - 7 - 9  41. Bình quân 6 kỳ là  Bạn A môn Lý. 
+
+- Bạn A đạt điểm 6 kỳ môn Hóa THPT là: 8 - 8 - 8 - 9 - 9 - 10  52. Bình quân 6 kỳ là  Bạn A ĐẠT môn Hóa. 
+
+Vậy, tổng kết lại, bạn A 
+
+
+
+
+
+Thí sinh sẽ bắt đầu đăng ký bài kiểm tra tư duy trên hệ thống dangkytuyensinh.hust.edu.vn kể từ 28/4/2021. Và phải chọn tổ hợp sẽ thi tự chọn BK1, BK2, BK3 
+
+Điểm trung bình chung các học kỳ môn Toán, Lý, Hóa (ở THPT) đạt từ 7,0 trở lên (điểm các kỳ có thể bù trừ cho nhau nhưng trung bình chung phải đạt từ 7,0 trở lên). 
+
+Điểm trung bình chung các học kỳ môn Toán, Hóa, Sinh (ở THPT) đạt từ 7,0 trở lên (điểm các kỳ có thể bù trừ cho nhau nhưng trung bình chung phải đạt từ 7,0 trở lên). 
+
+Điểm trung bình chung các học kỳ môn Toán, Tiếng Anh (ở THPT) đạt từ 7,0 trở lên (điểm các kỳ có thể bù trừ cho nhau nhưng trung bình chung phải đạt từ 7,0 trở lên). 
+
+
+
+
+
+Điểm trung bình chung học tập từng năm học lớp 10, 11 và 12 các môn (Trừ Giáo dục quốc phòng và Thể dục) đạt từ 8,0 trở lên (Điểm các môn có thể bù trừ cho nhau, miễn là trung bình chung từng năm học trên 8,0) 
+
+
+
+
+
+- Thí sinh được công nhận tốt nghiệp THPT 
+
+(Không yêu cầu điều kiện điểm trung bình chung học tập từng năm) 
+
+
+
+
+
+
+
+Em sẽ phải xác nhận tạm thời ngay sau khi biết kết quả trúng tuyển thẳng (sau ngày 31/5/2021) và xác nhận chính thức trước khi kết thúc đợt điều chỉnh nguyện vọng lần cuối trên website của Bộ GDĐT. 
+
+Do chưa kết thúc thời gian đăng ký xét tuyển thẳng nên phòng tuyển sinh chưa công bố bài hướng dẫn về thủ tục/hồ sơ. Em có thể tham khảo thêm: 
+
+
+
+
+
+
+
+Theo như trả lời tại câu hỏi 9, em phải xác nhận tạm thời ngay sau khi biết kết quả trúng tuyển thẳng (sau ngày 31/5/2021) và xác nhận chính thức trước khi kết thúc đợt điều chỉnh nguyện vọng lần cuối trên website của Bộ GDĐT. 
+
+Do đó, nếu em xác nhận trúng tuyển thẳng vào ĐHBKHN, hệ thống sẽ ngắt các đăng ký nguyện vọng của em diện thi TN THPT. Ngược lại, nếu em bỏ qua quyền lợi tuyển thẳng, không xác nhận trúng tuyển thẳng thì cho dù đậu hay trượt nguyện vọng thi TN THPT, em cũng không thể quay trở lại chọn ngành mình đã trúng tuyển thẳng. 
+
+
+
+
+
+
+
+Trước khi đặt câu hỏi, em hãy tự chủ động tìm hiểu trước tại đây: 
+
+Gõ từ khóa (hoặc nhiều từ khóa khác nhau) và chờ 3 giây để hiển thị. 
+
+Xem thêm: 
+
+
+
+
+
+Nhiều câu hỏi được hỏi và trả lời nhiều lần 
+
+Ngoài ra, ban quản trị website đã tạo hẳn một thư mục để em có thể vào xem và tìm các câu hỏi/trả lời về thông tin tuyển sinh năm 2021 của trường ĐHBKHN. 
+
+Trong trường hợp không tìm thấy câu trả lời ở mục Hỏi Đáp, các em có thể sử dụng tiếp các kênh tìm kiếm và liên hệ khác như gọi qua hotline, chat qua fanpage, group... 
+
+Xem thêm: 
+
+
+
+
+
+
+
+
+
+Chỉ cần em học tốt các môn theo tổ hợp môn xét tuyển vào ngành đó, đặc biệt là môn Toán (vì là môn chính), yêu thích, đam mê với ngành em đăng ký thì em hoàn toàn có thể theo đuổi và học tốt ngành em đã chọn. 
+
+Việc trình độ tin học của em thấp (coi như là bằng không đi) thì khi vào học sẽ được đào tạo dần dần. Chỉ cần em chăm chỉ học tập thì chắc chắn sẽ đủ năng lực để theo đuổi ngành này. 
+
+Thầy vẫn nhấn mạnh với em rằng 80 quyết định việc em có thành công ngành đó hay không là ở SỰ CHĂM CHỈ. Chứ không phải em đã có những kiến thức cơ bản Tin học hay chưa. 
+
+
+
+
+
+
+
+
+
+Các chương trình Elitech (trừ CNTT Việt Nhật học tiếng Nhật tăng cường, Chương trình Việt Pháp học tiếng Pháp tăng cường) giảng dạy . Sẽ có 1 số môn đại cương giảng dạy tiếng Việt để giúp các bạn sinh viên đỡ bỡ ngỡ như Triết học, Lịch sử Đảng, Tư tưởng Hồ Chí Minh... 
+
+Ngoài ra, khi vào học, nhà trường có tổ chức các lớp bổ trợ Tiếng Anh 1, Tiếng Anh 2 (chưa kể là nhiều hội nhóm, CLB tiếng Anh do các bạn sinh viên trong trường lập nên), lúc này cơ hội học tập của em và nhiều bạn khác (thi tổ hợp A00, B00...) đều ngang nhau. Mà tiếng Anh muốn học tốt cần đến hơn 80 bởi 
+
+Sau này đi làm, các công ty thường trả lương cao hơn với bạn biết hơn 1 ngoại ngữ, nên em hãy cố gắng học thêm ngoại ngữ để sau này xin việc có nhiều cơ hội hơn. So sánh vui thế này: em nhé. 
+
+
+
+
+
+
+
+Việc quy đổi điểm với chứng chỉ IELTS chỉ áp dụng với các tổ hợp có môn tiếng Anh. Rõ ràng là tổ hợp A00 (Toán - Lý - Hóa) không có môn tiếng Anh nên không thể áp dụng quy đổi điểm. 
+
+Xem thêm: . 
+
+
+
+
+
+
+
+
+
+Không áp dụng cộng điểm ưu tiên với trường hợp chứng chỉ IELTS, mà chỉ xét tuyển thẳng bằng chứng chỉ IELTS vào các ngành Ngôn ngữ Anh và Kinh tế quản lý. Nhóm các ngành này em xem 
+
+
+
+
+
+
+
+Để tìm thông tin các khoa viện, hoặc đặt câu hỏi tư vấn về ngành, em hãy click vào mục Viện đào tạo. Tại đây sẽ có thông tin địa chỉ/sơ đồ, facebook, group của các khoa viện. Em truy cập và đặt câu hỏi. 
+
+
+
+
+
+Xem chi tiết các chương trình đào tạo, học bổng,... đặt câu hỏi tại fanpage, group các khoa viện. 
+
+Hoặc liên hệ qua số điện thoại tư vấn tuyển sinh tại các khoa viện - . 
+
+
+
+() Nếu em có những câu hỏi khác nữa, ngoài 16 câu hỏi trên, . Tại mục HỎI - ĐÁP trên website Tuyển sinh ĐH Bách Khoa Hà Nội, tại: 
+
+() Các mốc thời gian tuyển sinh năm 2021 và lưu ý: 
+
+
+
+
+
+Lưu tin 
+
+Bình luận 
+
+
+
+
+
+
+
+Chia sẻ 
+
+
+
+
+

@@ -1,0 +1,336 @@
+Cách tính điểm xét tuyển ĐHBK Hà Nội năm 2022 21/09/2022 
+
+Theo đề án tuyển sinh, năm 2022, Trường ĐHBK Hà Nội có 03 phương thức xét tuyển, bao gồm: 1/ Xét tuyển tài năng (Xét tuyển thẳng); 2/ Xét tuyển theo kết quả Kỳ thi đánh giá tư duy; 3/ Xét tuyển theo kết quả Kỳ thi tốt nghiệp THPT. Trong đó, phương thức xét tuyển theo kết quả Kỳ thi đánh giá tư duy chiếm đa số với 50-60 tổng chỉ tiêu toàn trường. 
+
+Kỳ thi đánh giá tư duy diễn ra duy nhất một ngày vào 15/7 với tổng số hơn 7000 thí sinh tham dự. Về cấu trúc, bài thi tổ hợp của Kỳ thi diễn ra trong 270 phút, gồm hai phần: Phần bắt buộc (Toán và Đọc hiểu  120 phút), Phần tự chọn (Tự chọn Khoa học tự nhiên  90 phút; hoặc Tự chọn Tiếng Anh  60 phút). Theo đó, các tổ hợp xét tuyển tương ứng với bài thi đánh giá tư duy là: 
+- K00: Toán - Đọc hiểu - Khoa học tự nhiên - Tiếng Anh 
+- K01: Toán - Đọc hiểu - Khoa học tự nhiên 
+- K02: Toán - Đọc hiểu - Tiếng Anh 
+
+Thí sinh xét tuyển bằng kết quả của Bài thi đánh giá tư duy tính điểm theo công thức như sau:
+- Với tổ hợp K00, Điểm Xét tuyển = (Điểm Toán + Điểm Đọc hiểu + Điểm KHTN + Điểm Tiếng Anh)*0.75 + Điểm ƯTXT (Đối tượng + Khu vực), Thang điểm 30
+- Với tổ hợp K01, Điểm Xét tuyển = Điểm Toán + Điểm Đọc hiểu + Điểm KHTN + Điểm ƯTXT (Đối tượng + Khu vực), Thang điểm 30
+- Với tổ hợp K02, Điểm Xét tuyển = Điểm Toán + Điểm Đọc Hiểu + Điểm Tiếng Anh + Điểm ƯTXT (Đối tượng + Khu vực), Thang điểm 30
+Lưu ý: Điểm tiếng Anh = MAX (Điểm thi tiếng Anh tư duy, Điểm quy đổi tiếng Anh nếu có)
+
+Thí sinh xét tuyển bằng kết quả Kỳ thi tốt nghiệp THPT sử dụng tổ hợp xét tuyển không có môn chính, cách tính điểm xét tuyển như sau: Điểm Xét tuyển* = [(Môn 1 + Môn 2 + Môn 3)] + Điểm ƯTXT (Đối tượng + Khu vực)
+
+Ví dụ, thí sinh tham gia Kỳ thi Tốt nghiệp THPT năm 2022, sử dụng tổ hợp A00 xét tuyển vào ngành Kế toán, Mã xét tuyển EM4y, có kết quả thi là: Môn Toán: 9 điểm, Môn Lý: 9.5 điểm, Môn Hóa: 6.25 điểm, không có điểm ưu tiên khu vực hoặc đối tượng, thì tổng điểm xét tuyển là: 9 + 9.5 + 6.25 = 24.75 điểm
+
+Thí sinh xét tuyển bằng kết quả Kỳ thi tốt nghiệp THPT sử dụng tổ hợp xét tuyển có môn chính, cách tính điểm xét tuyển như sau: Điểm Xét tuyển* = [(Môn 1 + Môn 2 + Môn 3 + Môn chính) *0.75] + Điểm ƯTXT (Đối tượng + Khu vực)
+
+Ví dụ, thí sinh tham gia Kỳ thi Tốt nghiệp THPT năm 2021, sử dụng tổ hợp A00 xét tuyển vào ngành Kỹ thuật Vật liệu, Mã xét tuyển MS1y, Môn Toán là môn chính, có kết quả thi là: Môn Toán: 8.75 điểm, Môn Lý: 9 điểm, Môn Hóa: 9 điểm, điểm ưu tiên là 0.25, thì tổng điểm xét tuyển là: (8.75 * 2 + 9 + 9) x 0.75) + 0.25 = 26.88
+Điểm xét tuyển theo mỗi phương thức xét tuyển đều làm tròn đến 2 chữ số sau dấu thập phân.
+
+Năm 2022, không có ngành/chương trình đào tạo nào của ĐHBK Hà Nội sử dụng đến tiêu chí phụ để xét tuyển. Tuy nhiên, thí sinh lưu ý ngưỡng đảm bảo chất lượng đầu vào (điều kiện học bạ) của ĐHBK Hà Nội đối với từng phương thức xét tuyển.
+
+Thí sinh có thể xét tuyển bằng cả kết quả Kỳ thi tốt nghiệp THPT và Bài Kiểm tra tư duy do ĐHBK Hà Nội tổ chức và đăng ký nguyện vọng trên hệ thống xét tuyển chung của Bộ Giáo dục-Đào tạo.
+
+Thí sinh tham khảo các mã xét tuyển vào ngành/chương trình đào tạo của ĐHBK Hà Nội sử dụng các tổ hợp xét tuyển có hoặc không có môn chính tại bảng dưới đây:
+1, Tên ngành: Kỹ thuật Sinh học, Chỉ tiêu chung: 120
+	- Mã phương thức xét tuyển: BF1, Phương thức xét tuyển: XTTN, Chỉ tiêu xét tuyển: 36, Tổ hợp xét tuyển 1: Không có, Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+	- Mã phương thức xét tuyển: BF1x, Phương thức xét tuyển: ĐGTD, Chỉ tiêu xét tuyển: 48, Tổ hợp chính của Tổ hợp xét tuyển 1: K00, Môn chính của Tổ hợp xét tuyển 1: Không có, Tổ hợp chính của Tổ hợp xét tuyển 2: K01, Môn chính của Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+	- Mã phương thức xét tuyển: BF1y, Phương thức xét tuyển: THPT, Chỉ tiêu xét tuyển: 36, Tổ hợp chính của Tổ hợp xét tuyển 1: A00, Môn chính của Tổ hợp xét tuyển 1: Toán, Tổ hợp chính của Tổ hợp xét tuyển 2: B00, Môn chính của Tổ hợp xét tuyển 2: Toán, Tổ hợp chính của Tổ hợp xét tuyển 3: D07, Môn chính của Tổ hợp xét tuyển 3: Toán
+
+2, Tên ngành: Kỹ thuật Thực phẩm, Chỉ tiêu chung: 200
+	- Mã phương thức xét tuyển: BF2, Phương thức xét tuyển: XTTN, Chỉ tiêu xét tuyển: 60, Tổ hợp xét tuyển 1: Không có, Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+	- Mã phương thức xét tuyển: BF2x, Phương thức xét tuyển: ĐGTD, Chỉ tiêu xét tuyển: 80, Tổ hợp chính của Tổ hợp xét tuyển 1: K00, Môn chính của Tổ hợp xét tuyển 1: Không có, Tổ hợp chính của Tổ hợp xét tuyển 2: K01, Môn chính của Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+	- Mã phương thức xét tuyển: BF2y, Phương thức xét tuyển: THPT, Chỉ tiêu xét tuyển: 60, Tổ hợp chính của Tổ hợp xét tuyển 1: A00, Môn chính của Tổ hợp xét tuyển 1: Toán, Tổ hợp chính của Tổ hợp xét tuyển 2: B00, Môn chính của Tổ hợp xét tuyển 2: Toán, Tổ hợp chính của Tổ hợp xét tuyển 3: D07, Môn chính của Tổ hợp xét tuyển 3: Toán
+
+3, Tên ngành: Kỹ thuật Thực phẩm (CT tiên tiến), Chỉ tiêu chung: 80
+	- Mã phương thức xét tuyển: BF-E12, Phương thức xét tuyển: XTTN, Chỉ tiêu xét tuyển: 16, Tổ hợp xét tuyển 1: Không có, Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+	- Mã phương thức xét tuyển: BF-E12x, Phương thức xét tuyển: ĐGTD, Chỉ tiêu xét tuyển: 40, Tổ hợp chính của Tổ hợp xét tuyển 1: K00, Môn chính của Tổ hợp xét tuyển 1: Không có, Tổ hợp chính của Tổ hợp xét tuyển 2: K01, Môn chính của Tổ hợp xét tuyển 2: Không có, Tổ hợp chính của Tổ hợp xét tuyển 3: K02, Môn chính của Tổ hợp xét tuyển 3: Không có
+	- Mã phương thức xét tuyển: BF-E12y, Phương thức xét tuyển: THPT, Chỉ tiêu xét tuyển: 24, Tổ hợp chính của Tổ hợp xét tuyển 1: A00, Môn chính của Tổ hợp xét tuyển 1: Toán, Tổ hợp chính của Tổ hợp xét tuyển 2: B00, Môn chính của Tổ hợp xét tuyển 2: Toán, Tổ hợp chính của Tổ hợp xét tuyển 3: D07, Môn chính của Tổ hợp xét tuyển 3: Toán
+
+4, Tên ngành: Kỹ thuật Hóa học, Chỉ tiêu chung: 600
+	- Mã phương thức xét tuyển: CH1, Phương thức xét tuyển: XTTN, Chỉ tiêu xét tuyển: 60, Tổ hợp xét tuyển 1: Không có, Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+	- Mã phương thức xét tuyển: CH1x, Phương thức xét tuyển: ĐGTD, Chỉ tiêu xét tuyển: 240, Tổ hợp chính của Tổ hợp xét tuyển 1: K00, Môn chính của Tổ hợp xét tuyển 1: Không có, Tổ hợp chính của Tổ hợp xét tuyển 2: K01, Môn chính của Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+	- Mã phương thức xét tuyển: CH1y, Phương thức xét tuyển: THPT, Chỉ tiêu xét tuyển: 300, Tổ hợp chính của Tổ hợp xét tuyển 1: A00, Môn chính của Tổ hợp xét tuyển 1: Toán, Tổ hợp chính của Tổ hợp xét tuyển 2: B00, Môn chính của Tổ hợp xét tuyển 2: Toán, Tổ hợp chính của Tổ hợp xét tuyển 3: D07, Môn chính của Tổ hợp xét tuyển 3: Toán
+
+5, Tên ngành: Hóa học, Chỉ tiêu chung: 120
+	- Mã phương thức xét tuyển: CH2, Phương thức xét tuyển: XTTN, Chỉ tiêu xét tuyển: 24, Tổ hợp xét tuyển 1: Không có, Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+	- Mã phương thức xét tuyển: CH2x, Phương thức xét tuyển: ĐGTD, Chỉ tiêu xét tuyển: 60, Tổ hợp chính của Tổ hợp xét tuyển 1: K00, Môn chính của Tổ hợp xét tuyển 1: Không có, Tổ hợp chính của Tổ hợp xét tuyển 2: K01, Môn chính của Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+	- Mã phương thức xét tuyển: CH2y, Phương thức xét tuyển: THPT, Chỉ tiêu xét tuyển: 36, Tổ hợp chính của Tổ hợp xét tuyển 1: A00, Môn chính của Tổ hợp xét tuyển 1: Toán, Tổ hợp chính của Tổ hợp xét tuyển 2: B00, Môn chính của Tổ hợp xét tuyển 2: Toán, Tổ hợp chính của Tổ hợp xét tuyển 3: D07, Môn chính của Tổ hợp xét tuyển 3: Toán
+
+6, Tên ngành: Kỹ thuật in, Chỉ tiêu chung: 50
+	- Mã phương thức xét tuyển: CH3, Phương thức xét tuyển: XTTN, Chỉ tiêu xét tuyển: 2, Tổ hợp xét tuyển 1: Không có, Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+	- Mã phương thức xét tuyển: CH3x, Phương thức xét tuyển: ĐGTD, Chỉ tiêu xét tuyển: 18, Tổ hợp chính của Tổ hợp xét tuyển 1: K00, Môn chính của Tổ hợp xét tuyển 1: Không có, Tổ hợp chính của Tổ hợp xét tuyển 2: K01, Môn chính của Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+	- Mã phương thức xét tuyển: CH3y, Phương thức xét tuyển: THPT, Chỉ tiêu xét tuyển: 30, Tổ hợp chính của Tổ hợp xét tuyển 1: A00, Môn chính của Tổ hợp xét tuyển 1: Toán, Tổ hợp chính của Tổ hợp xét tuyển 2: B00, Môn chính của Tổ hợp xét tuyển 2: Toán, Tổ hợp chính của Tổ hợp xét tuyển 3: D07, Môn chính của Tổ hợp xét tuyển 3: Toán
+
+7, Tên ngành: Kỹ thuật Hóa dược (CT tiên tiến), Chỉ tiêu chung: 80
+	- Mã phương thức xét tuyển: CH-E11, Phương thức xét tuyển: XTTN, Chỉ tiêu xét tuyển: 24, Tổ hợp xét tuyển 1: Không có, Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+	- Mã phương thức xét tuyển: CH-E11x, Phương thức xét tuyển: ĐGTD, Chỉ tiêu xét tuyển: 32, Tổ hợp chính của Tổ hợp xét tuyển 1: K00, Môn chính của Tổ hợp xét tuyển 1: Không có, Tổ hợp chính của Tổ hợp xét tuyển 2: K01, Môn chính của Tổ hợp xét tuyển 2: Không có, Tổ hợp chính của Tổ hợp xét tuyển 3: K02, Môn chính của Tổ hợp xét tuyển 3: Không có
+	- Mã phương thức xét tuyển: CH-E11y, Phương thức xét tuyển: THPT, Chỉ tiêu xét tuyển: 24, Tổ hợp chính của Tổ hợp xét tuyển 1: A00, Môn chính của Tổ hợp xét tuyển 1: Toán, Tổ hợp chính của Tổ hợp xét tuyển 2: B00, Môn chính của Tổ hợp xét tuyển 2: Toán, Tổ hợp chính của Tổ hợp xét tuyển 3: D07, Môn chính của Tổ hợp xét tuyển 3: Toán
+
+8, Tên ngành: Công nghệ giáo dục, Chỉ tiêu chung: 60
+	- Mã phương thức xét tuyển: ED2, Phương thức xét tuyển: XTTN, Chỉ tiêu xét tuyển: 6, Tổ hợp xét tuyển 1: Không có, Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+	- Mã phương thức xét tuyển: ED2x, Phương thức xét tuyển: ĐGTD, Chỉ tiêu xét tuyển: 30, Tổ hợp chính của Tổ hợp xét tuyển 1: K00, Môn chính của Tổ hợp xét tuyển 1: Không có, Tổ hợp chính của Tổ hợp xét tuyển 2: K01, Môn chính của Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+	- Mã phương thức xét tuyển: ED2y, Phương thức xét tuyển: THPT, Chỉ tiêu xét tuyển: 24, Tổ hợp chính của Tổ hợp xét tuyển 1: A00, Môn chính của Tổ hợp xét tuyển 1: Không có, Tổ hợp chính của Tổ hợp xét tuyển 2: A01, Môn chính của Tổ hợp xét tuyển 2: Không có, Tổ hợp chính của Tổ hợp xét tuyển 3: D01, Môn chính của Tổ hợp xét tuyển 3: Không có
+
+9, Tên ngành: Kỹ thuật Điện, Chỉ tiêu chung: 220
+	- Mã phương thức xét tuyển: EE1, Phương thức xét tuyển: XTTN, Chỉ tiêu xét tuyển: 44, Tổ hợp xét tuyển 1: Không có, Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+	- Mã phương thức xét tuyển: EE1x, Phương thức xét tuyển: ĐGTD, Chỉ tiêu xét tuyển: 88, Tổ hợp chính của Tổ hợp xét tuyển 1: K00, Môn chính của Tổ hợp xét tuyển 1: Không có, Tổ hợp chính của Tổ hợp xét tuyển 2: K01, Môn chính của Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+	- Mã phương thức xét tuyển: EE1y, Phương thức xét tuyển: THPT, Chỉ tiêu xét tuyển: 88, Tổ hợp chính của Tổ hợp xét tuyển 1: A00, Môn chính của Tổ hợp xét tuyển 1: Toán, Tổ hợp chính của Tổ hợp xét tuyển 2: A01, Môn chính của Tổ hợp xét tuyển 2: Toán, Tổ hợp xét tuyển 3: Không có
+
+10, Tên ngành: Kỹ thuật Điều khiển - Tự động hoá, Chỉ tiêu chung: 500
+	- Mã phương thức xét tuyển: EE2, Phương thức xét tuyển: XTTN, Chỉ tiêu xét tuyển: 100, Tổ hợp xét tuyển 1: Không có, Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+	- Mã phương thức xét tuyển: EE2x, Phương thức xét tuyển: ĐGTD, Chỉ tiêu xét tuyển: 250, Tổ hợp chính của Tổ hợp xét tuyển 1: K00, Môn chính của Tổ hợp xét tuyển 1: Không có, Tổ hợp chính của Tổ hợp xét tuyển 2: K01, Môn chính của Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+	- Mã phương thức xét tuyển: EE2y, Phương thức xét tuyển: THPT, Chỉ tiêu xét tuyển: 150, Tổ hợp chính của Tổ hợp xét tuyển 1: A00, Môn chính của Tổ hợp xét tuyển 1: Toán, Tổ hợp chính của Tổ hợp xét tuyển 2: A01, Môn chính của Tổ hợp xét tuyển 2: Toán, Tổ hợp xét tuyển 3: Không có
+
+11, Tên ngành: Hệ thống điện và năng lượng tái tạo (CT tiên tiến), Chỉ tiêu chung: 50
+	- Mã phương thức xét tuyển: EE-E18, Phương thức xét tuyển: XTTN, Chỉ tiêu xét tuyển: 10, Tổ hợp xét tuyển 1: Không có, Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+	- Mã phương thức xét tuyển: EE-E18x, Phương thức xét tuyển: ĐGTD, Chỉ tiêu xét tuyển: 25, Tổ hợp chính của Tổ hợp xét tuyển 1: K00, Môn chính của Tổ hợp xét tuyển 1: Không có, Tổ hợp chính của Tổ hợp xét tuyển 2: K01, Môn chính của Tổ hợp xét tuyển 2: Không có, Tổ hợp chính của Tổ hợp xét tuyển 3: K02, Môn chính của Tổ hợp xét tuyển 3: Không có
+	- Mã phương thức xét tuyển: EE-E18y, Phương thức xét tuyển: THPT, Chỉ tiêu xét tuyển: 15, Tổ hợp chính của Tổ hợp xét tuyển 1: A00, Môn chính của Tổ hợp xét tuyển 1: Toán, Tổ hợp chính của Tổ hợp xét tuyển 2: A01, Môn chính của Tổ hợp xét tuyển 2: Toán, Tổ hợp xét tuyển 3: Không có
+
+12. Tên ngành: Kỹ thuật Điều khiển - Tự động hoá (CT tiên tiến), Chỉ tiêu chung: 100
+    - Mã phương thức xét tuyển: EE-E8, Phương thức xét tuyển: XTTN, Chỉ tiêu xét tuyển: 20, Tổ hợp xét tuyển 1: Không có, Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+    - Mã phương thức xét tuyển: EE-E8x, Phương thức xét tuyển: ĐGTD, Chỉ tiêu xét tuyển: 50, Tổ hợp chính của Tổ hợp xét tuyển 1: K00, Môn chính của Tổ hợp xét tuyển 1: Không có, Tổ hợp chính của Tổ hợp xét tuyển 2: K01, Môn chính của Tổ hợp xét tuyển 2: Không có, Tổ hợp chính của Tổ hợp xét tuyển 3: K02, Môn chính của Tổ hợp xét tuyển 3: Không có
+    - Mã phương thức xét tuyển: EE-E8y, Phương thức xét tuyển: THPT, Chỉ tiêu xét tuyển: 30, Tổ hợp chính của Tổ hợp xét tuyển 1: A00, Môn chính của Tổ hợp xét tuyển 1: Toán, Tổ hợp chính của Tổ hợp xét tuyển 2: A01, Môn chính của Tổ hợp xét tuyển 2: Toán, Tổ hợp xét tuyển 3: Không có
+
+13. Tên ngành: Tin học công nghiệp và Tự động hóa (Chương trình Việt - Pháp PFIEV), Chỉ tiêu chung: 35
+    - Mã phương thức xét tuyển: EE-EP, Phương thức xét tuyển: XTTN, Chỉ tiêu xét tuyển: 7, Tổ hợp xét tuyển 1: Không có, Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+    - Mã phương thức xét tuyển: EE-EPx, Phương thức xét tuyển: ĐGTD, Chỉ tiêu xét tuyển: 14, Tổ hợp chính của Tổ hợp xét tuyển 1: K00, Môn chính của Tổ hợp xét tuyển 1: Không có, Tổ hợp chính của Tổ hợp xét tuyển 2: K01, Môn chính của Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+    - Mã phương thức xét tuyển: EE-EPy, Phương thức xét tuyển: THPT, Chỉ tiêu xét tuyển: 14, Tổ hợp chính của Tổ hợp xét tuyển 1: A00, Môn chính của Tổ hợp xét tuyển 1: Toán, Tổ hợp chính của Tổ hợp xét tuyển 2: A01, Môn chính của Tổ hợp xét tuyển 2: Toán, Tổ hợp chính của Tổ hợp xét tuyển 3: D29, Môn chính của Tổ hợp xét tuyển 3: Toán
+
+14. Tên ngành: Kinh tế công nghiệp, Chỉ tiêu chung: 60
+    - Mã phương thức xét tuyển: EM1, Phương thức xét tuyển: XTTN, Chỉ tiêu xét tuyển: 12, Tổ hợp xét tuyển 1: Không có, Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+    - Mã phương thức xét tuyển: EM1x, Phương thức xét tuyển: ĐGTD, Chỉ tiêu xét tuyển: 30, Tổ hợp chính của Tổ hợp xét tuyển 1: K00, Môn chính của Tổ hợp xét tuyển 1: Không có, Tổ hợp chính của Tổ hợp xét tuyển 2: K01, Môn chính của Tổ hợp xét tuyển 2: Không có, Tổ hợp chính của Tổ hợp xét tuyển 3: K02, Môn chính của Tổ hợp xét tuyển 3: Không có
+    - Mã phương thức xét tuyển: EM1y, Phương thức xét tuyển: THPT, Chỉ tiêu xét tuyển: 18, Tổ hợp chính của Tổ hợp xét tuyển 1: A00, Môn chính của Tổ hợp xét tuyển 1: Không có, Tổ hợp chính của Tổ hợp xét tuyển 2: A01, Môn chính của Tổ hợp xét tuyển 2: Không có, Tổ hợp chính của Tổ hợp xét tuyển 3: D01, Môn chính của Tổ hợp xét tuyển 3: Toán
+
+15. Tên ngành: Quản lý công nghiệp, Chỉ tiêu chung: 80
+    - Mã phương thức xét tuyển: EM2, Phương thức xét tuyển: XTTN, Chỉ tiêu xét tuyển: 16, Tổ hợp xét tuyển 1: Không có, Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+    - Mã phương thức xét tuyển: EM2x, Phương thức xét tuyển: ĐGTD, Chỉ tiêu xét tuyển: 40, Tổ hợp chính của Tổ hợp xét tuyển 1: K00, Môn chính của Tổ hợp xét tuyển 1: Không có, Tổ hợp chính của Tổ hợp xét tuyển 2: K01, Môn chính của Tổ hợp xét tuyển 2: Không có, Tổ hợp chính của Tổ hợp xét tuyển 3: K02, Môn chính của Tổ hợp xét tuyển 3: Không có
+    - Mã phương thức xét tuyển: EM2y, Phương thức xét tuyển: THPT, Chỉ tiêu xét tuyển: 24, Tổ hợp chính của Tổ hợp xét tuyển 1: A00, Môn chính của Tổ hợp xét tuyển 1: Không có, Tổ hợp chính của Tổ hợp xét tuyển 2: A01, Môn chính của Tổ hợp xét tuyển 2: Không có, Tổ hợp chính của Tổ hợp xét tuyển 3: D01, Môn chính của Tổ hợp xét tuyển 3: Toán
+
+16. Tên ngành: Quản trị kinh doanh, Chỉ tiêu chung: 120
+    - Mã phương thức xét tuyển: EM3, Phương thức xét tuyển: XTTN, Chỉ tiêu xét tuyển: 24, Tổ hợp xét tuyển 1: Không có, Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+    - Mã phương thức xét tuyển: EM3x, Phương thức xét tuyển: ĐGTD, Chỉ tiêu xét tuyển: 60, Tổ hợp chính của Tổ hợp xét tuyển 1: K00, Môn chính của Tổ hợp xét tuyển 1: Không có, Tổ hợp chính của Tổ hợp xét tuyển 2: K01, Môn chính của Tổ hợp xét tuyển 2: Không có, Tổ hợp chính của Tổ hợp xét tuyển 3: K02, Môn chính của Tổ hợp xét tuyển 3: Không có
+    - Mã phương thức xét tuyển: EM3y, Phương thức xét tuyển: THPT, Chỉ tiêu xét tuyển: 36, Tổ hợp chính của Tổ hợp xét tuyển 1: A00, Môn chính của Tổ hợp xét tuyển 1: Không có, Tổ hợp chính của Tổ hợp xét tuyển 2: A01, Môn chính của Tổ hợp xét tuyển 2: Không có, Tổ hợp chính của Tổ hợp xét tuyển 3: D01, Môn chính của Tổ hợp xét tuyển 3: Toán
+
+17. Tên ngành: Kế toán, Chỉ tiêu chung: 80
+    - Mã phương thức xét tuyển: EM4, Phương thức xét tuyển: XTTN, Chỉ tiêu xét tuyển: 16, Tổ hợp xét tuyển 1: Không có, Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+    - Mã phương thức xét tuyển: EM4x, Phương thức xét tuyển: ĐGTD, Chỉ tiêu xét tuyển: 40, Tổ hợp chính của Tổ hợp xét tuyển 1: K00, Môn chính của Tổ hợp xét tuyển 1: Không có, Tổ hợp chính của Tổ hợp xét tuyển 2: K01, Môn chính của Tổ hợp xét tuyển 2: Không có, Tổ hợp chính của Tổ hợp xét tuyển 3: K02, Môn chính của Tổ hợp xét tuyển 3: Không có
+    - Mã phương thức xét tuyển: EM4y, Phương thức xét tuyển: THPT, Chỉ tiêu xét tuyển: 24, Tổ hợp chính của Tổ hợp xét tuyển 1: A00, Môn chính của Tổ hợp xét tuyển 1: Không có, Tổ hợp chính của Tổ hợp xét tuyển 2: A01, Môn chính của Tổ hợp xét tuyển 2: Không có, Tổ hợp chính của Tổ hợp xét tuyển 3: D01, Môn chính của Tổ hợp xét tuyển 3: Toán
+
+18. Tên ngành: Tài chính - Ngân hàng, Chỉ tiêu chung: 60
+    - Mã phương thức xét tuyển: EM5, Phương thức xét tuyển: XTTN, Chỉ tiêu xét tuyển: 12, Tổ hợp xét tuyển 1: Không có, Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+    - Mã phương thức xét tuyển: EM5x, Phương thức xét tuyển: ĐGTD, Chỉ tiêu xét tuyển: 30, Tổ hợp chính của Tổ hợp xét tuyển 1: K00, Môn chính của Tổ hợp xét tuyển 1: Không có, Tổ hợp chính của Tổ hợp xét tuyển 2: K01, Môn chính của Tổ hợp xét tuyển 2: Không có, Tổ hợp chính của Tổ hợp xét tuyển 3: K02, Môn chính của Tổ hợp xét tuyển 3: Không có
+    - Mã phương thức xét tuyển: EM5y, Phương thức xét tuyển: THPT, Chỉ tiêu xét tuyển: 18, Tổ hợp chính của Tổ hợp xét tuyển 1: A00, Môn chính của Tổ hợp xét tuyển 1: Không có, Tổ hợp chính của Tổ hợp xét tuyển 2: A01, Môn chính của Tổ hợp xét tuyển 2: Không có, Tổ hợp chính của Tổ hợp xét tuyển 3: D01, Môn chính của Tổ hợp xét tuyển 3: Toán
+
+19. Tên ngành: Phân tích kinh doanh (CT tiên tiến), Chỉ tiêu chung: 80
+    - Mã phương thức xét tuyển: EM-E13, Phương thức xét tuyển: XTTN, Chỉ tiêu xét tuyển: 24, Tổ hợp xét tuyển 1: Không có, Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+    - Mã phương thức xét tuyển: EM-E13x, Phương thức xét tuyển: ĐGTD, Chỉ tiêu xét tuyển: 40, Tổ hợp chính của Tổ hợp xét tuyển 1: K00, Môn chính của Tổ hợp xét tuyển 1: Không có, Tổ hợp chính của Tổ hợp xét tuyển 2: K01, Môn chính của Tổ hợp xét tuyển 2: Không có, Tổ hợp chính của Tổ hợp xét tuyển 3: K02, Môn chính của Tổ hợp xét tuyển 3: Không có
+    - Mã phương thức xét tuyển: EM-E13y, Phương thức xét tuyển: THPT, Chỉ tiêu xét tuyển: 16, Tổ hợp chính của Tổ hợp xét tuyển 1: D07, Môn chính của Tổ hợp xét tuyển 1: Không có, Tổ hợp chính của Tổ hợp xét tuyển 2: A01, Môn chính của Tổ hợp xét tuyển 2: Không có, Tổ hợp chính của Tổ hợp xét tuyển 3: D01, Môn chính của Tổ hợp xét tuyển 3: Toán
+
+20. Tên ngành: Logistics và Quản lý chuỗi cung ứng (CT tiên tiến), Chỉ tiêu chung: 120
+    - Mã phương thức xét tuyển: EM-E14, Phương thức xét tuyển: XTTN, Chỉ tiêu xét tuyển: 36, Tổ hợp xét tuyển 1: Không có, Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+    - Mã phương thức xét tuyển: EM-E14x, Phương thức xét tuyển: ĐGTD, Chỉ tiêu xét tuyển: 60, Tổ hợp chính của Tổ hợp xét tuyển 1: K00, Môn chính của Tổ hợp xét tuyển 1: Không có, Tổ hợp chính của Tổ hợp xét tuyển 2: K01, Môn chính của Tổ hợp xét tuyển 2: Không có, Tổ hợp chính của Tổ hợp xét tuyển 3: K02, Môn chính của Tổ hợp xét tuyển 3: Không có
+    - Mã phương thức xét tuyển: EM-E14y, Phương thức xét tuyển: THPT, Chỉ tiêu xét tuyển: 24, Tổ hợp chính của Tổ hợp xét tuyển 1: D07, Môn chính của Tổ hợp xét tuyển 1: Không có, Tổ hợp chính của Tổ hợp xét tuyển 2: A01, Môn chính của Tổ hợp xét tuyển 2: Không có, Tổ hợp chính của Tổ hợp xét tuyển 3: D01, Môn chính của Tổ hợp xét tuyển 3: Toán
+
+21. Tên ngành: Kỹ thuật Điện tử - Viễn thông, Chỉ tiêu chung: 480
+    - Mã phương thức xét tuyển: ET1, Phương thức xét tuyển: XTTN, Chỉ tiêu xét tuyển: 96, Tổ hợp xét tuyển 1: Không có, Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+    - Mã phương thức xét tuyển: ET1x, Phương thức xét tuyển: ĐGTD, Chỉ tiêu xét tuyển: 240, Tổ hợp chính của Tổ hợp xét tuyển 1: K00, Môn chính của Tổ hợp xét tuyển 1: Không có, Tổ hợp chính của Tổ hợp xét tuyển 2: K01, Môn chính của Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+    - Mã phương thức xét tuyển: ET1y, Phương thức xét tuyển: THPT, Chỉ tiêu xét tuyển: 144, Tổ hợp chính của Tổ hợp xét tuyển 1: A00, Môn chính của Tổ hợp xét tuyển 1: Toán, Tổ hợp chính của Tổ hợp xét tuyển 2: A01, Môn chính của Tổ hợp xét tuyển 2: Toán, Tổ hợp xét tuyển 3: Không có
+
+22. Tên ngành: Kỹ thuật Y sinh (mới), Chỉ tiêu chung: 80
+    - Mã phương thức xét tuyển: ET2, Phương thức xét tuyển: XTTN, Chỉ tiêu xét tuyển: 16, Tổ hợp xét tuyển 1: Không có, Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+    - Mã phương thức xét tuyển: ET2x, Phương thức xét tuyển: ĐGTD, Chỉ tiêu xét tuyển: 32, Tổ hợp chính của Tổ hợp xét tuyển 1: K00, Môn chính của Tổ hợp xét tuyển 1: Không có, Tổ hợp chính của Tổ hợp xét tuyển 2: K01, Môn chính của Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+    - Mã phương thức xét tuyển: ET2y, Phương thức xét tuyển: THPT, Chỉ tiêu xét tuyển: 32, Tổ hợp chính của Tổ hợp xét tuyển 1: A00, Môn chính của Tổ hợp xét tuyển 1: Toán, Tổ hợp chính của Tổ hợp xét tuyển 2: A01, Môn chính của Tổ hợp xét tuyển 2: Toán, Tổ hợp chính của Tổ hợp xét tuyển 3: B00, Môn chính của Tổ hợp xét tuyển 3: Toán
+23. Tên ngành: Truyền thông số và Kỹ thuật đa phương tiện (CT tiên tiến), Chỉ tiêu chung: 40
+    - Mã phương thức xét tuyển: ET-E16, Phương thức xét tuyển: XTTN, Chỉ tiêu xét tuyển: 12, Tổ hợp xét tuyển 1: Không có, Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+    - Mã phương thức xét tuyển: ET-E16x, Phương thức xét tuyển: ĐGTD, Chỉ tiêu xét tuyển: 20, Tổ hợp chính của Tổ hợp xét tuyển 1: K00, Môn chính của Tổ hợp xét tuyển 1: Không có, Tổ hợp chính của Tổ hợp xét tuyển 2: K01, Môn chính của Tổ hợp xét tuyển 2: Không có, Tổ hợp chính của Tổ hợp xét tuyển 3: K02, Môn chính của Tổ hợp xét tuyển 3: Không có
+    - Mã phương thức xét tuyển: ET-E16y, Phương thức xét tuyển: THPT, Chỉ tiêu xét tuyển: 8, Tổ hợp chính của Tổ hợp xét tuyển 1: A00, Môn chính của Tổ hợp xét tuyển 1: Toán, Tổ hợp chính của Tổ hợp xét tuyển 2: A01, Môn chính của Tổ hợp xét tuyển 2: Toán, Tổ hợp xét tuyển 3: Không có
+
+24. Tên ngành: Kỹ thuật Điện tử - Viễn thông (CT tiên tiến), Chỉ tiêu chung: 60
+    - Mã phương thức xét tuyển: ET-E4, Phương thức xét tuyển: XTTN, Chỉ tiêu xét tuyển: 12, Tổ hợp xét tuyển 1: Không có, Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+    - Mã phương thức xét tuyển: ET-E4x, Phương thức xét tuyển: ĐGTD, Chỉ tiêu xét tuyển: 30, Tổ hợp chính của Tổ hợp xét tuyển 1: K00, Môn chính của Tổ hợp xét tuyển 1: Không có, Tổ hợp chính của Tổ hợp xét tuyển 2: K01, Môn chính của Tổ hợp xét tuyển 2: Không có, Tổ hợp chính của Tổ hợp xét tuyển 3: K02, Môn chính của Tổ hợp xét tuyển 3: Không có
+    - Mã phương thức xét tuyển: ET-E4y, Phương thức xét tuyển: THPT, Chỉ tiêu xét tuyển: 18, Tổ hợp chính của Tổ hợp xét tuyển 1: A00, Môn chính của Tổ hợp xét tuyển 1: Toán, Tổ hợp chính của Tổ hợp xét tuyển 2: A01, Môn chính của Tổ hợp xét tuyển 2: Toán, Tổ hợp xét tuyển 3: Không có
+
+25. Tên ngành: Kỹ thuật Y sinh (CT tiên tiến), Chỉ tiêu chung: 40
+    - Mã phương thức xét tuyển: ET-E5, Phương thức xét tuyển: XTTN, Chỉ tiêu xét tuyển: 8, Tổ hợp xét tuyển 1: Không có, Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+    - Mã phương thức xét tuyển: ET-E5x, Phương thức xét tuyển: ĐGTD, Chỉ tiêu xét tuyển: 20, Tổ hợp chính của Tổ hợp xét tuyển 1: K00, Môn chính của Tổ hợp xét tuyển 1: Không có, Tổ hợp chính của Tổ hợp xét tuyển 2: K01, Môn chính của Tổ hợp xét tuyển 2: Không có, Tổ hợp chính của Tổ hợp xét tuyển 3: K02, Môn chính của Tổ hợp xét tuyển 3: Không có
+    - Mã phương thức xét tuyển: ET-E5y, Phương thức xét tuyển: THPT, Chỉ tiêu xét tuyển: 12, Tổ hợp chính của Tổ hợp xét tuyển 1: A00, Môn chính của Tổ hợp xét tuyển 1: Toán, Tổ hợp chính của Tổ hợp xét tuyển 2: A01, Môn chính của Tổ hợp xét tuyển 2: Toán, Tổ hợp xét tuyển 3: Không có
+
+26. Tên ngành: Hệ thống nhúng thông minh và IoT (CT tiên tiến), Chỉ tiêu chung: 60
+    - Mã phương thức xét tuyển: ET-E9, Phương thức xét tuyển: XTTN, Chỉ tiêu xét tuyển: 12, Tổ hợp xét tuyển 1: Không có, Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+    - Mã phương thức xét tuyển: ET-E9x, Phương thức xét tuyển: ĐGTD, Chỉ tiêu xét tuyển: 30, Tổ hợp chính của Tổ hợp xét tuyển 1: K00, Môn chính của Tổ hợp xét tuyển 1: Không có, Tổ hợp chính của Tổ hợp xét tuyển 2: K01, Môn chính của Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+    - Mã phương thức xét tuyển: ET-E9y, Phương thức xét tuyển: THPT, Chỉ tiêu xét tuyển: 18, Tổ hợp chính của Tổ hợp xét tuyển 1: A00, Môn chính của Tổ hợp xét tuyển 1: Toán, Tổ hợp chính của Tổ hợp xét tuyển 2: A01, Môn chính của Tổ hợp xét tuyển 2: Toán, Tổ hợp chính của Tổ hợp xét tuyển 3: D28, Môn chính của Tổ hợp xét tuyển 3: Toán
+
+27. Tên ngành: Điện tử - Viễn thông - hợp tác với ĐH Leibniz Hannover (Đức), Chỉ tiêu chung: 40
+    - Mã phương thức xét tuyển: ET-LUH, Phương thức xét tuyển: XTTN, Chỉ tiêu xét tuyển: 4, Tổ hợp xét tuyển 1: Không có, Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+    - Mã phương thức xét tuyển: ET-LUHx, Phương thức xét tuyển: ĐGTD, Chỉ tiêu xét tuyển: 24, Tổ hợp chính của Tổ hợp xét tuyển 1: K00, Môn chính của Tổ hợp xét tuyển 1: Không có, Tổ hợp chính của Tổ hợp xét tuyển 2: K01, Môn chính của Tổ hợp xét tuyển 2: Không có, Tổ hợp chính của Tổ hợp xét tuyển 3: K02, Môn chính của Tổ hợp xét tuyển 3: Không có
+    - Mã phương thức xét tuyển: ET-LUHy, Phương thức xét tuyển: THPT, Chỉ tiêu xét tuyển: 12, Tổ hợp chính của Tổ hợp xét tuyển 1: A00, Môn chính của Tổ hợp xét tuyển 1: Toán, Tổ hợp chính của Tổ hợp xét tuyển 2: A01, Môn chính của Tổ hợp xét tuyển 2: Toán, Tổ hợp chính của Tổ hợp xét tuyển 3: D26, Môn chính của Tổ hợp xét tuyển 3: Toán
+
+28. Tên ngành: Kỹ thuật Môi trường, Chỉ tiêu chung: 120
+    - Mã phương thức xét tuyển: EV1, Phương thức xét tuyển: XTTN, Chỉ tiêu xét tuyển: 6, Tổ hợp xét tuyển 1: Không có, Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+    - Mã phương thức xét tuyển: EV1x, Phương thức xét tuyển: ĐGTD, Chỉ tiêu xét tuyển: 42, Tổ hợp chính của Tổ hợp xét tuyển 1: K00, Môn chính của Tổ hợp xét tuyển 1: Không có, Tổ hợp chính của Tổ hợp xét tuyển 2: K01, Môn chính của Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+    - Mã phương thức xét tuyển: EV1y, Phương thức xét tuyển: THPT, Chỉ tiêu xét tuyển: 72, Tổ hợp chính của Tổ hợp xét tuyển 1: A00, Môn chính của Tổ hợp xét tuyển 1: Toán, Tổ hợp chính của Tổ hợp xét tuyển 2: B00, Môn chính của Tổ hợp xét tuyển 2: Toán, Tổ hợp chính của Tổ hợp xét tuyển 3: D07, Môn chính của Tổ hợp xét tuyển 3: Toán
+
+29. Tên ngành: Quản lý tài nguyên và môi trường, Chỉ tiêu chung: 80
+    - Mã phương thức xét tuyển: EV2, Phương thức xét tuyển: XTTN, Chỉ tiêu xét tuyển: 4, Tổ hợp xét tuyển 1: Không có, Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không
+
+ có
+    - Mã phương thức xét tuyển: EV2x, Phương thức xét tuyển: ĐGTD, Chỉ tiêu xét tuyển: 28, Tổ hợp chính của Tổ hợp xét tuyển 1: K00, Môn chính của Tổ hợp xét tuyển 1: Không có, Tổ hợp chính của Tổ hợp xét tuyển 2: K01, Môn chính của Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+    - Mã phương thức xét tuyển: EV2y, Phương thức xét tuyển: THPT, Chỉ tiêu xét tuyển: 48, Tổ hợp chính của Tổ hợp xét tuyển 1: A00, Môn chính của Tổ hợp xét tuyển 1: Toán, Tổ hợp chính của Tổ hợp xét tuyển 2: B00, Môn chính của Tổ hợp xét tuyển 2: Toán, Tổ hợp chính của Tổ hợp xét tuyển 3: D07, Môn chính của Tổ hợp xét tuyển 3: Toán
+
+30. Tên ngành: Tiếng Anh KHKT và Công nghệ, Chỉ tiêu chung: 150
+    - Mã phương thức xét tuyển: FL1, Phương thức xét tuyển: XTTN, Chỉ tiêu xét tuyển: 15, Tổ hợp xét tuyển 1: Không có, Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+    - Mã phương thức xét tuyển: FL1x, Phương thức xét tuyển: ĐGTD, Chỉ tiêu xét tuyển: 45, Tổ hợp chính của Tổ hợp xét tuyển 1: K02, Môn chính của Tổ hợp xét tuyển 1: Anh, Tổ hợp chính của Tổ hợp xét tuyển 2: Không có, Tổ hợp chính của Tổ hợp xét tuyển 3: Không có
+    - Mã phương thức xét tuyển: FL1y, Phương thức xét tuyển: THPT, Chỉ tiêu xét tuyển: 90, Tổ hợp chính của Tổ hợp xét tuyển 1: D01, Môn chính của Tổ hợp xét tuyển 1: Anh, Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+
+31. Tên ngành: Tiếng Anh chuyên nghiệp quốc tế, Chỉ tiêu chung: 70
+    - Mã phương thức xét tuyển: FL2, Phương thức xét tuyển: XTTN, Chỉ tiêu xét tuyển: 7, Tổ hợp xét tuyển 1: Không có, Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+    - Mã phương thức xét tuyển: FL2x, Phương thức xét tuyển: ĐGTD, Chỉ tiêu xét tuyển: 21, Tổ hợp chính của Tổ hợp xét tuyển 1: K02, Môn chính của Tổ hợp xét tuyển 1: Anh, Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+    - Mã phương thức xét tuyển: FL2y, Phương thức xét tuyển: THPT, Chỉ tiêu xét tuyển: 42, Tổ hợp chính của Tổ hợp xét tuyển 1: D01, Môn chính của Tổ hợp xét tuyển 1: Anh, Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+
+32. Tên ngành: Kỹ thuật Nhiệt, Chỉ tiêu chung: 250
+    - Mã phương thức xét tuyển: HE1, Phương thức xét tuyển: XTTN, Chỉ tiêu xét tuyển: 12, Tổ hợp xét tuyển 1: Không có, Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+    - Mã phương thức xét tuyển: HE1x, Phương thức xét tuyển: ĐGTD, Chỉ tiêu xét tuyển: 113, Tổ hợp chính của Tổ hợp xét tuyển 1: K00, Môn chính của Tổ hợp xét tuyển 1: Không có, Tổ hợp chính của Tổ hợp xét tuyển 2: K01, Môn chính của Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+    - Mã phương thức xét tuyển: HE1y, Phương thức xét tuyển: THPT, Chỉ tiêu xét tuyển: 125, Tổ hợp chính của Tổ hợp xét tuyển 1: A00, Môn chính của Tổ hợp xét tuyển 1: Toán, Tổ hợp chính của Tổ hợp xét tuyển 2: A01, Môn chính của Tổ hợp xét tuyển 2: Toán, Tổ hợp xét tuyển 3: Không có
+
+33. Tên ngành: CNTT: Khoa học Máy tính, Chỉ tiêu chung: 300
+    - Mã phương thức xét tuyển: IT1, Phương thức xét tuyển: XTTN, Chỉ tiêu xét tuyển: 150, Tổ hợp xét tuyển 1: Không có, Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+    - Mã phương thức xét tuyển: IT1x, Phương thức xét tuyển: ĐGTD, Chỉ tiêu xét tuyển: 150, Tổ hợp chính của Tổ hợp xét tuyển 1: K00, Môn chính của Tổ hợp xét tuyển 1: Không có, Tổ hợp chính của Tổ hợp xét tuyển 2: K01, Môn chính của Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+    - Mã phương thức xét tuyển: IT1y, Phương thức xét tuyển: THPT, Chỉ tiêu xét tuyển: 0, Tổ hợp chính của Tổ hợp xét tuyển 1: Không có, Môn chính của Tổ hợp xét tuyển 1: Không có, Tổ hợp chính của Tổ hợp xét tuyển 2: Không có, Môn chính của Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+
+34. Tên ngành: CNTT: Kỹ thuật Máy tính, Chỉ tiêu chung: 200
+    - Mã phương thức xét tuyển: IT2, Phương thức xét tuyển: XTTN, Chỉ tiêu xét tuyển: 60, Tổ hợp xét tuyển 1: Không có, Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+    - Mã phương thức xét tuyển: IT2x, Phương thức xét tuyển: ĐGTD, Chỉ tiêu xét tuyển: 80, Tổ hợp chính của Tổ hợp xét tuyển 1: K00, Môn chính của Tổ hợp xét tuyển 1: Không có, Tổ hợp chính của Tổ hợp xét tuyển 2: K01, Môn chính của Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+    - Mã phương thức xét tuyển: IT2y, Phương thức xét tuyển: THPT, Chỉ tiêu xét tuyển: 60, Tổ hợp chính của Tổ hợp xét tuyển 1: A00, Môn chính của Tổ hợp xét tuyển 1: Toán, Tổ hợp chính của Tổ hợp xét tuyển 2: A01, Môn chính của Tổ hợp xét tuyển 2: Toán, Tổ hợp xét tuyển 3: Không có
+
+35. Tên ngành: Khoa học dữ liệu và Trí tuệ nhân tạo (CT tiên tiến), Chỉ tiêu chung: 100
+    - Mã phương thức xét tuyển: IT-E10, Phương thức xét tuyển: XTTN, Chỉ tiêu xét tuyển: 50, Tổ hợp xét tuyển 1: Không có, Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+    - Mã phương thức xét tuyển: IT-E10x, Phương thức xét tuyển: ĐGTD, Chỉ tiêu xét tuyển: 50, Tổ hợp chính của Tổ hợp xét tuyển 1: K00, Môn chính của Tổ hợp xét tuyển 1: Không có, Tổ hợp chính của Tổ hợp xét tuyển 2: K01, Môn chính của Tổ hợp xét tuyển 2: Không có, Tổ hợp chính của Tổ hợp xét tuyển 3: K02, Môn chính của Tổ hợp xét tuyển 3: Không có
+    - Mã phương thức xét tuyển: IT-E10y, Phương thức xét tuyển: THPT, Chỉ tiêu xét tuyển: 0, Tổ hợp xét tuyển 1: Không có, Môn chính của Tổ hợp xét tuyển 1: Không có, Tổ hợp xét tuyển 2: Không có, Môn chính của Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+
+36. Tên ngành: An toàn không gian số - Cyber security (CT tiên tiến), Chỉ tiêu chung: 40
+    - Mã phương thức xét tuyển: IT-E15, Phương thức xét tuyển: XTTN, Chỉ tiêu xét tuyển: 20, Tổ hợp xét tuyển 1: Không có, Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+    - Mã phương
+
+ thức xét tuyển: IT-E15x, Phương thức xét tuyển: ĐGTD, Chỉ tiêu xét tuyển: 20, Tổ hợp chính của Tổ hợp xét tuyển 1: K00, Môn chính của Tổ hợp xét tuyển 1: Không có, Tổ hợp chính của Tổ hợp xét tuyển 2: K01, Môn chính của Tổ hợp xét tuyển 2: Không có, Tổ hợp chính của Tổ hợp xét tuyển 3: K02, Môn chính của Tổ hợp xét tuyển 3: Không có
+    - Mã phương thức xét tuyển: IT-E15y, Phương thức xét tuyển: THPT, Chỉ tiêu xét tuyển: 0, Tổ hợp xét tuyển 1: Không có, Môn chính của Tổ hợp xét tuyển 1: Không có, Tổ hợp xét tuyển 2: Không có, Môn chính của Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+
+37. Tên ngành: Công nghệ thông tin (Việt - Nhật), Chỉ tiêu chung: 240
+    - Mã phương thức xét tuyển: IT-E6, Phương thức xét tuyển: XTTN, Chỉ tiêu xét tuyển: 72, Tổ hợp xét tuyển 1: Không có, Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+    - Mã phương thức xét tuyển: IT-E6x, Phương thức xét tuyển: ĐGTD, Chỉ tiêu xét tuyển: 96, Tổ hợp chính của Tổ hợp xét tuyển 1: K00, Môn chính của Tổ hợp xét tuyển 1: Không có, Tổ hợp chính của Tổ hợp xét tuyển 2: K01, Môn chính của Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+    - Mã phương thức xét tuyển: IT-E6y, Phương thức xét tuyển: THPT, Chỉ tiêu xét tuyển: 72, Tổ hợp chính của Tổ hợp xét tuyển 1: A00, Môn chính của Tổ hợp xét tuyển 1: Toán, Tổ hợp chính của Tổ hợp xét tuyển 2: A01, Môn chính của Tổ hợp xét tuyển 2: Toán, Tổ hợp chính của Tổ hợp xét tuyển 3: D28, Môn chính của Tổ hợp xét tuyển 3: Toán
+
+38. Tên ngành: Công nghệ thông tin (Global ICT), Chỉ tiêu chung: 100
+	- Mã phương thức xét tuyển: IT-E7, Phương thức xét tuyển: XTTN, Chỉ tiêu xét tuyển: 50, Tổ hợp xét tuyển 1: Không có, Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+	- Mã phương thức xét tuyển: IT-E7x, Phương thức xét tuyển: ĐGTD, Chỉ tiêu xét tuyển: 50, Tổ hợp chính của Tổ hợp xét tuyển 1: K00, Môn chính của Tổ hợp xét tuyển 1: Không có, Tổ hợp chính của Tổ hợp xét tuyển 2: K01, Môn chính của Tổ hợp xét tuyển 2: Không có, Tổ hợp chính của Tổ hợp xét tuyển 3: K02, Môn chính của Tổ hợp xét tuyển 3: Không có
+	- Mã phương thức xét tuyển: IT-E7y, Phương thức xét tuyển: THPT, Chỉ tiêu xét tuyển: 0, Tổ hợp xét tuyển 1: Không có, Môn chính của Tổ hợp xét tuyển 1: Không có, Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+
+39. Tên ngành: Công nghệ thông tin (Việt - Pháp), Chỉ tiêu chung: 40
+	- Mã phương thức xét tuyển: IT-EP, Phương thức xét tuyển: XTTN, Chỉ tiêu xét tuyển: 20, Tổ hợp xét tuyển 1: Không có, Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+	- Mã phương thức xét tuyển: IT-EPx, Phương thức xét tuyển: ĐGTD, Chỉ tiêu xét tuyển: 20, Tổ hợp chính của Tổ hợp xét tuyển 1: K00, Môn chính của Tổ hợp xét tuyển 1: Không có, Tổ hợp chính của Tổ hợp xét tuyển 2: K01, Môn chính của Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+	- Mã phương thức xét tuyển: IT-EPy, Phương thức xét tuyển: THPT, Chỉ tiêu xét tuyển: 0, Tổ hợp xét tuyển 1: Không có, Môn chính của Tổ hợp xét tuyển 1: Không có, Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+
+40. Tên ngành: Kỹ thuật Cơ điện tử, Chỉ tiêu chung: 300
+	- Mã phương thức xét tuyển: ME1, Phương thức xét tuyển: XTTN, Chỉ tiêu xét tuyển: 45, Tổ hợp xét tuyển 1: Không có, Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+	- Mã phương thức xét tuyển: ME1x, Phương thức xét tuyển: ĐGTD, Chỉ tiêu xét tuyển: 135, Tổ hợp chính của Tổ hợp xét tuyển 1: K00, Môn chính của Tổ hợp xét tuyển 1: Không có, Tổ hợp chính của Tổ hợp xét tuyển 2: K01, Môn chính của Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+	- Mã phương thức xét tuyển: ME1y, Phương thức xét tuyển: THPT, Chỉ tiêu xét tuyển: 120, Tổ hợp chính của Tổ hợp xét tuyển 1: A00, Môn chính của Tổ hợp xét tuyển 1: Toán, Tổ hợp chính của Tổ hợp xét tuyển 2: A01, Môn chính của Tổ hợp xét tuyển 2: Toán, Tổ hợp xét tuyển 3: Không có
+
+41. Tên ngành: Kỹ thuật Cơ khí, Chỉ tiêu chung: 500
+	- Mã phương thức xét tuyển: ME2, Phương thức xét tuyển: XTTN, Chỉ tiêu xét tuyển: 25, Tổ hợp xét tuyển 1: Không có, Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+	- Mã phương thức xét tuyển: ME2x, Phương thức xét tuyển: ĐGTD, Chỉ tiêu xét tuyển: 225, Tổ hợp chính của Tổ hợp xét tuyển 1: K00, Môn chính của Tổ hợp xét tuyển 1: Không có, Tổ hợp chính của Tổ hợp xét tuyển 2: K01, Môn chính của Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+	- Mã phương thức xét tuyển: ME2y, Phương thức xét tuyển: THPT, Chỉ tiêu xét tuyển: 250, Tổ hợp chính của Tổ hợp xét tuyển 1: A00, Môn chính của Tổ hợp xét tuyển 1: Toán, Tổ hợp chính của Tổ hợp xét tuyển 2: A01, Môn chính của Tổ hợp xét tuyển 2: Toán, Tổ hợp xét tuyển 3: Không có
+
+42. Tên ngành: Kỹ thuật Cơ điện tử (CT tiên tiến), Chỉ tiêu chung: 120
+	- Mã phương thức xét tuyển: ME-E1, Phương thức xét tuyển: XTTN, Chỉ tiêu xét tuyển: 24, Tổ hợp xét tuyển 1: Không có, Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+	- Mã phương thức xét tuyển: ME-E1x, Phương thức xét tuyển: ĐGTD, Chỉ tiêu xét tuyển: 60, Tổ hợp chính của Tổ hợp xét tuyển 1: K00, Môn chính của Tổ hợp xét tuyển 1: Không có, Tổ hợp chính của Tổ hợp xét tuyển 2: K01, Môn chính của Tổ hợp xét tuyển 2: Không có, Tổ hợp chính của Tổ hợp xét tuyển 3: K02, Môn chính của Tổ hợp xét tuyển 3: Không có
+	- Mã phương thức xét tuyển: ME-E1y, Phương thức xét tuyển: THPT, Chỉ tiêu xét tuyển: 36, Tổ hợp chính của Tổ hợp xét tuyển 1: A00, Môn chính của Tổ hợp xét tuyển 1: Toán, Tổ hợp chính của Tổ hợp xét tuyển 2: A01, Môn chính của Tổ hợp xét tuyển 2: Toán, Tổ hợp xét tuyển 3: Không có
+
+43. Tên ngành: Cơ khí - Chế tạo máy - hợp tác với ĐH Griffith (Úc), Chỉ tiêu chung: 40
+	- Mã phương thức xét tuyển: ME-GU, Phương thức xét tuyển: XTTN, Chỉ tiêu xét tuyển: 4, Tổ hợp xét tuyển 1: Không có, Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+	- Mã phương thức xét tuyển: ME-GUx, Phương thức xét tuyển: ĐGTD, Chỉ tiêu xét tuyển: 16, Tổ hợp chính của Tổ hợp xét tuyển 1: K00, Môn chính của Tổ hợp xét tuyển 1: Không có, Tổ hợp chính của Tổ hợp xét tuyển 2: K01, Môn chính của Tổ hợp xét tuyển 2: Không có, Tổ hợp chính của Tổ hợp xét tuyển 3: K02, Môn chính của Tổ hợp xét tuyển 3: Không có
+	- Mã phương thức xét tuyển: ME-GUy, Phương thức xét tuyển: THPT, Chỉ tiêu xét tuyển: 20, Tổ hợp chính của Tổ hợp xét tuyển 1: A00, Môn chính của Tổ hợp xét tuyển 1: Toán, Tổ hợp chính của Tổ hợp xét tuyển 2: A01, Môn chính của Tổ hợp xét tuyển 2: Toán, Tổ hợp xét tuyển 3: Không có
+
+44. Tên ngành: Cơ điện tử - hợp tác với ĐH Leibniz Hannover (Đức), Chỉ tiêu chung: 40
+	- Mã phương thức xét tuyển: ME-LUH, Phương thức xét tuyển: XTTN, Chỉ tiêu xét tuyển: 4, Tổ hợp xét tuyển 1: Không có, Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+	- Mã phương thức xét tuyển: ME-LUHx, Phương thức xét tuyển: ĐGTD, Chỉ tiêu xét tuyển: 16, Tổ hợp chính của Tổ hợp xét tuyển 1: K00, Môn chính của Tổ hợp xét tuyển 1: Không có, Tổ hợp chính của Tổ hợp xét tuyển 2: K01, Môn chính của Tổ hợp xét tuyển 2: Không có, Tổ hợp chính của Tổ hợp xét tuyển 3: K02, Môn chính của Tổ hợp xét tuyển 3: Không có
+	- Mã phương thức xét tuyển: ME-LUHy, Phương thức xét tuyển: THPT, Chỉ tiêu xét tuyển: 20, Tổ hợp chính của Tổ hợp xét tuyển 1: A00, Môn chính của Tổ hợp xét tuyển 1: Toán, Tổ hợp chính của Tổ hợp xét tuyển 2: A01, Môn chính của Tổ hợp xét tuyển 2: Toán, Tổ hợp chính của Tổ hợp xét tuyển 3: D26, Môn chính của Tổ hợp xét tuyển 3: Toán
+
+45. Tên ngành: Cơ điện tử - hợp tác với ĐHCN Nagaoka (Nhật Bản), Chỉ tiêu chung: 100
+	- Mã phương thức xét tuyển: ME-NUT, Phương thức xét tuyển: XTTN, Chỉ tiêu xét tuyển: 20, Tổ hợp xét tuyển 1: Không có, Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+	- Mã phương thức xét tuyển: ME-NUTx, Phương thức xét tuyển: ĐGTD, Chỉ tiêu xét tuyển: 30, Tổ hợp chính của Tổ hợp xét tuyển 1: K00, Môn chính của Tổ hợp xét tuyển 1: Không có, Tổ hợp chính của Tổ hợp xét tuyển 2: K01, Môn chính của Tổ hợp xét tuyển 2: Không có, Tổ hợp chính của Tổ hợp xét tuyển 3: K02, Môn chính của Tổ hợp xét tuyển 3: Không có
+	- Mã phương thức xét tuyển: ME-NUTy, Phương thức xét tuyển: THPT, Chỉ tiêu xét tuyển: 50, Tổ hợp chính của Tổ hợp xét tuyển 1: A00, Môn chính của Tổ hợp xét tuyển 1: Toán, Tổ hợp chính của Tổ hợp xét tuyển 2: A01, Môn chính của Tổ hợp xét tuyển 2: Toán, Tổ hợp chính của Tổ hợp xét tuyển 3: D28, Môn chính của Tổ hợp xét tuyển 3: Toán
+
+46. Tên ngành: Toán - Tin, Chỉ tiêu chung: 120
+	- Mã phương thức xét tuyển: MI1, Phương thức xét tuyển: XTTN, Chỉ tiêu xét tuyển: 36, Tổ hợp xét tuyển 1: Không có, Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+	- Mã phương thức xét tuyển: MI1x, Phương thức xét tuyển: ĐGTD, Chỉ tiêu xét tuyển: 48, Tổ hợp chính của Tổ hợp xét tuyển 1: K00, Môn chính của Tổ hợp xét tuyển 1: Không có, Tổ hợp chính của Tổ hợp xét tuyển 2: K01, Môn chính của Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+	- Mã phương thức xét tuyển: MI1y, Phương thức xét tuyển: THPT, Chỉ tiêu xét tuyển: 36, Tổ hợp chính của Tổ hợp xét tuyển 1: A00, Môn chính của Tổ hợp xét tuyển 1: Toán, Tổ hợp chính của Tổ hợp xét tuyển 2: A01, Môn chính của Tổ hợp xét tuyển 2: Toán, Tổ hợp xét tuyển 3: Không có
+
+47. Tên ngành: Hệ thống thông tin quản lý, Chỉ tiêu chung: 60
+	- Mã phương thức xét tuyển: MI2, Phương thức xét tuyển: XTTN, Chỉ tiêu xét tuyển: 18, Tổ hợp xét tuyển 1: Không có, Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+	- Mã phương thức xét tuyển: MI2x, Phương thức xét tuyển: ĐGTD, Chỉ tiêu xét tuyển: 24, Tổ hợp chính của Tổ hợp xét tuyển 1: K00, Môn chính của Tổ hợp xét tuyển 1: Không có, Tổ hợp chính của Tổ hợp xét tuyển 2: K01, Môn chính của Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+	- Mã phương thức xét tuyển: MI2y, Phương thức xét tuyển: THPT, Chỉ tiêu xét tuyển: 18, Tổ hợp chính của Tổ hợp xét tuyển 1: A00, Môn chính của Tổ hợp xét tuyển 1: Toán, Tổ hợp chính của Tổ hợp xét tuyển 2: A01, Môn chính của Tổ hợp xét tuyển 2: Toán, Tổ hợp xét tuyển 3: Không có
+
+48. Tên ngành: Kỹ thuật Vật liệu, Chỉ tiêu chung: 260
+	- Mã phương thức xét tuyển: MS1, Phương thức xét tuyển: XTTN, Chỉ tiêu xét tuyển: 13, Tổ hợp xét tuyển 1: Không có, Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+	- Mã phương thức xét tuyển: MS1x, Phương thức xét tuyển: ĐGTD, Chỉ tiêu xét tuyển: 117, Tổ hợp chính của Tổ hợp xét tuyển 1: K00, Môn chính của Tổ hợp xét tuyển 1: Không có, Tổ hợp chính của Tổ hợp xét tuyển 2: K01, Môn chính của Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+	- Mã phương thức xét tuyển: MS1y, Phương thức xét tuyển: THPT, Chỉ tiêu xét tuyển: 130, Tổ hợp chính của Tổ hợp xét tuyển 1: A00, Môn chính của Tổ hợp xét tuyển 1: Toán, Tổ hợp chính của Tổ hợp xét tuyển 2: A01, Môn chính của Tổ hợp xét tuyển 2: Toán, Tổ hợp chính của Tổ hợp xét tuyển 3: D07, Môn chính của Tổ hợp xét tuyển 3: Toán
+
+49. Tên ngành: KHKT Vật liệu (CT tiên tiến), Chỉ tiêu chung: 60
+	- Mã phương thức xét tuyển: MS-E3, Phương thức xét tuyển: XTTN, Chỉ tiêu xét tuyển: 3, Tổ hợp xét tuyển 1: Không có, Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+	- Mã phương thức xét tuyển: MS-E3x, Phương thức xét tuyển: ĐGTD, Chỉ tiêu xét tuyển: 27, Tổ hợp chính của Tổ hợp xét tuyển 1: K00, Môn chính của Tổ hợp xét tuyển 1: Không có, Tổ hợp chính của Tổ hợp xét tuyển 2: K01, Môn chính của Tổ hợp xét tuyển 2: Không có, Tổ hợp chính của Tổ hợp xét tuyển 3: K02, Môn chính của Tổ hợp xét tuyển 3: Không có
+	- Mã phương thức xét tuyển: MS-E3y, Phương thức xét tuyển: THPT, Chỉ tiêu xét tuyển: 30, Tổ hợp chính của Tổ hợp xét tuyển 1: A00, Môn chính của Tổ hợp xét tuyển 1: Toán, Tổ hợp chính của Tổ hợp xét tuyển 2: A01, Môn chính của Tổ hợp xét tuyển 2: Toán, Tổ hợp xét tuyển 3: Không có
+
+50. Tên ngành: Vật lý kỹ thuật, Chỉ tiêu chung: 160
+	- Mã phương thức xét tuyển: PH1, Phương thức xét tuyển: XTTN, Chỉ tiêu xét tuyển: 8, Tổ hợp xét tuyển 1: Không có, Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+	- Mã phương thức xét tuyển: PH1x, Phương thức xét tuyển: ĐGTD, Chỉ tiêu xét tuyển: 72, Tổ hợp chính của Tổ hợp xét tuyển 1: K00, Môn chính của Tổ hợp xét tuyển 1: Không có, Tổ hợp chính của Tổ hợp xét tuyển 2: K01, Môn chính của Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+	- Mã phương thức xét tuyển: PH1y, Phương thức xét tuyển: THPT, Chỉ tiêu xét tuyển: 80, Tổ hợp chính của Tổ hợp xét tuyển 1: A00, Môn chính của Tổ hợp xét tuyển 1: Toán, Tổ hợp chính của Tổ hợp xét tuyển 2: A01, Môn chính của Tổ hợp xét tuyển 2: Toán, Tổ hợp xét tuyển 3: Không có
+
+51. Tên ngành: Kỹ thuật hạt nhân, Chỉ tiêu chung: 40
+	- Mã phương thức xét tuyển: PH2, Phương thức xét tuyển: XTTN, Chỉ tiêu xét tuyển: 2, Tổ hợp xét tuyển 1: Không có, Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+- Mã phương thức xét tuyển: PH2x, Phương thức xét tuyển: ĐGTD, Chỉ tiêu xét tuyển: 18, Tổ hợp chính của Tổ hợp xét tuyển 1: K00, Môn chính của Tổ hợp xét tuyển 1: Không có, Tổ hợp chính của Tổ hợp xét tuyển 2: K01, Môn chính của Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+	- Mã phương thức xét tuyển: PH2y, Phương thức xét tuyển: THPT, Chỉ tiêu xét tuyển: 20, Tổ hợp chính của Tổ hợp xét tuyển 1: A00, Môn chính của Tổ hợp xét tuyển 1: Toán, Tổ hợp chính của Tổ hợp xét tuyển 2: A01, Môn chính của Tổ hợp xét tuyển 2: Toán, Tổ hợp chính của Tổ hợp xét tuyển 3: A02, Môn chính của Tổ hợp xét tuyển 3: Toán
+
+52. Tên ngành: Vật lý y khoa, Chỉ tiêu chung: 50
+	- Mã phương thức xét tuyển: PH3, Phương thức xét tuyển: XTTN, Chỉ tiêu xét tuyển: 2, Tổ hợp xét tuyển 1: Không có, Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+	- Mã phương thức xét tuyển: PH3x, Phương thức xét tuyển: ĐGTD, Chỉ tiêu xét tuyển: 23, Tổ hợp chính của Tổ hợp xét tuyển 1: K00, Môn chính của Tổ hợp xét tuyển 1: Không có, Tổ hợp chính của Tổ hợp xét tuyển 2: K01, Môn chính của Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+	- Mã phương thức xét tuyển: PH3y, Phương thức xét tuyển: THPT, Chỉ tiêu xét tuyển: 25, Tổ hợp chính của Tổ hợp xét tuyển 1: A00, Môn chính của Tổ hợp xét tuyển 1: Toán, Tổ hợp chính của Tổ hợp xét tuyển 2: A01, Môn chính của Tổ hợp xét tuyển 2: Toán, Tổ hợp chính của Tổ hợp xét tuyển 3: A02, Môn chính của Tổ hợp xét tuyển 3: Toán
+
+53. Tên ngành: Kỹ thuật Ô tô, Chỉ tiêu chung: 200
+	- Mã phương thức xét tuyển: TE1, Phương thức xét tuyển: XTTN, Chỉ tiêu xét tuyển: 40, Tổ hợp xét tuyển 1: Không có, Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+	- Mã phương thức xét tuyển: TE1x, Phương thức xét tuyển: ĐGTD, Chỉ tiêu xét tuyển: 100, Tổ hợp chính của Tổ hợp xét tuyển 1: K00, Môn chính của Tổ hợp xét tuyển 1: Không có, Tổ hợp chính của Tổ hợp xét tuyển 2: K01, Môn chính của Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+	- Mã phương thức xét tuyển: TE1y, Phương thức xét tuyển: THPT, Chỉ tiêu xét tuyển: 60, Tổ hợp chính của Tổ hợp xét tuyển 1: A00, Môn chính của Tổ hợp xét tuyển 1: Toán, Tổ hợp chính của Tổ hợp xét tuyển 2: A01, Môn chính của Tổ hợp xét tuyển 2: Toán, Tổ hợp xét tuyển 3: Không có
+
+54. Tên ngành: Kỹ thuật Cơ khí động lực, Chỉ tiêu chung: 90
+	- Mã phương thức xét tuyển: TE2, Phương thức xét tuyển: XTTN, Chỉ tiêu xét tuyển: 9, Tổ hợp xét tuyển 1: Không có, Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+	- Mã phương thức xét tuyển: TE2x, Phương thức xét tuyển: ĐGTD, Chỉ tiêu xét tuyển: 36, Tổ hợp chính của Tổ hợp xét tuyển 1: K00, Môn chính của Tổ hợp xét tuyển 1: Không có, Tổ hợp chính của Tổ hợp xét tuyển 2: K01, Môn chính của Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+	- Mã phương thức xét tuyển: TE2y, Phương thức xét tuyển: THPT, Chỉ tiêu xét tuyển: 45, Tổ hợp chính của Tổ hợp xét tuyển 1: A00, Môn chính của Tổ hợp xét tuyển 1: Toán, Tổ hợp chính của Tổ hợp xét tuyển 2: A01, Môn chính của Tổ hợp xét tuyển 2: Toán, Tổ hợp xét tuyển 3: Không có
+
+55. Tên ngành: Kỹ thuật Hàng không, Chỉ tiêu chung: 50
+	- Mã phương thức xét tuyển: TE3, Phương thức xét tuyển: XTTN, Chỉ tiêu xét tuyển: 5, Tổ hợp xét tuyển 1: Không có, Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+	- Mã phương thức xét tuyển: TE3x, Phương thức xét tuyển: ĐGTD, Chỉ tiêu xét tuyển: 20, Tổ hợp chính của Tổ hợp xét tuyển 1: K00, Môn chính của Tổ hợp xét tuyển 1: Không có, Tổ hợp chính của Tổ hợp xét tuyển 2: K01, Môn chính của Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+	- Mã phương thức xét tuyển: TE3y, Phương thức xét tuyển: THPT, Chỉ tiêu xét tuyển: 25, Tổ hợp chính của Tổ hợp xét tuyển 1: A00, Môn chính của Tổ hợp xét tuyển 1: Toán, Tổ hợp chính của Tổ hợp xét tuyển 2: A01, Môn chính của Tổ hợp xét tuyển 2: Toán, Tổ hợp xét tuyển 3: Không có
+
+56. Tên ngành: Kỹ thuật Ô tô (CT tiên tiến), Chỉ tiêu chung: 80
+	- Mã phương thức xét tuyển: TE-E2, Phương thức xét tuyển: XTTN, Chỉ tiêu xét tuyển: 16, Tổ hợp xét tuyển 1: Không có, Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+	- Mã phương thức xét tuyển: TE-E2x, Phương thức xét tuyển: ĐGTD, Chỉ tiêu xét tuyển: 40, Tổ hợp chính của Tổ hợp xét tuyển 1: K00, Môn chính của Tổ hợp xét tuyển 1: Không có, Tổ hợp chính của Tổ hợp xét tuyển 2: K01, Môn chính của Tổ hợp xét tuyển 2: Không có, Tổ hợp chính của Tổ hợp xét tuyển 3: K02, Môn chính của Tổ hợp xét tuyển 3: Không có
+	- Mã phương thức xét tuyển: TE-E2y, Phương thức xét tuyển: THPT, Chỉ tiêu xét tuyển: 24, Tổ hợp chính của Tổ hợp xét tuyển 1: A00, Môn chính của Tổ hợp xét tuyển 1: Toán, Tổ hợp chính của Tổ hợp xét tuyển 2: A01, Môn chính của Tổ hợp xét tuyển 2: Toán, Tổ hợp xét tuyển 3: Không có
+
+57. Tên ngành: Cơ khí hàng không (Chương trình Việt - Pháp PFIEV), Chỉ tiêu chung: 35
+	- Mã phương thức xét tuyển: TE-EP, Phương thức xét tuyển: XTTN, Chỉ tiêu xét tuyển: 3, Tổ hợp xét tuyển 1: Không có, Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+	- Mã phương thức xét tuyển: TE-EPx, Phương thức xét tuyển: ĐGTD, Chỉ tiêu xét tuyển: 14, Tổ hợp chính của Tổ hợp xét tuyển 1: K00, Môn chính của Tổ hợp xét tuyển 1: Không có, Tổ hợp chính của Tổ hợp xét tuyển 2: K01, Môn chính của Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+	- Mã phương thức xét tuyển: TE-EPy, Phương thức xét tuyển: THPT, Chỉ tiêu xét tuyển: 18, Tổ hợp chính của Tổ hợp xét tuyển 1: A00, Môn chính của Tổ hợp xét tuyển 1: Toán, Tổ hợp chính của Tổ hợp xét tuyển 2: A01, Môn chính của Tổ hợp xét tuyển 2: Toán, Tổ hợp chính của Tổ hợp xét tuyển 3: D29, Môn chính của Tổ hợp xét tuyển 3: Toán.
+
+58. Tên ngành: Quản trị kinh doanh - hợp tác với ĐH Troy (Hoa Kỳ), Chỉ tiêu chung: 80
+	- Mã phương thức xét tuyển: TROY-BA, Phương thức xét tuyển: XTTN, Chỉ tiêu xét tuyển: 4, Tổ hợp xét tuyển 1: Không có, Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+	- Mã phương thức xét tuyển: TROY-BAx, Phương thức xét tuyển: ĐGTD, Chỉ tiêu xét tuyển: 36, Tổ hợp chính của Tổ hợp xét tuyển 1: K00, Môn chính của Tổ hợp xét tuyển 1: Không có, Tổ hợp chính của Tổ hợp xét tuyển 2: K01, Môn chính của Tổ hợp xét tuyển 2: Không có, Tổ hợp chính của Tổ hợp xét tuyển 3: K02, Môn chính của Tổ hợp xét tuyển 3: Không có
+	- Mã phương thức xét tuyển: TROY-BAy, Phương thức xét tuyển: THPT, Chỉ tiêu xét tuyển: 40, Tổ hợp chính của Tổ hợp xét tuyển 1: A00, Môn chính của Tổ hợp xét tuyển 1: Không có, Tổ hợp chính của Tổ hợp xét tuyển 2: A01, Môn chính của Tổ hợp xét tuyển 2: Không có, Tổ hợp chính của Tổ hợp xét tuyển 3: Không có
+
+59. Tên ngành: Khoa học máy tính - hợp tác với ĐH Troy (Hoa Kỳ), Chỉ tiêu chung: 80
+	- Mã phương thức xét tuyển: TROY-IT, Phương thức xét tuyển: XTTN, Chỉ tiêu xét tuyển: 4, Tổ hợp xét tuyển 1: Không có, Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+	- Mã phương thức xét tuyển: TROY-ITx, Phương thức xét tuyển: ĐGTD, Chỉ tiêu xét tuyển: 36, Tổ hợp chính của Tổ hợp xét tuyển 1: K00, Môn chính của Tổ hợp xét tuyển 1: Không có, Tổ hợp chính của Tổ hợp xét tuyển 2: K01, Môn chính của Tổ hợp xét tuyển 2: Không có, Tổ hợp chính của Tổ hợp xét tuyển 3: K02, Môn chính của Tổ hợp xét tuyển 3: Không có
+	- Mã phương thức xét tuyển: TROY-ITy, Phương thức xét tuyển: THPT, Chỉ tiêu xét tuyển: 40, Tổ hợp chính của Tổ hợp xét tuyển 1: A00, Môn chính của Tổ hợp xét tuyển 1: Không có, Tổ hợp chính của Tổ hợp xét tuyển 2: A01, Môn chính của Tổ hợp xét tuyển 2: Không có, Tổ hợp chính của Tổ hợp xét tuyển 3: Không có
+
+60. Tên ngành: Công nghệ Dệt - May, Chỉ tiêu chung: 220
+	- Mã phương thức xét tuyển: TX1, Phương thức xét tuyển: XTTN, Chỉ tiêu xét tuyển: 11, Tổ hợp xét tuyển 1: Không có, Tổ hợp xét tuyển 2: Không có, Tổ hợp xét tuyển 3: Không có
+	- Mã phương thức xét tuyển: TX1x, Phương thức xét tuyển: ĐGTD, Chỉ tiêu xét tuyển: 77, Tổ hợp chính của Tổ hợp xét tuyển 1: K00, Môn chính của Tổ hợp xét tuyển 1: Không có, Tổ hợp chính của Tổ hợp xét tuyển 2: K01, Môn chính của Tổ hợp xét tuyển 2: Không có, Tổ hợp chính của Tổ hợp xét tuyển 3: Không có
+	- Mã phương thức xét tuyển: TX1y, Phương thức xét tuyển: THPT, Chỉ tiêu xét tuyển: 132, Tổ hợp chính của Tổ hợp xét tuyển 1: A00, Môn chính của Tổ hợp xét tuyển 1: Toán, Tổ hợp chính của Tổ hợp xét tuyển 2: A01, Môn chính của Tổ hợp xét tuyển 2: Toán, Tổ hợp chính của Tổ hợp xét tuyển 3: D07, Môn chính của Tổ hợp xét tuyển 3: Toán.
+
+Ghi chú:
+- XTTN: Phương thức xét tuyển tài năng
+- ĐGTD: Phương thức xét tuyển dựa theo kết quả kỳ thi đánh giá tư duy
+- THPT: Phương thức xét tuyển dựa theo kết quả thi tốt nghiệp THPT

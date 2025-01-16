@@ -1,0 +1,85 @@
+Dự báo điểm chuẩn trúng tuyển đại học hệ chính quy 2020 23-09-2020 
+
+
+
+
+
+Mã Xét tuyển|Tên ngành/ Chương trình Đào tạo|Điểm chuẩn 2019
+BF1|Kỹ thuật Sinh học|23.4
+BF2|Kỹ thuật Thực phẩm|24
+BF-E12|Kỹ thuật Thực phẩm (CT tiên tiến)|23
+CH1|Kỹ thuật Hóa học|22.3
+CH2|Hóa học|21.1
+CHE|Kỹ thuật in|21.1
+CH-E11|Kỹ thuật Hóa dược (CT tiên tiến)|23.1
+ED2|Công nghệ giáo dục|20.6
+EE1|Kỹ thuật Điện|24.28
+EE2|Kỹ thuật Điều khiển - Tự động hóa|26.05
+EE-E8|Kỹ thuật Điều khiển - Tự động hóa và Hệ thống điện (CT tiên tiến)|25.2
+EE-EP|Tin học công nghiệp và Tự động hóa (Chương trình Việt - Pháp PFIEV)|22.5 - 23.5
+EM1|Kinh tế công nghiệp|21.9
+EM2|Quản lý công nghiệp|22.3
+EM3|Quản trị kinh doanh|23.3
+EM4|Kế toán|22.6
+EM5|Tài chính - Ngân hàng|22.5
+EM-E13|Phân tích kinh doanh (CT tiên tiến)|22
+EM-E14|Logistics và Quản lý chuỗi cung ứng (CT tiên tiến)|23
+EM-VUW|Quản trị kinh doanh - hợp tác với ĐH Victoria Wellington (New Zealand)|20.09
+ET1|Kỹ thuật Điện tử - Viễn thông|24.8
+ET-E4|Kỹ thuật Điện tử - Viễn thông (CT tiên tiến)|24.6
+ET-ES|Kỹ thuật Y sinh (CT tiên tiến)|24.1
+ET-E9|Hệ thống nhúng thông minh và IoT (CT tiên tiến)|24.95
+ET-LUH|Điện tử - Viễn thông - hợp tác với ĐH Leibniz Hannover (Đức)|20.03
+EV1|Kỹ thuật Môi trường|20.2
+FL1|Tiếng Anh KHKT và Công nghệ|22.6
+FL2|Tiếng Anh chuyên nghiệp quốc tế|23.2
+HE1|Kỹ thuật Nhiệt|22.3
+IT1|CNTT: Khoa học Máy tính|27.42
+IT2|CNTT: Kỹ thuật Máy tính|26.85
+IT-E10|Khoa học dữ liệu và Trí tuệ nhân tạo (CT tiên tiến)|27
+IT-E6|Công nghệ thông tin (Việt - Nhật)|25.7
+IT-E7|Công nghệ thông tin (Global ICT)|26
+IT-EP|Công nghệ thông tin (Việt - Pháp)|
+IT-LTU|Công nghệ thông tin - hợp tác với ĐH La Trobe (Úc)|23.25
+IT-VUW|Công nghệ thông tin - hợp tác với ĐH Victoria Wellington (New Zealand)|22
+ME1|Kỹ thuật Cơ điện tử|25.4
+ME2|Kỹ thuật Cơ khí|23.86
+ME-E1|Kỹ thuật Cơ điện tử (CT tiên tiến)|24.06
+ME-GU|Cơ khí - Chế tạo máy - hợp tác với ĐH Griffith (Úc)|21.2
+ME-LUH|Cơ điện tử - hợp tác với ĐH Leibniz Hannover (Đức)|20.5
+ME-NUT|Cơ điện tử - hợp tác với DHCN Nagaoka (Nhật Bản)|22.15
+MI1|Toán - Tin|25.2
+MI2|Hệ thống thông tin quản lý|24.8
+MS1|Kỹ thuật Vật liệu|21.4
+MS-E3|KHKT Vật liệu (CT tiên tiến)|21.6
+PH1|Vật lý kỹ thuật|22.1
+PH2|Kỹ thuật hạt nhân|20
+TE1|Kỹ thuật Ô tô|25.05
+TE2|Kỹ thuật Cơ khí động lực|23.7
+TE3|Kỹ thuật Hàng không|24.7
+TE-E2|Kỹ thuật Ô tô (CT tiên tiến)|24.23
+TE-EP|Cơ khí hàng không (Chương trình Việt - Pháp PFIEV)|
+TROY-BA|Quản trị kinh doanh - hợp tác với ĐH Troy (Hoa Kỳ)|20.2
+TROY-IT|Khoa học máy tính - hợp tác với ĐH Troy (Hoa Kỳ)|20.6
+TX1|Kỹ thuật Dệt - May|21.88
+
+
+
+
+Ghi chú: các mã xét tuyển có chữ x ở cuối (VD: BF1x, CH1x, IT1x...) sử dụng tổ hợp A19 và A20 (kết hợp bài kiểm tra tư duy và Toán + Lý/ hoặc Hoá)
+
+Cách tính điểm xét tuyển:
+
+- Đối với tổ hợp môn không có môn chính:
+
+ĐX = [(Môn1+Môn2 + Môn3)] + Điểm ưu tiên (KV/ĐT).
+
+- Đối với tổ hợp môn có môn chính:
+
+ĐX = [(Môn 1+ Môn2 + Môn3 +Môn chính) x ¾] + Điểm ưu tiên (KV/ĐT)
+
+Các tổ hợp A19, A20 có điểm bài kiểm tra tư duy (KTTD) nhân đôi
+
+ĐX (A19; A20) = [(Bài KTTD x 2 + Môn2 + Môn3) x ¾] + Điểm ưu tiên (KV/ĐT)
+
+

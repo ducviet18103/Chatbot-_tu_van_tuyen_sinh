@@ -1,0 +1,91 @@
+Điểm chuẩn trúng tuyển đại học hệ chính quy năm 2019 01-08-2019 
+
+Mã xét tuyển | Tên ngành/chương trình đào tạo | Môn chính | Điểm chuẩn
+BF1 | Kỹ thuật sinh học | Toán | 23.40
+BF2 | Kỹ thuật shực phẩm | Toán | 24.00
+BF-E12 | Chương trình tiên tiến kỹ thuật thực phẩm | Toán | 23.00
+CH1 | Kỹ thuật hóa học | Toán | 22.30
+CH2 | Hóa học | Toán | 21.10
+CH3 | Kỹ thuật in | Toán | 21.10
+CH-E11 | Chương trình tiên tiến kỹ thuật hóa dược | Toán | 23.10
+ED2 | Công nghệ giáo dục |  | 20.60
+EE1 | Kỹ thuật điện | Toán | 24.28
+EE2 | Kỹ thuật điều khiển - tự động hóa | Toán | 26.05
+EE-E8 | Chương trình tiên tiến điều khiển-tự động hóa và hệ thống điện | Toán | 25.20
+EM1 | Kinh tế công nghiệp |  | 21.90
+EM2 | Quản lý công nghiệp |  | 22.30
+EM3 | Quản trị kinh doanh |  | 23.30
+EM4 | Kế toán |  | 22.60
+EM5 | Tài chính-ngân hàng |  | 22.50
+EM-E13 | Chương trình tiên tiến phân tích kinh doanh | Toán | 22.00
+EM-NU | Quản lý công nghiệp-Logistics và quản lý chuỗi cung ứng - ĐH Northampton (Anh) |  | 23.00
+EM-VUW | Quản trị kinh doanh - ĐH Victoria (New Zealand) |  | 20.90
+ET1 | Kỹ thuật điện tử - viễn thông | Toán | 24.80
+ET-E4 | Chương trình tiên tiến điện tử - viễn thông | Toán | 24.60
+ET-E5 | Chương trình tiên tiến kỹ thuật y sinh | Toán | 24.10
+ET-E9 | Chương trình tiên tiến hệ thống nhúng thông minh và IoT | Toán | 24.95
+ET-LUH | Điện tử-viễn thông - ĐH Leibniz Hannover (Đức) |  | 20.30
+EV1 | Kỹ thuật môi trường | Toán | 20.20
+FL1 | Tiếng anh KHKT và công nghệ | Anh | 22.60
+FL2 | Tiếng anh chuyên nghiệp quốc tế | Anh | 23.20
+HE1 | Kỹ thuật nhiệt | Toán | 22.30
+IT1 | CNTT: Khoa học máy tính | Toán | 27.42
+IT2 | CNTT: Kỹ thuật máy tính | Toán | 26.85
+IT-E10 | Chương trình tiên tiến khoa học dữ liệu và trí tuệ nhân tạo | Toán | 27.00
+IT-E6 | CNTT Việt Nhật | Toán | 25.70
+IT-E7 | CNTT Global ICT | Toán | 26.00
+IT-GINP | Hệ thống thông tin - ĐH Grenoble (Pháp) |  | 20.00
+IT-LTU | Công nghệ thông tin - ĐH La Trobe (Úc) |  | 23.25
+IT-VUW | Công nghệ thông tin - ĐH Victoria (New Zealand) |  | 22.00
+ME1 | Kỹ thuật cơ điện tử | Toán | 25.40
+ME2 | Kỹ thuật cơ khí | Toán | 23.86
+ME-E1 | Chương trình tiên tiến cơ điện tử | Toán | 24.06
+ME-GU | Cơ khí-chế tạo máy - ĐH Griffith (Úc) |  | 21.20
+ME-LUH | Cơ điện tử - ĐH Leibniz Hannover (Đức) |  | 20.50
+ME-NUT | Cơ điện tử - ĐH Nagaoka (Nhật Bản) |  | 22.15
+MI1 | Toán-tin | Toán | 25.20
+MI2 | Hệ thống thông tin quản lý | Toán | 24.80
+MS1 | Kỹ thuật vật liệu | Toán | 21.40
+MS-E3 | Chương trình tiên tiến KHKT vật liệu | Toán | 21.60
+PH1 | Vật lý kỹ thuật | Toán | 22.10
+PH2 | Kỹ thuật hạt nhân | Toán | 20.00
+TE1 | Kỹ thuật ô tô | Toán | 25.05
+TE2 | Kỹ thuật cơ khí động lực | Toán | 23.70
+TE3 | Kỹ thuật hàng không | Toán | 24.70
+TE-E2 | Chương trình tiên tiến kỹ thuật ô tô | Toán | 24.23
+TROY-BA | Quản trị kinh doanh - ĐH Troy (Hoa Kỳ) |  | 20.20
+TROY-IT | Khoa học máy tính - ĐH Troy (Hoa Kỳ) |  | 20.60
+TX1 | Kỹ thuật dệt - may | Toán | 21.88
+
+
+
+Không có ngành/chương trình nào phải sử dụng đến tiêu chí phụ để xét tuyển. 
+
+Điểm chuẩn này áp dụng cho tất cả các tổ hợp môn xét tuyển của ngành/chương trình và được xác định dựa trên điểm xét (ĐX) như sau: 
+
+Đối với tổ hợp môn không có môn chính: 
+
+
+
+ĐX  (Môn1Môn2  Môn3)  Điểm ưu tiên (KV/ĐT)  Điểm ưu tiên xét tuyển. 
+
+Đối với tổ hợp môn có môn chính: 
+
+
+
+ĐX  (Môn 1 Môn2  Môn3 Môn chính) x ¾, làm tròn đến 2 chữ số thập phân  Điểm ưu tiên (KV/ĐT)  Điểm ưu tiên xét tuyển. 
+
+
+
+
+
+Lưu tin 
+
+Bình luận 
+
+Chia sẻ 
+
+
+
+
+

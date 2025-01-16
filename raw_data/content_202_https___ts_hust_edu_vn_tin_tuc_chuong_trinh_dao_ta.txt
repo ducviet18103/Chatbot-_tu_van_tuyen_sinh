@@ -1,0 +1,278 @@
+Chương trình đào tạo tinh hoa (EliTECH)
+26-09-2019
+
+Hướng đến các sinh viên ưu tú có nguyện vọng trở thành kỹ sư, chuyên gia và nhà quản lý giỏi trong những ngành kỹ thuật và công nghệ cốt lõi của thời đại Cách mạng công nghiệp 4.0, Trường ĐHBK Hà Nội xây dựng Dự án ELITECH bao gồm các chương trình Tiên tiến – Đào tạo Tài năng – Chất lượng cao.
+tuỷe
+
+Trong các chương trình Elitech, sinh được chú trọng:
+
+Học tập trong các lớp có quy mô nhỏ;
+Hướng dẫn bởi các giảng viên giỏi với nội dung chương trình chuyên sâu và ngoại ngữ nâng cao;
+Tạo điều kiện tham gia nghiên cứu và làm việc trong các nhóm liên ngành ngay từ những năm đầu;
+Thực tập giải quyết các bài toán thực tiễn của doanh nghiệp ngay trong quá trình học. 
+1. Chương trình Tiên tiến
+
+Các chương trình đào tạo được thiết kế dựa trên chương trình đào tạo hiện đại của các trường đại học tại Hoa Kỳ và một số nước phát triển khác như Đức, Nhật, Anh. Ngôn ngữ giảng dạy và tài liệu học tập của các chương trình tiên tiến bằng tiếng Anh, ngoại trừ chương trình tiên tiến Công nghệ thông tin Việt-Nhật được giảng dạy bằng tiếng Việt và học tăng cường tiếng Nhật (chuẩn tiếng Nhật đầu ra N3). Mức học phí của chương trình Tiên tiến đối với khóa mới K62 bằng 1,4 – 1,6 lần mức học phí đại học hệ chính quy thông thường cùng ngành.  
+
+Do khả năng ngoại ngữ thành thạo và kiến thức chuyên môn vững vàng, người tốt nghiệp Chương trình tiên tiến có nhiều cơ hội việc làm tại các tập đoàn kinh tế, các doanh nghiệp lớn trong nước và môi trường làm việc quốc tế, hoặc nhận học bổng để tiếp tục học lên trình độ cao hơn ở nước ngoài.
+
+Thí sinh đăng ký xét tuyển vào các chương trình Tiên tiến theo các mã đăng ký trong bảng trên. Tùy theo tình hình, Trường có thể tiếp tục tổ chức xét tuyển bổ sung vào các chương trình tiên tiến từ các sinh viên khóa mới đã nhập học theo nguyện vọng, ưu tiên những thí sinh có trình độ tiếng Anh tốt. Những sinh viên có trình độ tiếng Anh còn hạn chế phải học tăng cường ngoại ngữ trong năm học đầu tiên. Những sinh viên đạt trình độ IELTS 6.0 trở lên được ưu tiên học ngay một số học phần thuộc trình độ năm thứ 2.  
+
+Video hỏi đáp về chương trình Elitech
+
+IFrame
+Các ngành đào tạo:
+
+Kỹ thuật Cơ điện tử (ME-E1)
+Kỹ thuật Ô tô (TE-E2)
+Kỹ thuật Vật liệu (Vật liệu thông minh và Nano) (MS-E3)
+Kỹ thuật Điện tử - Viễn thông (ET-E4)
+Kỹ thuật Y sinh (ET-E5)
+Công nghệ thông tin Việt - Nhật (tiếng Việt/tiếng Nhật)​ (IT-E6)
+Công nghệ thông tin Global ICT (tiếng Anh) (IT-E7)
+Kỹ thuật Điều khiển và Tự động hóa - Hệ thống điện (EE-E8)
+Chương trình đào tạo Hệ thống nhúng thông minh và IoT  (ET-E9)
+Chương trình tiên tiến Khoa học Dữ liệu và Trí tuệ Nhân tạo  (IT-E10)
+Chương trình tiên tiến Kỹ thuật Hóa dược  (CH-E11)
+Chương trình tiên tiến Kỹ thuật Thực phẩm  (BF-E12)
+Chuyên ngành tiên tiến Phân tích Kinh doanh  (EM-E13)
+
+
+
+
+(Mã xét tuyển: ME-E1) 
+
+Điểm nổi bật | Vị trí việc làm | Cơ hội học bổng
+Chương trình xây dựng trên cơ sở phát triển chương trình đào tạo ngành Cơ điện tử của Trường Đại học Chico (Mỹ) kết hợp với sự tham khảo chương trình đào tạo của Đại học Shibaura (Nhật Bản) và Đại học Quốc gia Đài Loan (NTU). Sinh viên theo học ngành này sẽ được trang bị các kiến thức cơ sở và chuyên ngành vững chắc, có kỹ năng nghề nghiệp và năng lực nghiên cứu, khả năng làm việc và sáng tạo trong mọi môi trường lao động để giải quyết những vấn đề liên quan đến thiết kế, chế tạo thiết bị, hệ thống cơ điện tử và vận hành hệ thống sản xuất công nghiệp, nhanh chóng thích ứng với môi trường làm việc của cuộc cách mạng công nghiệp 4.0 | Nghiên cứu, thiết kế, chế tạo, quản lý sản xuất, vận hành tại các nhà máy của các doanh nghiệp, tập đoàn trong nước và quốc tế liên quan đến lĩnh vực cơ điện tử, cơ khí; giảng viên, nghiên cứu viên tại các trường đại học, viện nghiên cứu; Mức lương khởi điểm phổ biến 10-15 triệu đồng/tháng. | 40 - 48 suất học bổng hỗ trợ học tập với tổng trị giá trên 240.000.000 đồng/năm; có nhiều cơ hội nhận học bổng để học tập, nghiên cứu sau đại học tại các trường đại học trong và ngoài nước
+
+
+
+(Mã xét tuyển: TE-E2) 
+
+Điểm nổi bật | Vị trí việc làm | Cơ hội học bổng
+Chương trình nhằm cung ứng nguồn nhân lực chất lượng cao cho thị trường ô tô, đặc biệt là ô tô có nguồn động lực mới (điện, hybrid điện - động cơ đốt trong, pin nhiên liệu) và ô tô thông minh của khu vực và quốc tế. Đáp ứng nhu cầu nhân sự của nhiều hãng sản xuất ô tô lớn trên thế giới đang đầu tư phát triển các thế hệ ô tô tương lai, trong đó ô tô điện, ô tô hybrid hay ô tô dùng pin nhiên liệu (fuel cell) và ô tô thông minh. | Kỹ sư nghiên cứu, phát triển trong các nhóm nghiên cứu mạnh của Trường Đại học Bách khoa Hà Nội và các trường đối tác nước ngoài tại Nhật Bản, Hàn Quốc, Đức; Kỹ sư thiết kế, vận hành, chế tạo trong các nhà máy, trung tâm nghiên cứu  phát triển thuộc các tập đoàn phát triển ô tô thế hệ mới như Tesla motors, Volkswagen, Toyota, Nissan, Peugeot, Renault, Vinfast, Trường Hải; Kỹ sư tại các tập đoàn ô tô tại Nhật Bản, Hàn Quốc; Nghiên cứu viên tại các Trường đại học, Viện nghiên cứu và chuyển giao công nghệ thuộc lĩnh vực ô tô, máy động lực; Kỹ sư tại các trạm đăng kiểm ô tô, các cơ sở kinh doanh ô tô thế hệ mới, các cơ quan quản lý nhà nước về phương tiện giao thông đường bộ. | Sinh viên có cơ hội nhận nguồn học bổng của Trường ĐHBK và 05 suất học bổng của Viện Cơ khí động lực, 03 suất học bổng thực tập nước ngoài và số kỹ sư được giới thiệu làm việc, học tập tại các doanh nghiệp, trường đại học ở Nhật Bản/năm: 20-30
+
+
+
+(Vật liệu thông minh và Nano) (Mã xét tuyển: MS-E3) 
+
+Điểm nổi bật | Vị trí việc làm | Cơ hội học bổng
+Chương trình sử dụng chương trình của Trường Đại học Illinois (Mỹ) nhằm đào tạo đội ngũ kỹ sư có trình độ cao đáp ứng yêu cầu thực tế trong nước và đạt chuẩn mực quốc tế, sinh viên được trang bị kiến thức cơ sở và chuyên môn sâu về các loại vật liệu kim loại, vật liệu điện tử và nanô, vật liệu polymer để thích ứng với môi trường làm việc quốc tế, tăng cường khả năng làm việc theo nhóm, phát triển tính sáng tạo và đào tạo kỹ năng giải quyết vấn đề thực tế đặt ra | Được tuyển dụng bởi các doanh nghiệp hoặc tập đoàn: Tổng Công ty Máy và Động lực, Tập đoàn Viễn thông quân đội, Tổng Công ty Thép Việt Nam, Tập đoàn Hòa Phát, Tập đoàn Than  Khoáng sản Việt Nam Samsung, POSCO, Nikon, Nissan, LG, Honda, Toyota, Denso, Các trường đại học, viện nghiên cứu có liên quan đến vật liệu. Mức lương phổ biến khởi điểm hiện tại: 10-12 triệu đồng/tháng. | Sinh viên có cơ hội nhận học bổng của Nhà trường và của Viện Khoa học  kỹ thuật vật liệu; có nhiều cơ hội thực tập, trao đổi ngắn hạn ở các trường đại học nước ngoài. Tỷ lệ sinh viên nhận được học bổng sau đại học ra nước ngoài luôn chiếm trên 25 tổng số sinh viên tốt nghiệp mỗi khóa học
+
+
+
+(Mã xét tuyển: ET-E4) 
+
+Điểm nổi bật | Vị trí việc làm | Cơ hội học bổng
+Chương trình được thiết kế dựa trên chương trình của trường Đại học San Jose State University, Hoa Kỳ , được giảng dạy hoàn toàn bằng tiếng Anh và do các giảng viên của trường ĐHBK Hà Nội và các giảng viên nước ngoài tham gia giảng dạy. Sinh viên có thể tham gia chương trình song bằng với các trường Đại học đối tác như Wollongong - Úc (22, 31), Telecom ParisTech - Pháp (42), Viện KAIST - Hàn Quốc. Ngoài ra, sau khi học xong chương trình cử nhân 4 năm, sinh viên có thể theo học chương trình thạc sĩ tại trường San Jose State University. | Nghiên cứu, thiết kế, chế tạo, quản lý sản xuất, vận hành tại các nhà máy của các doanh nghiệp, tập đoàn trong nước và quốc tế liên quan đến lĩnh vực cơ điện tử, cơ khí; giảng viên, nghiên cứu viên tại các trường đại học, viện nghiên cứu; Mức lương khởi điểm phổ biến 10-15 triệu đồng/tháng. | 40 - 48 suất học bổng hỗ trợ học tập với tổng trị giá trên 240.000.000 đồng/năm; có nhiều cơ hội nhận học bổng để học tập, nghiên cứu sau đại học tại các trường đại học trong và ngoài nước
+
+
+
+(Mã xét tuyển: ME-E1) 
+
+Điểm nổi bật | Vị trí việc làm | Cơ hội học bổng
+Chương trình xây dựng trên cơ sở phát triển chương trình đào tạo ngành Cơ điện tử của Trường Đại học Chico (Mỹ) kết hợp với sự tham khảo chương trình đào tạo của Đại học Shibaura (Nhật Bản) và Đại học Quốc gia Đài Loan (NTU). Sinh viên theo học ngành này sẽ được trang bị các kiến thức cơ sở và chuyên ngành vững chắc, có kỹ năng nghề nghiệp và năng lực nghiên cứu, khả năng làm việc và sáng tạo trong mọi môi trường lao động để giải quyết những vấn đề liên quan đến thiết kế, chế tạo thiết bị, hệ thống cơ điện tử và vận hành hệ thống sản xuất công nghiệp, nhanh chóng thích ứng với môi trường làm việc của cuộc cách mạng công nghiệp 4.0 | Kỹ sư làm trong lĩnh vực Kỹ thuật Viễn thông như doanh nghiệp cung cấp dịch vụ mạng cố định hoặc di động, ISP. Kỹ sư phát triển phần mềm, thiết kế phần cứng và hệ thống nhúng. Kỹ sư nghiên cứu và phát triển trong các lĩnh vực viễn thông, Internet, phần cứng và phần mềm cho thiết bị thông minh như thiết bị di động, thiết bị IoT, thiết bị y tế. Kỹ sư vận hành hệ thống mạng viễn thông, hệ thống điện tử công nghiệp. Chuyên gia tư vấn giải pháp, bán hàng các sản phẩm điện tử và viễn thông. Mức lương khởi điểm 12 triệu đến 20 triệu đồng/tháng. | Sinh viên có cơ hội nhận học bổng của Trường, học bổng trao đổi sinh viên từ các doanh nghiệp và các trường Đại học quốc tế là đối tác của Viện Điện tử- Viễn thông. Tỉ lệ sinh viên đi du học có học bổng hàng năm chiến trên 20 tổng số sinh viên tốt nghiệp.
+
+
+
+(Mã xét tuyển: ET-E5) 
+
+Điểm nổi bật | Vị trí việc làm | Cơ hội học bổng
+Chương trình được xây dựng trên cơ sở tham khảo chương trình đào tạo ngành Kỹ thuật Y sinh của trường Đại học Wisconsin , Mỹ. Sinh viên tiếp cận được các thành tựu phát triển mới nhất trong lĩnh vực Kỹ thuật Y sinh được giảng dạy hoàn toàn bằng tiếng Anh. | Kỹ sư nghiên cứu phát triển, xây dựng và quản lý dự án hay kinh doanh cho các doanh nghiệp, các tập đoàn thiết bị y tế trong và ngoài nước. Kỹ sư làm tại các phòng Vật tư Trang thiết bị y tế tại các bệnh viện, cơ sở y tế trong cả nước. Kỹ sư nghiên cứu phát triển tại các trường Đại học, Viên nghiên cứu. Mức lương khởi điểm 12 triệu đến 20 triệu đồng/tháng. | Sinh viên có cơ hội nhận hỗ trợ học tập của trường, từ các doanh nghiệp và các trường Đại học quốc tế là đối tác của Viện Điện tử- Viễn thông. 20 sinh viên tốt nghiệp với lợi thế về trình độ tiếng Anh còn có nhiều cơ hội xin học bổng du học tại Mỹ, châu Âu, Nhật Bản, Singapore, Hàn Quốc 
+
+
+
+(Mã xét tuyển: IT-E6) 
+
+Điểm nổi bật | Vị trí việc làm | Cơ hội học bổng
+Chương trình kỹ sư CNTT Việt Nhật hướng đến đào tạo các kỹ sư CNTT tương đương với các kỹ sư người Nhật, được đào tạo tại các trường đại học CNTT tại Nhật Bản. Sinh viên được tham gia học tập với các giảng viên là các giáo sư đến từ Nhật Bản và các quốc gia khác, Tham gia các khóa học được tổ chức kết hợp với các trường Đại học Nhật Bản giúp sinh viên có cơ hội trao đổi, tiếp xúc sớm với môi trường làm việc bằng tiếng Nhật. | Sang Nhật Bản làm việc ngay sau khi tốt nghiệp với vị trí công việc và mức thu nhập tương đương các kỹ sư CNTT Nhật Bản Trưởng nhóm tại các tập đoàn lớn của Nhật Bản hoặc Mỹ, châu Âu, trong các mảng dự án quốc tế, Kỹ sư cầu nối cho các công ty lớn tại Việt Nam hướng tới thị trường Nhật Bản. Lương khởi điểm tại Việt Nam: 25-30 triệu đồng/tháng Lương khởi điểm tại Nhật: 3000 - 5000 USD/tháng | Sinh viên có cơ hội nhận học bổng Trường, tham gia vào các chương trình trao đổi sinh viên với các trường đại học Nhật Bản hoặc thực tập tại các doanh nghiệp Nhật Bản.
+
+
+
+(Mã xét tuyển: IT-E7) 
+
+Điểm nổi bật | Vị trí việc làm | Cơ hội học bổng
+Chương trình đào tạo kỹ sư toàn cầu giỏi cả về Công nghệ thông tin và tiếng Anh để đóng vai trò dẫn dắt, kết nối thị trường CNTT Việt Nam với các thị trường quốc tế. Được học tập thường xuyên với sinh viên quốc tế và một số môn với giảng viên nước ngoài, thường xuyên có các khóa học được tổ chức kết hợp với các trường Đại học lớn trên thế giới như ĐH Uppsala, ĐH Shibaura. Sinh viên có cơ hội chuyển tiếp sang Đại học Uppsala, Thụy Điển lấy bằng Cử nhân của ĐH Uppsala theo chương trình 31. Sinh viên có cơ hội chuyển tiếp sang ĐH Aizu (Nhật Bản), lấy bằng cử nhân của ĐH Aizu theo chương trình 32. | Làm việc trong các tập đoàn lớn của Mỹ, châu Âu, Nhật Bản trong các mảng dự án quốc tế. Lương khởi điểm tại Việt Nam: 25-30 triệu đồng/tháng Lương khởi điểm tại nước ngoài: 3000 - 5000 USD/tháng | Sinh viên có nhiều cơ hội nhận nguồn học bổng của Trường ĐHBK và của Viện CNTT, tham gia các chương trình thực tập, trao đổi sinh viên với các nước châu Âu, châu Á. Sinh viên có điều kiện tham gia chương trình đào tạo song bằng: 41 tại Đại học Uppsala, Thụy Điển.
+
+
+
+(Mã xét tuyển: EE-E8) 
+
+Điểm nổi bật | Vị trí việc làm | Cơ hội học bổng
+Chương trình đào tạo được xây và dựng phát triển theo các chương trình đào tạo của Mỹ phù hợp với thực tiễn Việt Nam. Sinh viên được trang bị kiến thức về: Kỹ thuật đo lường và các hệ thống cảm biến thông minh; Các hệ thống mạng truyền thông công nghiệp; Kỹ thuật lập trình các chip vi điều khiển, vi xử lý; Các phương pháp điều khiển truyền thống và hiện đại; Lập trình tự động hóa các dây chuyền sản xuất công nghiệp; Điều khiển điện tử công suất và truyền động điện; Kỹ thuật điều khiển Robot; Kỹ thuật mạng nơron và trí tuệ nhân tạo (AI); Lưới điện và hệ thống điện; Bảo vệ và ổn định hệ thống điện Chương trình xây dựng hợp tác với đại học Dortmund - Đức, ĐH Shibaura - Nhật Bản, TU-Dresden- Đức và một số Trường đại học tiên tiến khác để có thể tiếp tục tham gia nhận bằng tại các trường này và tiếp tục học ở các bậc học cao hơn. | Các vị trí công việc như thiết kế, vận hành và giám sát trong các công ty, tập đoàn công nghiệp trong và ngoài nước thuộc các lĩnh vực năng lượng điện, thiết bị điện, tự động hóa, Có khả năng làm việc tại các trung tâm nghiên cứu, viện nghiên cứu và trường đại học nước ngoài có hợp tác với Viện Điện; Mức lương trung bình 12-15 triệu đồng/tháng | Sinh viên có cơ hội nhận học bổng của Trường ĐHBK, học bổng từ các công ty, tập đoàn trong và ngoài nước ABB, Siemens, Mitsubishi, Fuji, Rockwell Automation, kinh phí hỗ trợ khi thực tập tại các tập đoàn Foxconn, Coteccons, Samsung, EDH, EVN,  học bổng trao đổi sinh viên tại nước ngoài theo các chương trình: Erasmus, AUN/SEED-Net,  Có cơ hội học nhận học bổng tiếp tục học các bậc cao hơn tại các nước tiên tiến
+
+
+
+(Mã xét tuyển: ET-E9) 
+
+Điểm nổi bật | Vị trí việc làm | Cơ hội học bổng
+Chương trình tích hợp cử nhân  thạc sĩ định hướng thị trường nhân lực Nhật Bản Học tập dựa trên trải nghiệm: 50 thực hành, bài tập lớn, dự án Thực hành kỹ năng mềm: Thuyết trình, Quản lý dự án, Tiếng Nhật Tham gia 08 PTN nghiên cứu các dự án KHCN với công nghiệp Cơ hội chuyển tiếp thạc sĩ tại các trường hang đầu Nhật Bản | Kỹ sư thiết kế phần cứng, lập trình tích hợp cho thiết bị điện tử, thiết bị IoT; quản lý dự án Cơ hội việc làm tại Viettel, VNPT Technology, Toshiba, Panasonic, FPT Software, các Công ty của Nhật tại Việt Nam và Nhật Bản Mức lương khởi điểm 10-12 triệu (Việt Nam), 25-30 triệu (Nhật Bản) | Cơ hội miễn học phí tiếng Nhật Cơ hội học bổng từ công ty Nhật Cơ hội trao đổi tại Nhật
+
+
+
+(Data Science and AI) (Mã xét tuyển: IT-E10) 
+
+Điểm nổi bật | Vị trí việc làm | Cơ hội học bổng
+Chương trình có mục đích đào tạo các chuyên gia trình độ cao về khoa học dữ liệu và trí tuệ nhân tạo (DS  AI scientist). Chương trình được thiết kế hiện đại, do các chuyên gia hàng đầu trong lĩnh vực DS  AI của Việt Nam và trên Thế giới thiết kế. Với định hướng đào tạo chuyên gia, sinh viên tham gia chương trình được trang bị đầy đủ kiến thức hàn lâm, song song với việc được chú trọng gia tăng thời lượng thực hành, cũng như học thông qua trải nghiệm tại hệ thống các phòng lab nghiên cứu, cũng như tại các công ty, tập đoàn hoạt động trong lĩnh vực CNTT  TT trong và ngoài nước. Sinh viên các năm cuối sẽ được hướng dẫn (mentor) bởi các chuyên gia trong lĩnh vực DS  AI trong và ngoài nước, đặc biệt là các chuyên gia  cựu sinh viên của Viện CNTTTT đang làm việc tại các Tập đoàn công nghệ đa quốc gia như: Google, Facebook, Microsoft, Amazon để vừa nâng cao kiến thức, vừa bổ sung thêm các kỹ năng làm việc, nghiên cứu theo chuẩn quốc tế, hướng tới thị trường lao động toàn cầu, cũng như bồi đắp tinh thần đổi mới sáng tạo và khởi nghiệp. Hệ thống hạ tầng tính toán phục vụ thực hành của sinh viên bao gồm các hệ thống siêu máy tính, máy tính song song có năng lực tính toán hàng đầu Việt Nam và khu vực, cũng như thông qua hợp tác với các Tập đoàn lớn như Microsoft, IBM sinh viên được trải nghiệm các công nghệ, nền tảng tính toán, xử lý dữ liệu tiên tiến | Trong thời đại CN4.0, chuyên gia về DS  AI có cơ hội việc làm rộng mở không những ở Việt Nam, mà còn trên Thế giới. Hiện tại, mọi lĩnh vực, mọi quy trình trong Xã hội đang dần được chuyển đổi số đòi hỏi nguồn nhân lực rất lớn sở hữu chuyên môn cao trong xử lý, phân tích, khai phá dữ liệu, cũng như thiết kế các hệ thống trí tuệ nhân tạo thông minh để nâng cao hiệu quả hoạt động. Cụ thể hơn, sinh viên sau tốt nghiệp có thể làm chuyên gia dữ liệu trong các:- Công ty tập đoàn công nghệ trong và ngoài nước.- Các doanh nghiệp/tổ chức ứng dụng công nghệ hoạt động trong các lĩnh vực như: tài chính - ngân hàng, tư vấn/điều tra/khảo sát/dự báo Ngoài ra, nhu cầu về sản phẩm dịch vụ liên quan đến DS  AI ngày càng gia tăng tạo cơ hội về khởi nghiệp thành công rất lớn cho sinh viên sau khi ra Trường, đặc biệt sau khi được hướng dẫn (mentor) bởi các chuyên gia kinh nghiệm là cựu sinh viên của Viện đang làm việc tại Silicon Valley. Lương hiện tại ở Việt Nam trong lĩnh vực DS  AI: 500 triệu/năm. Lương khởi điểm tại nước ngoài: 4000 - 6000 USD/tháng | Sinh viên có cơ hội nhận học bổng của Trường, các doanh nghiệp hợp tác nghiên cứu với Trường/Viện, hoặc từ chính các hệ thống lab nghiên cứu của Viện. Lựa chọn chương trình, sinh viên có điều kiện tham gia chương trình trao đổi sinh viên, cũng như các chương trình tích hợp cử nhân  thạc sĩ: 41.5 năm (tại ĐHBK HN), hoặc 411 liên kết song bằng với Đại học Uppsala uy tín của Thụy Điển, với mức học bổng hoặc miễn giảm học phí hấp dẫn từ Trường và các đối tác.Sinh viên lựa chọn startup, được hệ thống vườn ươm / hỗ trợ khởi nghiệp của Trường và Viện hỗ trợ trong kêu gọi đầu tư từ các quỹ uy tín trong và ngoài nước.
+
+
+
+(Mã xét tuyển: 
+
+Điểm nổi bật | Vị trí việc làm | Cơ hội học bổng
+Chương trình đào tạo đươc thiêt kê trên cơ sơ khung chương trinh va mô ta hoc phân do ĐH Adelaide (Úc) cung câp, có sự phối hợp giảng dạy của các giáo sư nước ngoài. Sinh viên có thể lựa chọn học 1 năm cuối tại ĐH Adelaide (Úc) nêu đap ưng yêu câu vê tiêng Anh va kêt qua hoc tâp | Nghiên cứu, giảng dạy, thiết kế, chế tạo, vận hành hệ thống thiết bị, quản lý, tổ chức triển khai sản xuất các sản phẩm ở quy mô công nghiệp phục vụ các lĩnh vực Dược phẩm, Hóa chất bảo vệ thực vật, Hợp chất thiên nhiên, Hương liệu, Mỹ phẩm, Hóa sinh. Mức lương khởi điểm phổ biến từ 15 triệu đồng; | Sinh viên có cơ hội nhận học bổng làm nghiên cứu tốt nghiệp 4 tháng ở các nước Bỉ, Đức, Rumani, Tây Ban Nha, Úc, Nhật, Hàn Quốc, Đài Loan Sinh viên có cơ hội nhận học bổng của Trường, 03 suất học bổng dành cho sinh viên xuất sắc tổng giá trị 50 triệu đồng/năm; 05-10 suất học bổng hỗ trợ học tập tổng giá trị 50 triệu đồng/năm 50 sinh viên tốt nghiệp tiếp tục học lên bậc học cao hơn.
+
+
+
+(Mã xét tuyển: 
+
+Điểm nổi bật | Vị trí việc làm | Cơ hội học bổng
+Chương trình tích hợp cử nhân - thạc sĩ định hướng thị trường nhân lực chất lượng cao trong lĩnh vực thực phẩm của Việt Nam và khu vực Đông Nam Á cũng như đáp ứng tốt yêu cầu thị trường toàn cầu hóa (FDI, ASEAN, CPTPP). Chương trình được thiết kế và tham khảo chương trình tiên tiến tại các trường đại học nổi tiếng ở châu Âu (Bỉ, Đức, Hà Lan, Pháp) và châu Á (Hàn Quốc, Nhật Bản) về kỹ thuật thực phẩm đảm bảo sinh viên có kiến thức và kỹ năng mang tính liên ngành và chuyên sâu về lĩnh vực thực phẩm bao gồm Công nghệ  Thiết bị  Chất lượng  Quản lý. Sinh viên được học tập, thực hành và tham gia nghiên cứu khoa học với điều kiện cơ sở vật chất, trang thiết bị thực hành và nghiên cứu hiện đại và đồng bộ hàng đầu của Việt Nam trong lĩnh vực thực phẩm, đồng thời được trải nghiệm thực tế trong môi trường sản xuất của doanh nghiệp thực phẩm cũng như thực tập tại các trường đại học nổi tiếng tại châu Âu (Bỉ, Đức, Hà Lan, Pháp) và châu Á (Hàn Quốc, Nhật Bản). Sinh viên được chú trọng hoàn thiện các kỹ năng mềm như thuyết trình, giao tiếp, làm việc nhóm, làm việc trong môi trường quốc tế, được tương tác, trao đổi với nhiều sinh viên, giáo sư, chuyên gia đến từ các nước phát triển: Áo, Bỉ, Pháp, Đức, Nhật Bản, Hàn Quốc và đặc biệt được học tập và trao đổi bằng tiếng Anh. | Làm việc tại các doanh nghiệp trong nước, liên doanh, FDI với vị trí nghiên cứu phát triển kỹ thuật, thiết bị sản xuất các sản phẩm thực phẩm, thiết kế, vận hành và điều khiển dây chuyền sản xuất, tổ chức và điều hành sản xuất, quản lý công nghệ và chất lượng trong lĩnh vực công nghiệp thưc phâm; Tư vấn, đầu tư, chuyển giao công nghệ trong lĩnh vực công nghiệp thưc phâm Làm việc tại tổ chức quốc tế cũng như các cơ quan quản lý nhà nước các bộ, sở ngành Tham gia giảng dạy, nghiên cứu ở các trường đại học, cao đẳng, viện nghiên cứu thuôc linh vưc thực phẩm; | Học bổng thực tập, trao đổi, đào tạo sinh viên đại học và sau đại học với các trường đại học nổi tiếng tại châu Âu (Bỉ, Đức, Hà Lan, Pháp) và châu Á (Hàn Quốc, Nhật Bản), các chương trình hợp tác đào tạo, nghiên cứu của châu Âu, châu Á và tại các doanh nghiệp đối tác; Học bổng tài năng, học bổng nghiên cứu của Trường ĐHBKHN, học bổng khuyến học của cựu sinh viên/giảng viên của Viện CNSH-CNTP; Học bổng chuyển tiếp lên các chương trình đào tạo sau đại học (Thạc sĩ, tiến sĩ) tại Đại học Bách Khoa Hà Nội cũng như tại các trường đại học đối tác nổi tiếng tại châu Âu (Bỉ, Đức, Hà Lan, Pháp) và châu Á (Nhật Bản, Hàn Quốc)
+
+
+
+(Mã xét tuyển: EM-E13) 
+
+Điểm nổi bật | Vị trí việc làm | Cơ hội học bổng
+Chương trình được thiết kế hiện đại, chuẩn Quốc tế theo định hướng nền kinh tế số, chú trọng cung cấp kiến thức, kỹ năng ứng dụng CNTT, phương pháp xử lý và phân tích dữ liệu để cải tiến quy trình kinh doanh, nâng cao hiệu quả hoạt động của tổ chức, doanh nghiệp Sinh viên được tham gia nghiên cứu và làm việc trong các nhóm liên ngành từ những năm đầu. Được thực tập giải quyết các bài toán thực tiễn của doanh nghiệp trong quá trình học. Được học tập với giảng viên nước ngoài. | Chuyên viên phân tích dữ liệu để cải tiến quy trình kinh doanh, nâng cao hiệu quả hoạt động của tổ chức, doanh nghiệp trong các lĩnh vực như đổi mới sản phẩm, quản lý marketing, quản lý sản xuất, quản lý chuỗi cung ứng, quản lý logistics | Sinh viên có cơ hội tiếp tục học từ 1 tới 2 năm và lấy bằng tại Mỹ (Trường Đại học Arlington) Sinh viên có cơ hội nhận học bổng của Trường, 03-05 suất học bổng hỗ trợ học tập tổng giá trị 50 triệu đồng/năm Sinh viên tốt nghiệp có cơ hội tiếp tục học lên bậc học cao hơn theo chương trình liên thông.
+
+
+
+
+
+Sinh viên của chương trình Đào tạo tài năng là những người có năng lực tư duy tốt và đầy đam mê nhiệt huyết đối với khoa học, được tuyển chọn trong số các thí sinh trúng tuyển bằng một bài kiểm tra nội bộ gồm các kiến thức Toán và Vật lý thuộc chương trình lớp 12 THPT ngay sau khi thí sinh làm thủ tục nhập học. Mức học phí của chương trình này chỉ bằng mức học phí đại học hệ chính quy đại trà đối với nhóm ngành công nghệ thông tin/cơ điện tử và điện tử-viễn thông. 
+
+Các ngành đào tạo tài năng bao gồm: . Cấu trúc và khung chương trình đào tạo của Đào tạo tài năng không khác nhiều so với chương trình đào tạo của đại học hệ chính quy thông thường, sự khác biệt của Đào tạo tài năng là việc tổ chức đào tạo theo hướng phát huy tối đa khả năng sáng tạo của người học, yêu cầu cao hơn về trình độ ngoại ngữ (TOEIC 600 và tương đương), chú trọng phát triển các kỹ năng mềm cần thiết đối với các chuyên gia trình độ cao và người quản lý giỏi trong tương lai. 
+
+Ngoài những cơ hội rất cao về việc làm trong thị trường nhân lực trình độ cao ở trong nước và ngoài nước, người tốt nghiệp chương trình Đào tạo tài năng cũng có rất nhiều cơ hội thuận lợi để tiếp tục học lên các trình độ cao hơn trên con đường trở thành những nhà nghiên cứu chuyên môn hàng đầu. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Điểm nổi bật | Vị trí việc làm | Cơ hội học bổng
+Chương trình tích hợp cử nhân  thạc sĩ. Trang bị kiến thức và kỹ năng chuyên sâu về hệ thống cơ điện tử thông minh và robot. Có khả năng nắm bắt, tiếp thu các công nghệ mới nhất trong ngành và liên ngành (Cơ khí, tự động hóa, công nghệ thông tin, điện tử) để trở thành nhân lực cốt lõi trong các lĩnh vực mới của công nghệ 4.0, và có thể mở các Startup. Sinh viên được tạo điều kiện gặp gỡ, trao đổi với các Giáo sư thỉnh giảng đầu ngành trên thế giới và các nhóm nghiên cứu để tiếp cận với các công nghệ hiện đại nhất cũng như để chuẩn bị, tìm kiếm các cơ hội phát triển. | Chuyên viên nghiên cứu và phát triển (RD) tại các công ty công nghệ cao (Samsung, Seoul SC, LG, Bo Viet, Viettel,...); chuyên viên cơ điện tử, chuyên viên IT, quản lý sản xuất, quản lý chất lượng, nghiên cứu chủ chốt, chuyên gia kỹ thuật, cố vấn kỹ thuật, kỹ sư thiết kế hệ thống, kỹ sư triển khai dự án, giám đốc kỹ thuật, giám đốc điều hành, tại các công ty và tập đoàn trong nước và quốc tế. Giảng viên, nghiên cứu viên của các trường đại học và viện nghiên cứu hàng đầu trong nước và quốc tế. Mức lương phổ biến 15-25 triệu đồng/tháng. | Nhận học bổng hằng năm từ các tập đoàn trong và ngoài nước ABB, Siemens, Mitsubishi, Fuji, Rockwell Automation; Được nhận kinh phí hỗ trợ khi thực tập tại các tập đoàn Foxconn, Coteccons, Samsung, EDH, EVN, Học bổng trao đổi sinh viên tại nước ngoài theo các chương trình: Erasmus, AUN/SEED-Net, ECORED, Nafosted; Có cơ hội nhận học bổng toàn phần khi học sau đại học ở trường Đại học Bách Khoa Hà Nội hoặc ở các nước phát triển (Mỹ, Nhật, Hà Quốc, Anh, Đức và Pháp)
+
+
+
+
+
+Điểm nổi bật | Vị trí việc làm | Cơ hội học bổng
+Chương trình tích hợp cử nhân  thạc sĩ Sinh viên có thể tham gia chương trình song bằng với các trường Đại học Wollongong (Úc), Đại học Telecom ParisTech (Pháp), chương trình Thạc sĩ tích hợp Tiến sĩ tại Viện KAIST, Hàn Quốc. Sinh viên được trang bị cả về kỹ năng chuyên môn và kỹ năng mềm để có thể trở thành những nhà lãnh đạo, kỹ sư và chuyên gia giỏi trong lĩnh vực nghiên cứu thiết kế phát triển các hệ thống hay thiết bị điện tử thông minh và IOT | Chuyên gia nghiên cứu phát triển, thiết kế, chế tạo, vận hành các hệ thống điện tử thông minh như thiết kế vi mạch, hệ thống nhúng, các hệ thống điện tử ứng dụng trong truyền thông, y tế, điều khiển, tự động hóa có hướng tới các ứng dụng thông minh như học máy, trí tuệ nhân tạo. Chuyên gia Phát triển các nền tảng phần cứng, phần mềm, các phương thức truyền thông và ứng dụng cho Internet vạn vật (Internet of Things) cũng như các hệ thống truyền thông tương lai. Chuyên gia tư vấn giải pháp, bán hàng các sản phẩm điện tử thông minh, hệ thống IoT. | Học bổng hỗ trợ học tập, học bổng trao đổi sinh viên từ các doanh nghiệp và các trường Đại học quốc tế là đối tác của Viện Điện tử - Viễn thông với tổng số tiền học bổng khoảng 3 tỉ đồng mỗi năm. Sinh viên tốt nghiệp còn có nhiều cơ hội xin học bổng du học tại Mỹ, châu Âu, Nhật Bản, Singapore, Hàn Quốc. Tỉ lệ sinh viên thuộc chương trình đào tạo tài năng của Viện Điện tử- Viễn thông đi du học có học bổng hàng năm chiếm 20-30 tổng số sinh viên tốt nghiệp.
+
+
+
+
+
+Điểm nổi bật | Vị trí việc làm | Cơ hội học bổng
+Sinh viên tốt nghiệp có khả năng tư duy và sáng tạo đáp ứng yêu cầu phát triển nền công nghiệp hiện đại 4.0, Internet vạn vật (IoT), trí tuệ nhân tạo (AI), các hệ thống điều khiển thông minh và tự động hóa. | Các vị trí công việc như phân tích và thiết kế, vận hành và giám sát các hệ thống điều khiển tự động tại các tập đoàn lớn trong và ngoài nước thuộc các lĩnh vực công nghiệp, quốc phòng, y tế, dân dụng và kinh tế tài chính; Làm việc tại các Viện nghiên cứu, các Trường Đại học, cao đẳng. Khởi nghiệp trong các lĩnh vực phát triển các sản phẩm công nghệ dựa trên các hệ thống điều khiển tự động thông minh. Mức lương khởi điểm trung bình 15-20 triệu/ tháng | Cơ hội nhận học bổng hằng năm từ các tập đoàn trong và ngoài nước ABB, Siemens, Mitsubishi, Fuji, Rockwell Automation; Được nhận kinh phí hỗ trợ khi thực tập tại các tập đoàn Foxconn, Coteccons, Samsung, EDH, EVN, Học bổng trao đổi sinh viên tại nước ngoài theo các chương trình: Erasmus, AUN/SEED-Net, ECORED, Nafosted; Có cơ hội nhận học bổng toàn phần khi học sau đại học ở trường Đại học Bách Khoa Hà Nội hoặc ở các nước phát triển (Mỹ, Nhật, Hà Quốc, Anh, Đức và Pháp)
+
+
+
+
+
+Điểm nổi bật | Vị trí việc làm | Cơ hội học bổng
+Đào tạo tích hợp cử nhân - thạc sỹ: 4  1.5 năm Đào tạo nhân lực chất lượng cao cho ngành Công nghệ thông tin, có kiến thức cốt lõi ngành; có khả năng vận dụng kiến thức chuyên sâu của một trong các định hướng: Công nghệ phần mềm, Hệ thống thông tin, Khoa học dữ liệu, Trí tuệ nhân tạo, Kỹ thuật máy tính, Mạng máy tính và Truyền thông, An toàn thông tin để phân tích thiết kế, giải quyết vấn đề và đánh giá các giải pháp tiềm năng, có năng lực xây dựng và quản trị các hệ thống thông minh. Sinh viên có cơ hội chuyển tiếp sang ĐH Aizu (Nhật Bản), lấy bằng cử nhân của ĐH Aizu và Đại học Bách khoa Hà Nội theo chương trình 22. | Làm việc trong các tập đoàn lớn của Mỹ, châu Âu, Nhật Bản trong các mảng dự án quốc tế. Nhiều cơ hội học tập tiếp ở bậc cao học, tiến sĩ tại các nước phát triển như Phần Lan, Nhật Bản, Đức, Úc, Mỹ, Singapore ... 100 sinh viên có việc làm ngay khi tốt nghiệp hoặc đi học sau đại học tại các trường đại học danh tiếng ở nước ngoài. | Sinh viên có nhiều cơ hội nhận nguồn học bổng của Trường ĐHBK và của Viện CNTT. Có cơ hội tham gia các chương trình trao đổi học tập, nghiên cứu hoặc học chuyển tiếp tại các trường đối tác danh tiếng như: Đại học kỹ thuật Nanyang, Đại học Quốc gia Singapore, (Singapore), Đại học Upsala (Thụy Điển), Đại học Aizu, Đại học Công nghệ Tokyo (Nhật Bản), Đại học Khoa học Kỹ thuật Quốc gia Đài Loan...
+
+
+
+
+
+Điểm nổi bật | Vị trí việc làm | Cơ hội học bổng
+Sinh viên được trang bị các kiến thức và kỹ năng thực hành chuyên sâu về tin học, cũng như kiến thức cơ bản và chuyên sâu về toán học, toán học ứng dụng | Chuyên viên nghiên cứu và phát triển (RD), chuyên viên phần mềm tại các công ty CNTT, bưu chính, viễn thông, thương mại điện tử, tập đoàn công nghệ,...; Chuyên viên tin học tại các doanh nghiệp, xí nghiệp, công ty tài chính, bảo hiểm, ngân hàng, cơ quan hành chính nhà nước,; Giảng viên tin học hoặc toán học tại các trường cao đẳng, đại học; nghiên cứu viên về Toán và Tin; Chuyên viên thống kê phân tích, dự báo, quản trị rủi ro, thẩm định đầu tư tại các ngân hàng, công ty tài chính, bảo hiểm, các doanh nghiệp,; Chuyên viên toán ứng dụng trong giao thông, viễn thông, thủy lợi, nông nghiệp, công nghiệp, y tế, Mức lương phổ biến từ 10  15 triệu đồng/tháng | Cơ hội nhận học bổng và hỗ trợ tài chính của Trường; học bổng khuyến học của Hội cựu sinh viên Toán Bách Khoa với tổng giá trị 30 triệu/năm; Học bổng Trọng điểm Quốc gia về Toán học (mỗi suất 11 triệu/1 kỳ); Học bổng từ các doanh nghiệp như 3C, ITSOL, Grooo International
+
+
+
+
+
+Điểm nổi bật | Vị trí việc làm | Cơ hội học bổng
+Chương trinh tich hơp Cư nhân - Thac sy nhăm đao tao nguôn nhân lưc chât lương cao cho cac linh vưc trong điêm cua nganh Ky thuât Hoa hoc bao gôm: Loc Hoa dâu, Hoa dươc va Vât liêu | Sinh viên sau khi tôt nghiêp có trình độ chuyên sâu vững chắc, có kiến thức chuyên ngành rộng, đáp ứng yêu cầu hoạt động trong các lĩnh vực khoa học, công nghệ, quản lý liên quan tới Kỹ thuật Lọc Hóa dầu, Hóa dược, va Vât liêu, có tư duy hệ thống, kỹ năng thực hành tốt, khả năng nghiên cứu độc lập, sáng tạo và tự đào tạo cao. Mức lương khởi điểm phổ biến từ 15 triệu đồng trở lên. | Sinh viên có cơ hội nhận học bổng làm nghiên cứu tốt nghiệp 4 tháng ở các nước Bỉ, Đức, Rumani, Tây Ban Nha, Úc, Nhật, Hàn Quốc, Đài Loan Sinh viên đat kêt qua hoc tâp tôt có cơ hội nhận học bổng của Trường đê chuyên tiêp hoc Thac sy theo đinh hương nghiên cưu.
+
+
+
+
+
+Điểm nổi bật | Vị trí việc làm | Cơ hội học bổng
+Trang bị kiến thức và kỹ năng chuyên sâu về công nghệ nano, quang điện tử. Có khả năng nắm bắt, tiếp thu các công nghệ mới nhất trong ngành và liên ngành (lý-sinh, vật liệu thông minh) để có thể trở thành nhân lực cốt lõi trong các lĩnh vực mới, và có thể mở các start-up. Sinh viên được tạo điều kiện gặp gỡ và trao đổi với các Giáo sư thỉnh giảng đầu ngành trên thế giới và các nhóm nghiên cứu để tiếp cận với các công nghệ hiện đại nhất cũng như để chuẩn bị và tìm kiếm các cơ hội phát triển. | Chuyên viên nghiên cứu và phát triển tại các công ty công nghệ cao (Samsung, Seoul SC, LG, Bo Viet, Viettel,...); Chuyên viên quản lý dây chuyền sản xuất trong các công ty công nghệ cao (Bo Viet, Samsung, Seoul SC, LG,...) Chuyên gia xây dựng đề án phát triển khoa học công nghệ, các công việc liên quan đến sở hữu trí tuệ; Giảng viên và cán bộ nghiên cứu tại các trường đại học, các viện nghiên cứu trọng điểm trong và ngoài nước (Trung tâm công nghệ cao TP HCM, Viện Hàn Lâm KHVN, ĐHBK Hà Nội...). Khởi nghiệp, tự thành lập các doanh nghiệp riêng trong các lĩnh vực: thiết kế máy trong nông nghiệp, thiết bị khoa học kỹ thuật, sản phẩm phục vụ cuộc sống; | Học bổng học tập, nghiên cứu hoặc thực tập của các trung tâm nghiên cứu hàng đầu ở Việt Nam; Được ưu tiên tham gia nghiên cứu các công trình khoa học, tạo bước đệm quan trọng để tiếp cận các nhóm nghiên cứu trên thế giới; Được hỗ trợ và tạo điều kiện để có thể xin học bổng từ các quỹ học bổng quốc tế, hay có các cơ hội trao đổi và thực tập ở nước ngoài thông qua các kênh hợp tác quốc tế; được tư vấn và hỗ trợ để phát triển ngành nghề ở các nước như Mỹ, Nhật, Hàn Quốc, Châu Âu... sau khi tốt nghiệp; Có một cộng đồng cựu sinh viên mạnh đang phụ trách các nhóm nghiên cứu có thể giúp định hướng phát triển công việc.
+
+
+
+
+
+là chương trình duy nhất tại Việt Nam được Ủy ban văn bằng Kỹ sư Pháp và Cơ quan kiểm định các chương trình đào tạo kỹ sư Châu Âu công nhận thương hiệu chất lượng Châu Âu EUR-ACE Master. 
+
+Từ năm 2016, kỹ sư tốt nghiệp các chương trình PFIEV được Bộ Giáo dục  Đào tạo công nhận tương đương trình độ và chỉ cần thêm 6 tháng làm luận văn bổ sung để được cấp của Trường ĐHBK Hà Nội. 
+
+Tại Đại học Bách khoa Hà Nội, có 03 chương trình Đào tạo Kỹ sư chất lượng cao PFIEV gồm: 
+
+
+
+KS CLC Hệ thống Thông tin và Truyền thông 
+
+KS CLC Tin học công nghiệp 
+
+KS CLC Cơ khí hàng không 
+
+
+
+
+
+
+
+
+
+
+
+Điểm nổi bật | Vị trí việc làm | Cơ hội học bổng
+- Chương trình nhằm đào tạo sinh viên có kiến thức nền tảng khoa học kỹ thuật rộng và vững chắc, có kiến thức ngành rộng tích hợp giữa hệ thống thông tin, mạng truyền thông và viễn thông. Với kiến thức chuyên ngành rộng cùng với khả năng sử dụng ngoại ngữ (tiếng Anh và tiếng Pháp) trong công việc, sinh viên tốt nghiệp có khả năng thích nghi với môi trường làm việc quốc tế, đa văn hóa và đáp ứng các yêu cầu công việc đa dạng trong các công ty phát triển phần mềm, mạng truyền thông và viễn thông, đặc biệt các vị trí công việc liên quan đến lĩnh vực tích hợp phần mềm - hệ thống - truyền thông. - Chương trình được xây dựng với sự hợp tác của Đại học Bách khoa Grenoble  Cộng hòa Pháp. Sinh viên có cơ hội chuyển tiếp để lấy bằng kỹ sư của ĐHBK Grenoble (song bằng) và các trường đối tác khác có ký thỏa thuận với ĐHBKHN. - Sinh viên tốt nghiệp chương trình KS CLC được phép chuyển tiếp trực tiếp lên chương trình cao học để lấy bằng thạc sĩ, miễn học toàn bộ các học phần và chỉ thực hiện luận văn thạc sĩ (thời gian để hoàn thành chương trình thạc sĩ có thể là 6 tháng kể từ thời điểm bảo vệ tốt nghiệp ĐH) | Kỹ sư quản trị hệ thống thông tin, hệ thống mạng và viễn thông Kỹ sư phát triển hệ thống thông tin, dịch vụ mạng và viễn thông Nghiên cứu viên trong các bộ phận nghiên cứu và phát triển của các doanh nghiệp, cơ quan chính phủ, Viện nghiên cứu và đào tạo trong lĩnh vực Công nghệ thông tin và truyền thông 100 sinh viên có việc làm sau 6 tháng tốt nghiệp. Theo khảo sát sinh viên tốt nghiệp chương trình năm 2017 và 2018, mức lương ngay sau khi tốt nghiệp đối với sinh viên làm việc trong nước đạt được khoảng 13 triệu /tháng; (sinh viên tốt nghiệp làm việc ở nước ngoài có mức lương tương đương với kỹ sư tốt nghiệp tại nước sở tại) | Sinh viên có cơ hội nhận được học bổng thực tập cuối khóa dành riêng cho sinh viên PFIEV hoặc học bổng học chuyển tiếp tại các Trường đối tác (Grenoble INP, Pháp) Sinh viên có cơ hội nhận học bổng và hỗ trợ tài chính của Trường và của các công ty/tổ chức đối tác. Sinh viên có cơ hội tham gia các chương trình thực tập, trao đổi sinh viên với các nước châu Âu, châu Á (biết 2 ngoại ngữ Anh, Pháp cho phép sinh viên tiếp cận được nhiều chương trình học bổng trao đổi hơn). Sinh viên được học tập dưới sự hướng dẫn của các giảng viên đến từ các trường đại học lớn, tham gia các khóa học được tổ chức kết hợp với các trường đại học lớn trên thế giới.
+
+
+
+Điểm nổi bật | Vị trí việc làm | Cơ hội học bổng
+Chương trình đào tạo kỹ sư chất lượng cao Tin học công nghiệp được xây dựng phát triển theo chương trình đào tạo kỹ sư Tin học công nghiệp của Đại học Bách khoa Grenoble  Cộng hòa Pháp. Chương trình cung cấp các kiến thức nền tảng về các hệ thống công nghiệp hiện đại và các hệ thống thông minh, linh hoạt. | Nghiên cứu tại các trung tâm, các viện nghiên cứu, các trường đại học trong và ngoài nước; Nghiên cứu, thiết kế, phát triển sản phẩm tại các tập đoàn, các công ty có vốn đầu tư nước ngoài (FDI); Nghiên cứu, thiết kế, phát triển sản phẩm tại các công ty doanh nghiệp trong lĩnh vực Đo lường  Điều khiển; nghiên cứu, quản lý kỹ thuật tại các cơ quan thuộc tổng cục, chi cục kiểm định đo lường chất lượng các tỉnh và thành Mức lương trung bình 15 triệu đồng/tháng | Sinh viên có cơ hội nhận nguồn học bổng của Trường ĐHBK, nhiều suất học bổng với tổng giá trị khoảng 300 triệu từ các công ty, tập đoàn trong và ngoài nước như: ABB, Siemens, Mitsubishi, Rockwell Automationhỗ trợ thực tập tại các tập đoàn Foxconn, Coteccons, Samsung, EDH, EVN, , Học bổng trao đổi sinh viên tại nước ngoài theo các chương trình: Erasmus, AUN/SEED-Net, ECORED, Nafosted,.. Trong quá trình học sinh viên có cơ hội thực tập và tiếp tục học tập tại các trường tại Pháp và các nước ở Châu Âu
+
+
+
+Điểm nổi bật | Vị trí việc làm | Cơ hội học bổng
+Mục tiêu của chương trình là đào tạo Kỹ sư trình độ cao đáp ứng thị trường lao động trong nước và quốc tế trong lĩnh vực Cơ khí Hàng không. | Kỹ sư nghiên cứu, phát triển tại các hãng hàng không trong nước và quốc tế, nhân viên kỹ thuật tại các công ty bảo dưỡng và dịch vụ kỹ thuật hàng không; Các cụm cảng, Sân bay trong nước và quốc tế; Cán bộ nghiên cứu tại các trường đại học, viện nghiên cứu RD; Các trung tâm nghiên cứu của các tập đoàn, công ty trong lĩnh vực Cơ khí  Động lực trong nước và quốc tế, Cán bộ tại các cơ quan hàng không dân dụng, cục hàng không dân dụng Mức lương trung bình 12,5 triệu đồng/tháng | Sinh viên có cơ hội nhận học bổng của Trường, 22 suất học bổng dành cho sinh viên xuất sắc với tổng giá trị 170.000.000 đồng/ năm, 10 suất học bổng thực tập tại nước ngoài hàng năm
+
+
+
+
+
+Lưu tin 
+
+Bình luận 
+
+
+
+
+
+
+
+Chia sẻ 
+
+
+
+
+

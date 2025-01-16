@@ -1,0 +1,32 @@
+Điều kiện đăng ký xét tuyển vào Trường ĐH Bách khoa Hà Nội 2022 01/08/2022 
+
+Thí sinh đăng ký xét tuyển vào các chương trình đào tạo của Trường Đại học Bách khoa Hà Nội trong năm tuyển sinh 2022 phải đáp ứng đủ các điều kiện sau đây:
+1. Điều kiện về điểm thi:
+- Đối với điểm thi Đánh giá tư duy (ĐGTD): Đạt mức điểm sàn quy định chung cho cả 3 tổ hợp xét tuyển gồm K00 (đã tính quy đổi về thang điểm 30); K01 và K02 là 14,0 điểm.
+- Đối với điểm thi tốt nghiệp THPT: Đạt mức điểm sàn quy định chung cho cả 9 tổ hợp xét tuyển gồm A00, A01, A02, B00, D01, D07, D26, D28 và D29 là 23 điểm.
+
+2. Điều kiện về học lực căn cứ vào kết quả học tập ghi trong học bạ THPT:
+- Đối với thí sinh sử dụng kết quả kỳ thi ĐGTD: Tổng điểm 6 học kỳ của mỗi môn học trong tổ hợp môn đạt từ 42,0 trở lên. Thí sinh được tùy chọn 1 trong 5 tổ hợp môn: Toán-Lý-Hóa; Toán-Hóa-Sinh; Toán-Lý-Ngoại ngữ; Toán-Hóa-Ngoại ngữ; Toán-Văn-Ngoại ngữ.
+- Đối với thí sinh sử dụng kết quả kỳ thi tốt nghiệp THPT: Tổng điểm 6 học kỳ của mỗi môn học trong tổ hợp môn xét tuyển đạt từ 42,0 trở lên.
+
+Ví dụ: Bạn Nguyễn Văn X chọn xét theo tổ hợp A00 (Toán-Lý-Hóa) 
+
+Tổng điểm 6 học kỳ của môn Toán là: 8 + 6 + 7 + 8 + 8 + 9 = 46 điểm >= 42 thì Đủ điều kiện học lực môn Toán
+
+Tổng điểm 6 học kỳ của môn Lý là: 7 + 6 + 7 + 7 + 7 + 7 = 41 điểm ≥ 41 → Không đủ điều kiện học lực môn Lý
+
+Tổng điểm 6 học kỳ của môn Hóa là: 7 + 7 + 7 + 7 + 7 + 7 = 42 điểm ≥ 42 → Đủ điều kiện học lực môn Hóa
+
+Kết luận: Môn Toán mặc dù có kỳ 6 điểm nhưng các kỳ khác kéo lên và tổng điểm đạt lớn hơn hoặc bằng 42 vẫn được tính là hợp lệ. Môn Lý không đủ điều kiện học lực vì tổng điểm 6 kỳ dưới 42 (điểm trung bình chung học lực môn Lý dưới 7,0).
+
+Vậy bạn Nguyễn Văn X không đủ điều kiện học lực để đăng ký xét tuyển vào ĐHBKHN.
+
+Điểm thi TN THPT QG đủ nhưng điều kiện học lực không đạt (như ví dụ trên) thì bạn X vẫn bị loại kết quả trúng tuyển vào ĐHBKHN, nhà trường sẽ hậu kiểm học bạ gốc tại ngày nhập học để xác thực lại điều kiện học lực của các thí sinh. 
+
+Đề án tuyển sinh: https://ts.hust.edu.vn/tin-tuc/de-an-tuyen-sinh-nam-2022
+
+- Tổng chỉ tiêu tuyển sinh dự kiến: 7.990 sinh viên
+- Gồm 3 phương thức tuyển sinh với chỉ tiêu được phân bổ như sau:
+	i. Phương thức xét tuyển tài năng (XTTN): 10-20%
+	ii. Phương thức xét tuyển dựa theo kết quả kỳ thi đánh giá tư duy (ĐGTD): 50-60%
+	iii. Phương thức xét tuyển dựa theo kết quả thi tốt nghiệp THPT: 30-40%

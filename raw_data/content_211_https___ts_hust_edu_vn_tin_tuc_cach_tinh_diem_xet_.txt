@@ -1,0 +1,79 @@
+Cách tính điểm xét tuyển vào ĐHBKHN 2019
+25-09-2019
+
+Công thức tính điểm xét tuyển vào Đại học Bách Khoa Hà Nội năm 2019 và cách xác định Môn chính, Không có môn chính
+Câu hỏi 1: Cách tính điểm xét tuyển vào ĐHBKHN? 
+
+Trả lời:
+
+Có 2 công thức tính điểm như sau:
+
+a) Đối với tổ hợp môn không có môn chính
+
+ĐX = [Môn1+Môn2 + Môn3] + Điểm ưu tiên KV/ĐT + Điểm ưu tiên xét tuyển.
+
+b) Đối với tổ hợp môn có môn chính
+
+ ĐX = [Môn chính x 2 + Môn2 + Môn3] x ¾
+
+(làm tròn đến 2 chữ số thập phân)
+
+ + Điểm ưu tiên KV/ĐT + Điểm ưu tiên xét tuyển.
+
+ 
+
+Sau khi xác định xem mình đăng ký nguyện vọng vào ngành nào? Tổ hợp nào? Bạn áp dụng công thức a hoặc b ở trên vào ngành đó.
+
+
+
+
+
+Ví dụ: Bạn Nguyễn Văn X đăng ký vào ngành "Kỹ thuật ô tô". Bạn tra cứu trong Phương thức tuyển sinh: http://bit.ly/ptts_hust
+
+P/S: Bạn có thể dùng "Ctrl + F" trên trình duyệt gõ từ khóa "ô tô" để tìm cho nhanh
+
+
+
+Vậy công thức áp dụng là công thức b. Giả dụ bạn đăng ký bằng tổ hợp A00. Điểm thi dự kiến của bạn là: Toán 8, Lý 7, Hóa 6
+=> Điểm xét tuyển của bạn = (8x2 + 7 + 6) x 3/4 + Điểm ưu tiên KV/ĐT + Điểm ưu tiên xét tuyển.
+
+(Giả dụ điểm ưu tiên xét tuyển của bạn là 0.5 do bạn đã gửi Chứng chỉ IELTS 6.0 về trường ĐHBKHN trước ngày 14/6/2019) 
+
+Lưu ý QUAN TRỌNG: Phải x3/4 để quy về Thang điểm 30
+
+Vây công thức tính điểm xét tuyển của bạn X = (8x2 + 7 + 6) x3/4 (làm tròn đến 2 chữ số thập phân) + 0.5 = 21,75 + 0,5 = 22,25 điểm
+
+
+
+Giả sử vẫn là bạn X ở trên, đăng ký thêm nguyện vọng vào ngành "Quản lý công nghiệp (EM2)"
+
+Điểm xét tuyển của bạn X sẽ tính theo Công thức a. Và sẽ là: 
+
+Điểm xét tuyển = 8 + 7 + 6 + 0.5 = 21,5 điểm
+
+
+
+Giả sử vẫn là bạn X ở trên, bạn đăng ký thêm ngành Quản lý công nghiệp-Logistics và Quản lý chuỗi cung ứng - ĐH Northampton (Anh) thì cách tính điểm xét tuyển của bạn X là: 
+
+Điểm xét tuyển = 8 + 7 + 6 + 0.5 = 21,5 điểm
+
+ 
+
+Câu hỏi 2: Môn chính nhân đôi là thế nào? Ngành nào không có môn chính? Ngành nào có môn chính nhân đôi (x2)?
+
+Trả lời:
+
+Môn Chính nhân đôi là môn sẽ được tính 2 lần trong công thức tính xét tuyển. Đó là môn Toán hoặc môn Anh văn với ngành FL1, FL2
+
+LƯU Ý QUAN TRỌNG:  Các ngành ED2, EM1, EM2, EM3, EM4, EM5 và các Chương trình đào tạo quốc tế không có môn chính (Tức không có môn nhân đôi)
+
+Muốn xem ngành nào có môn nào nhân đôi thì bạn hãy xem ở đây: http://bit.ly/ptts_hust
+
+
+
+Chủ yếu có Toán là môn Chính và Anh văn với (FL1, FL2). Chi tiết theo cột "Các tổ hợp môn" trong http://bit.ly/ptts_hust
+
+
+
+Các ngành ED2, EM1, EM2, EM3, EM4, EM5 và các Chương trình đào tạo quốc tế không có môn chính (Tức không có môn nhân đôi)
+

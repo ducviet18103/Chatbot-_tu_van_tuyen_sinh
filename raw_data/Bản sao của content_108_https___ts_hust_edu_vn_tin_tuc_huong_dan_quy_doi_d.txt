@@ -1,0 +1,53 @@
+Hướng dẫn quy đổi điểm chứng chỉ ngoại ngữ năm 2022 12/05/2022 
+
+Trường Đại học Bách Khoa Hà Nội mở đăng ký xác thực và quy đổi chứng chỉ IELTS trực tuyến thông qua website dangkytuyensinh.hust.edu.vn kể từ ngày 15/4 đến hết 17h ngày 15/6/2022 (Đợt 1) và từ ngày 22/7 đến hết 17h ngày 15/8/2022 (Đợt 2). Điểm chứng chỉ ngoại ngữ sẽ được áp dụng quy đổi sang thang điểm 10 theo quy định của nhà trường. Việc cho phép quy đổi chứng chỉ IELTS là quyền lợi riêng mà ĐH Bách khoa Hà Nội dành cho thí sinh có chứng chỉ IELTS từ 5.0 trở lên, các chứng chỉ ngoại ngữ phù hợp khác theo bảng đối sánh tương đương đối với môn Tiếng Anh trong xét tuyển diện điểm thi (Thi đánh giá tư duy và Thi TN THPT).
+
+I. THÔNG TIN CHUNG
+
+Bắt đầu từ ngày 15/4/2022, thí sinh có chứng chỉ IELTS từ 5.0 trở lên và tham gia xét tuyển diện điểm thi (theo kết quả của Kỳ thi Tốt nghiệp THPT và thi đánh giá tư duy) có thể đăng ký quy đổi chứng chỉ ngoại ngữ tại website https://dangkytuyensinh.hust.edu.vn/
+- Hạn đăng ký quy đổi điểm Đợt 1: từ 15/4 đến hết 17h ngày 15/6/2022
+- Hạn đăng ký quy đổi điểm Đợt 2: từ 22/7 đến hết 17h ngày 15/8/2022
+Ngoài IELTS, thí sinh có thể sử dụng các chứng chỉ ngoại ngữ tương đương theo bảng đối sánh bên dưới: 
+  + IELTS 5.0: Điểm quy đổi là 8.5
+  + IELTS 5.5: Điểm quy đổi là 9.0
+  + IELTS 6.0: Điểm quy đổi là 9.5
+  + IELTS >= 6.5: Điểm quy đổi là 10.0
+
+Bảng đối sánh các chứng chỉ tiếng Anh quốc tế tương đương:
+- IELTS 5.0, TOEFL iBT: 35-45, ITP: 433-450, Cambridge English Scale: 151-159, PTE Academic: 36-41, TOEIC: 550-600, APTIS General: 131, APTIS Advanced: 110, CERF: B1
+- IELTS 5.5, TOEFL iBT: 46-59, ITP: 451-509, Cambridge English Scale: 160-170, PTE Academic: 42-53, TOEIC: 601-650, APTIS General: 153, APTIS Advanced: 126, CERF: B2
+- IELTS 6.0, TOEFL iBT: 60-78, ITP: 510-547, Cambridge English Scale: 171-179, PTE Academic: 54-64, TOEIC: 651-700, APTIS General: 160, APTIS Advanced: 153, CERF: B2
+- IELTS 6.5, TOEFL iBT: 79-89, ITP: 548-569, Cambridge English Scale: 180-183, PTE Academic: 65-69, TOEIC: 701-750, APTIS General: 170, APTIS Advanced: 160, CERF: C1
+- IELTS 7.0, TOEFL iBT: 90-99, ITP: 570-591, Cambridge English Scale: 184-191, PTE Academic: 70-74, TOEIC: 751-800, APTIS General: 180, APTIS Advanced: 165, CERF: C1
+- IELTS 7.5, TOEFL iBT: 100-109, ITP: 592-613, Cambridge English Scale: 192-199, PTE Academic: 75-78, TOEIC: 801-850, APTIS General: 190, APTIS Advanced: 170, CERF: C1
+- IELTS 8.0, TOEFL iBT: 110-114, TOEFL ITP: 614-635, Cambridge English Scale: 200-210, PTE Academic: 79-82, TOEIC: 851-900, APTIS General: >190, APTIS Advanced: 178, CERF: C2
+- IELTS 8.5, TOEFL iBT: 115-119, TOEFL ITP: 636-657, Cambridge English Scale: 211-220, PTE Academic: 83-86, TOEIC: 901-950, APTIS General: >190, APTIS Advanced: 185, CERF: C2
+- IELTS 9.0, TOEFL iBT: 120, TOEFL ITP: 658-677, Cambridge English Scale: 221-230, PTE Academic: 87-90, TOEIC: 951-990, APTIS General: >190, APTIS Advanced: 200, CERF: C2
+
+II. HƯỚNG DẪN CÁC BƯỚC
+
+Lưu ý: Chỉ sử dụng trình duyệt Chrome trên máy tính ở tất cả các bước.
+Thí sinh không sử dụng điện thoại, trình duyệt Firefox, Cốc cốc hay trình duyệt khác.... để tải lên vì có thể bị lỗi không hiển thị ảnh dẫn đến tài khoản thiếu minh chứng quy đổi. Nếu thí sinh thao tác xong, kiểm tra lại tài khoản thấy ảnh đã hiển thị rõ ràng, có email báo là thành công.
+
+Thí sinh đăng ký và hoàn thành các bước kê khai thông tin trên hệ thống. 
+Sau đó chọn mục "XÁC THỰC VÀ QUY ĐỔI ĐIỂM NGOẠI NGỮ"
+1. Chọn Chứng chỉ ngoại ngữ cần quy đổi
+2. Nhập Mã chứng nhận: Với IELTS là mã "Test Report Form Number". Mã chứng nhận của chứng chỉ IELTS có thể tìm thấy ngay dưới chữ ký, cạnh ngày cấp
+3. Nhập Ngày cấp chứng chỉ (Ngày cấp chứng chỉ IELTS cạnh mã "Text Report Form Number", cạnh chữ ký. Với các chứng chỉ khác, thí sinh có thể liên hệ tới bên cấp chứng chỉ để hỏi thông tin về Ngày cấp)
+4. Nhập Điểm chứng chỉ (Điểm quy đổi chứng chỉ sẽ tự động hiển thị ở ô tiếp theo)
+5. Tải lên minh chứng chứng chỉ IELTS. (Lưu ý: Hệ thống chỉ nhận file ảnh định dạng .JPEG, .JPG, .PNG, dưới 3MB; Không tải lên file .PDF)
+Chọn "Lưu và xác nhận email" để kết thúc và lưu thông tin
+
+Lưu ý: Với các chứng chỉ được quy đổi tương đương, thí sinh sẽ nhập mã chứng chỉ theo từng loại như sau
+  + ĐỐI VỚI CHỨNG CHỈ APTIS: Mã chứng nhận xem tại Organization.
+  + ĐỐI VỚI CHỨNG CHỈ TOELF iBT và Cambridge, thí sinh sẽ nhập ô mã chứng nhận dựa trên User name + Password ( đối với chứng chỉ TOELF iBT) và ID number + Password ( đối với chứng chỉ Cambridge)
+	- IELTS, Thông tin hậu kiểm: Test Report Number, Nhập trên hệ thống web: 20VN......
+	- APTIS, Thông tin hậu kiểm: Organization, Nhập trên hệ thống web: British Council (Viet Nam)
+	- TOEFL iBT, Thông tin hậu kiểm: User name và Password, Nhập trên hệ thống web: không có
+	- Cambridge, Thông tin hậu kiểm: Id Number và Password, Nhập trên hệ thống web: không có
+ 
+III. CHUYỂN KHOẢN LỆ PHÍ XÁC THỰC CHỨNG CHỈ
+
+Lệ phí xác thực và quy đổi chứng chỉ ngoại ngữ là 50.000 đồng (Bằng chữ: Năm mươi nghìn đồng). 
+
+Để thanh toán lệ phí xác thực, thí sinh cần hoàn thành đăng ký thông tin chứng chỉ quy đổi ở mục II. HƯỚNG DẪN CÁC BƯỚC trước đó.

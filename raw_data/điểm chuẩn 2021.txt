@@ -1,0 +1,37 @@
+1. Các ngành công nghệ vẫn dẫn đầu điểm chuẩn (2021)
+Ngành CNTT: Khoa học Máy tính (IT1) tiếp tục dẫn đầu với điểm chuẩn 28.43, giảm nhẹ so với năm 2020 (29.04).
+Các ngành thuộc khối Công nghệ thông tin có điểm chuẩn rất cao:
+CNTT: Kỹ thuật Máy tính (IT2): 28.10.
+Khoa học Dữ liệu và Trí tuệ Nhân tạo (IT-E10): 28.04.
+2. Sự ổn định của các ngành kỹ thuật truyền thống (2021)
+Các ngành kỹ thuật truyền thống như Kỹ thuật Cơ điện tử (ME1) và Kỹ thuật Ô tô (TE1) giữ vững điểm chuẩn cao:
+Kỹ thuật Cơ điện tử (ME1): 26.91, giảm nhẹ so với năm 2020 (27.48).
+Kỹ thuật Ô tô (TE1): 26.94, tương đối ổn định so với năm 2020 (27.33).
+3. Điểm chuẩn chương trình tiên tiến (2021)
+Điểm chuẩn các chương trình tiên tiến (CT tiên tiến) tiếp tục thấp hơn so với các chương trình tiêu chuẩn:
+Kỹ thuật Điều khiển - Tự động hóa (EE2): Tiêu chuẩn 27.46, tiên tiến 27.26.
+CNTT: Khoa học Dữ liệu và Trí tuệ Nhân tạo (IT-E10): 28.04, thấp hơn các chương trình CNTT tiêu chuẩn.
+4. Ngành Kinh tế và hợp tác quốc tế có điểm chuẩn thấp hơn (2021)
+Các ngành hợp tác quốc tế có điểm chuẩn thấp hơn đáng kể:
+Quản trị Kinh doanh - ĐH Troy (TROY-BA): 23.25.
+Khoa học Máy tính - ĐH Troy (TROY-IT): 25.50.
+5. Sự dịch chuyển nhỏ về điểm chuẩn giữa các ngành (2021)
+So với năm 2020, điểm chuẩn một số ngành có sự thay đổi nhẹ:
+Kỹ thuật Sinh học (BF1): giảm từ 26.20 (2020) xuống 25.34 (2021).
+Kỹ thuật Thực phẩm (BF2): giảm từ 26.60 (2020) xuống 25.94 (2021).
+6. Điểm chuẩn ngành môi trường thấp nhất (2021)
+Các ngành liên quan đến môi trường có điểm chuẩn thấp nhất:
+Quản lý Tài nguyên và Môi trường (EV2): 23.53.
+Kỹ thuật Môi trường (EV1): 24.01.
+7. Xu hướng tăng nhẹ của các ngành thuộc nhóm kinh tế (2021)
+Điểm chuẩn các ngành kinh tế có xu hướng tăng nhẹ so với năm 2020:
+Quản trị Kinh doanh (EM3): 26.04, tăng từ 25.75 (2020).
+Tài chính - Ngân hàng (EM5): 25.83, tăng từ 24.60 (2020).
+8. Chương trình mới và các ngành đặc thù (2021)
+Một số chương trình tiên tiến mới thu hút thí sinh:
+An toàn không gian số - Cyber Security (IT-E15): 27.44.
+Hệ thống nhúng thông minh và IoT (ET-E9): 26.93, tăng từ 27.51 (2020).
+Tổng quan (2021)
+Các ngành CNTT vẫn là lựa chọn hàng đầu với điểm chuẩn cao nhất.
+Các ngành kỹ thuật truyền thống duy trì sự ổn định trong mức điểm chuẩn.
+Các chương trình tiên tiến vẫn là lựa chọn tốt cho thí sinh có điểm thấp hơn một chút nhưng muốn học trong môi trường quốc tế.

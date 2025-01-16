@@ -1,0 +1,111 @@
+Cách tính điểm xét tuyển của ĐHBK Hà Nội 21-09-2021 
+
+
+
+Năm 2021, Trường ĐHBK Hà Nội phân bổ 50-60% tổng chỉ tiêu xét tuyển vào trường (dự kiến là 7420 chỉ tiêu) sử dụng kết quả của Kỳ thi tốt nghiệp THPT. Ngoài ra, chỉ tiêu dành cho phương thức xét tuyển bằng điểm của Bài Kiểm tra tư duy cũng chiếm tỷ lệ khá lớn, từ 30-40% tổng chỉ tiêu của năm nay. 
+
+Do đặc thù, một số ngành/chương trình đào tạo của ĐHBK Hà Nội sử dụng các tổ hợp xét tuyển có hoặc không có môn chính. 
+
+Đối với thí sinh xét tuyển bằng kết quả của Bài Kiểm tra tư duy sử dụng một trong các tổ hợp BK1 (Toán-Đọc hiểu-Lý, Hóa), BK2 (Toán-Đọc hiểu-Hóa, Sinh), BK3 (Toán-Đọc hiểu, Tiếng Anh), tổng điểm được tính theo thang điểm 30. Cách tính điểm xét tuyển như sau: 
+
+Điểm xét tuyển* = [(Phần Toán + Phần Đọc hiểu + Phần Tự chọn)] + Điểm ưu tiên (Khu vực / Đối tượng)
+
+
+Trong đó, Phần Toán (90 phút - gồm 2 bài tự luận và 25 câu trắc nghiệm): 15 điểm, Phần Đọc hiểu (30 phút - gồm 03 bài đọc): 05 điểm, Phần Tự chọn (60 phút, trong đó: Tự chọn Lý - Hóa hoặc Hóa - Sinh mỗi môn 15 câu trắc nghiệm, Tự chọn Tiếng Anh gồm 50 - 60 câu trắc nghiệm): 10 điểm. 
+
+Đối với thí sinh xét tuyển bằng kết quả Kỳ thi Tốt nghiệp THPT sử dụng tổ hợp xét tuyển không có môn chính , cách tính điểm xét tuyển như sau: 
+
+Điểm xét tuyển* = [(Môn 1 + Môn 2 + Môn 3)] + Điểm ưu tiên (Khu vực / Đối tượng)
+
+
+
+
+
+Ví dụ, thí sinh tham gia Kỳ thi Tốt nghiệp THPT năm 2021, sử dụng tổ hợp A00 xét tuyển vào ngành Kế toán, Mã xét tuyển EM4, có kết quả thi là: Môn Toán: 9 điểm, Môn Lý: 9.5 điểm, Môn Hóa: 6.25 điểm, không có điểm ưu tiên khu vực hoặc đối tượng, thì tổng điểm xét tuyển là: 
+
+9 + 9.5 + 6.25 = 24.75 điểm
+
+Đối với thí sinh xét tuyển bằng kết quả Kỳ thi Tốt nghiệp THPT sử dụng tổ hợp xét tuyển , cách tính điểm xét tuyển như sau: 
+
+Điểm xét tuyển  (Môn 1  Môn 2  Môn 3  Môn chính) x 3/4  Điểm ưu tiên (Khu vực / Đối tượng)
+
+
+
+Ví dụ, thí sinh tham gia Kỳ thi Tốt nghiệp THPT năm 2021, sử dụng tổ hợp A00 xét tuyển vào ngành Kỹ thuật Vật liệu, Mã xét tuyển MS1, Môn Toán là môn chính, có kết quả thi là: Môn Toán: 8.75 điểm, Môn Lý: 9 điểm, Môn Hóa: 9 điểm, điểm ưu tiên là 0.25, thì tổng điểm xét tuyển là: 
+
+{8.75 x 2 + 9 + 9) x ¾} + 0.25 = 26.88
+(*) Điểm xét tuyển theo mỗi phương thức xét tuyển đều làm tròn đến 2 chữ số sau dấu thập phân.
+
+
+Năm 2020, không có ngành/chương trình đào tạo nào của ĐHBK Hà Nội sử dụng đến tiêu chí phụ để xét tuyển. 
+
+Thí sinh có thể xét tuyển bằng cả kết quả Kỳ thi Tốt nghiệp THPT và Bài Kiểm tra tư duy do ĐHBK Hà Nội tổ chức và đăng ký chung vào Phiếu đăng ký dự thi Tốt nghiệp THPT và xét tuyển vào ĐH, CĐ do Bộ Giáo dục-Đào tạo ban hành. Thí sinh đăng ký sơ tuyển và dự thi Bài Kiểm tra tư duy trên hệ thống tuyển sinh của ĐHBK Hà Nội tại địa chỉ https://dangkytuyensinh.hust.edu.vn/. 
+
+Thời hạn đăng ký sơ tuyển tham gia Bài Kiểm tra tư duy là hết ngày 18/5/2021. Bài Kiểm tra tư duy dự kiến diễn ra vào ngày 15/7/2021, sau Kỳ thi Tốt nghiệp THPT. 
+
+Thí sinh tham khảo các mã xét tuyển vào ngành/chương trình đào tạo của ĐHBK Hà Nội sử dụng các tổ hợp xét tuyển có hoặc không có môn chính tại bảng dưới đây: 
+
+
+
+TT | Ngành /Chương trình | Tổng chỉ tiêu | Xét tuyển theo điểm thi tốt nghiệp THPT 2021 | Xét tuyển theo kết quả kỳ thi đánh giá tư duy 2021
+Mã xét tuyển | Mã tổ hợp 1 (môn chính) | Mã tổ hợp 2 (môn chính) | Mã tổ hợp 3 (môn chính) | Mã xét tuyển | Mã tổ hợp
+1 | Kỹ thuật Cơ điện tử | 300 | ME1 | A00 (Toán) | A01 (Toán) |  | ME1x | BK1
+2 | Kỹ thuật Cơ khí | 500 | ME2 | A00 (Toán) | A01 (Toán) |  | ME2x | BK1
+3 | Kỹ thuật Ô tô | 200 | TE1 | A00 (Toán) | A01 (Toán) |  | TE1x | BK1
+4 | Kỹ thuật Cơ khí động lực | 90 | TE2 | A00 (Toán) | A01 (Toán) |  | TE2x | BK1
+5 | Kỹ thuật Hàng không | 50 | TE3 | A00 (Toán) | A01 (Toán) |  | TE3x | BK1
+6 | Kỹ thuật Cơ điện tử (CT tiên tiến) | 120 | ME-E1 | A00 (Toán) | A01 (Toán) |  | ME-E1x | BK1, BK3
+7 | Kỹ thuật Ô tô (CT tiên tiến) | 80 | TE-E2 | A00 (Toán) | A01 (Toán) |  | TE-E2x | BK1, BK3
+8 | Cơ khí hàng không (Chương trình Việt - Pháp PFIEV) | 35 | TE-EP | A00 (Toán) | A01 (Toán) | D29 (Toán) | TE-EPx | BK1
+9 | Kỹ thuật Nhiệt | 250 | HE1 | A00 (Toán) | A01 (Toán) |  | HE1x | BK1
+10 | Kỹ thuật Vật liệu | 270 | MS1 | A00 (Toán) | A01 (Toán) | D07 (Toán) | MS1x | BK1
+11 | KHKT Vật liệu (CT tiên tiến) | 50 | MS-E3 | A00 (Toán) | A01 (Toán) |  | MS-E3x | BK1, BK3
+12 | Kỹ thuật Điện tử - Viễn thông | 480 | ET1 | A00 (Toán) | A01 (Toán) |  | ET1x | BK1
+13 | Kỹ thuật Điện tử - Viễn thông (CT tiên tiến) | 60 | ET-E4 | A00 (Toán) | A01 (Toán) |  | ET-E4x | BK1, BK3
+14 | Kỹ thuật Y sinh (CT tiên tiến) | 40 | ET-E5 | A00 (Toán) | A01 (Toán) |  | ET-E5x | BK1, BK3
+15 | Hệ thống nhúng thông minh và IoT (CT tiên tiến) | 60 | ET-E9 | A00 (Toán) | A01 (Toán) | D28 (Toán) | ET-E9x | BK1
+16 | CNTT: Khoa học Máy tính | 300 | IT1 | A00 (Toán) | A01 (Toán) |  | IT1x | BK1
+17 | CNTT: Kỹ thuật Máy tính | 200 | IT2 | A00 (Toán) | A01 (Toán) |  | IT2x | BK1
+18 | Khoa học dữ liệu và Trí tuệ nhân tạo (CT tiên tiến) | 100 | IT-E10 | A00 (Toán) | A01 (Toán) |  | IT-E10x | BK1, BK3
+19 | Công nghệ thông tin (Việt - Nhật) | 240 | IT-E6 | A00 (Toán) | A01 (Toán) | D28 (Toán) | IT-E6x | BK1
+20 | Công nghệ thông tin (Global ICT) | 100 | IT-E7 | A00 (Toán) | A01 (Toán) |  | IT-E7x | BK1, BK3
+21 | Công nghệ thông tin (Việt - Pháp) | 40 | IT-EP | A00 (Toán) | A01 (Toán) | D29 (Toán) | IT-EPx | BK1
+22 | Toán - Tin | 120 | MI1 | A00 (Toán) | A01 (Toán) |  | MI1x | BK1
+23 | Hệ thống thông tin quản lý | 60 | MI2 | A00 (Toán) | A01 (Toán) |  | MI2x | BK1
+24 | Kỹ thuật Điện | 220 | EE1 | A00 (Toán) | A01 (Toán) |  | EE1x | BK1
+25 | Kỹ thuật Điều khiển - Tự động hoá | 500 | EE2 | A00 (Toán) | A01 (Toán) |  | EE2x | BK1
+26 | Kỹ thuật Điều khiển - Tự động hoá (CT tiên tiến) | 50 | EE-E8 | A00 (Toán) | A01 (Toán) |  | EE-E8x | BK1, BK3
+27 | Tin học công nghiệp và Tự động hóa (Chương trình Việt - Pháp PFIEV) | 35 | EE-EP | A00 (Toán) | A01 (Toán) | D29 (Toán) | EE-EPx | BK1
+28 | Kỹ thuật Hoá học | 520 | CH1 | A00 (Toán) | B00 (Toán) | D07 (Toán) | CH1x | BK2
+29 | Hoá học | 100 | CH2 | A00 (Toán) | B00 (Toán) | D07 (Toán) | CH2x | BK2
+30 | Kỹ thuật in | 30 | CH3 | A00 (Toán) | B00 (Toán) | D07 (Toán) | CH3x | BK2
+31 | Kỹ thuật Hóa dược (CT tiên tiến) | 40 | CH-E11 | A00 (Toán) | B00 (Toán) | D07 (Toán) | CH-E11x | BK3
+32 | Kỹ thuật Sinh học | 120 | BF1 | A00 (Toán) | B00 (Toán) |  | BF1x | BK1, BK2
+33 | Kỹ thuật Thực phẩm | 200 | BF2 | A00 (Toán) | B00 (Toán) |  | BF2x | BK1, BK2
+34 | Kỹ thuật Thực phẩm (CT tiên tiến) | 80 | BF-E12 | A00 (Toán) | B00 (Toán) |  | BF-E12x | BK1, BK3
+35 | Kỹ thuật Môi trường | 120 | EV1 | A00 (Toán) | B00 (Toán) | D07 (Toán) | EV1x | BK2
+36 | Kỹ thuật Dệt - May | 200 | TX1 | A00 (Toán) | A01 (Toán) |  | TX1x | BK1
+37 | Công nghệ giáo dục | 60 | ED2 | A00 | A01 | D01 | ED2x | BK1
+38 | Vật lý kỹ thuật | 150 | PH1 | A00 (Toán) | A01 (Toán) | A02 (Toán) | PH1x | BK1
+39 | Kỹ thuật hạt nhân | 30 | PH2 | A00 (Toán) | A01 (Toán) | A02 (Toán) | PH2x | BK1
+40 | Kinh tế công nghiệp | 40 | EM1 | A00 | A01 | D01 (Toán) | EM1x | BK3
+41 | Quản lý công nghiệp | 80 | EM2 | A00 | A01 | D01 (Toán) | EM2x | BK3
+42 | Quản trị kinh doanh | 100 | EM3 | A00 | A01 | D01 (Toán) | EM3x | BK3
+43 | Kế toán | 70 | EM4 | A00 | A01 | D01 (Toán) | EM4x | BK3
+44 | Tài chính - Ngân hàng | 60 | EM5 | A00 | A01 | D01 (Toán) | EM5x | BK3
+45 | Phân tích kinh doanh (CT tiên tiến) | 60 | EM-E13 | D07 | A01 | D01 (Toán) | EM-E13x | BK3
+46 | Logistics và Quản lý chuỗi cung ứng (CT tiên tiến) | 80 | EM-E14 | D07 | A01 | D01 (Toán) | EM-E14x | BK3
+47 | Tiếng Anh KHKT và Công nghệ | 150 | FL1 | D01 (Anh) |  |  |  | 
+48 | Tiếng Anh chuyên nghiệp quốc tế | 70 | FL2 | D01 (Anh) |  |  |  | 
+49 | Cơ điện tử - hợp tác với ĐHCN Nagaoka (Nhật Bản) | 100 | ME-NUT | A00 (Toán) | A01 (Toán) | D28 (Toán) | ME-NUTx | BK1
+50 | Cơ khí - Chế tạo máy - hợp tác với ĐH Griffith (Úc) | 40 | ME-GU | A00 (Toán) | A01 (Toán) |  | ME-GUx | BK1, BK3
+51 | Cơ điện tử - hợp tác với ĐH Leibniz Hannover (Đức) | 40 | ME-LUH | A00 (Toán) | A01 (Toán) | D26 (Toán) | ME-LUHx | BK1
+52 | Điện tử - Viễn thông - hợp tác với ĐH Leibniz Hannover (Đức) | 40 | ET-LUH | A00 (Toán) | A01 (Toán) | D26 (Toán) | ET-LUHx | BK1
+53 | Quản trị kinh doanh - hợp tác với ĐH Troy (Hoa Kỳ) | 40 | TROY-BA | A00 | A01 | D01 | TROY-BAx | BK3
+54 | Khoa học máy tính - hợp tác với ĐH Troy (Hoa Kỳ) | 40 | TROY-IT | A00 | A01 | D01 | TROY-ITx | BK3
+55 | Hệ thống điện và năng lượng tái tạo (CT tiên tiến) | 50 | EE-E18 | A00 (Toán) | A01 (Toán) |  | EE-E18x | BK1, BK3
+56 | Truyền thông số và Kỹ thuật đa phương tiện (CT tiên tiến) | 40 | ET-E16 | A00 (Toán) | A01 (Toán) |  | ET-E16x | BK1, BK3
+57 | Quản lý tài nguyên và môi trường | 40 | EV2 | A00 (Toán) | B00 (Toán) | D07 (Toán) | EV2x | BK2
+58 | An toàn không gian số - Cyber security (CT tiên tiến) | 40 | IT-E15 | A00 (Toán) | A01 (Toán) |  | IT-E15x | BK1, BK3
+59 | Vật lý y khoa | 40 | PH3 | A00 (Toán) | A01 (Toán) | A02 (Toán) | PH3x | BK1
+

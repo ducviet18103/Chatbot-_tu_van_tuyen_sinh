@@ -1,0 +1,226 @@
+HỎI - ĐÁP các câu hỏi thường gặp về Tuyển sinh ĐHBKHN
+23-09-2019
+
+Môn chính nhân đôi là thế nào? Ngành nào không có môn chính? Ngành nào có môn chính. Cách tính điểm xét tuyển vào ĐHBKHN?
+Những ngày gần đây, phòng Tuyển sinh ĐHBKHN nhận được rất nhiều câu hỏi từ các thí sinh/phụ huynh, có những nội dung đã có trên website nhưng nhiều thí sinh/phụ huynh chưa đọc. Hoặc có những thông tin chưa có để thông báo. Vậy nên phòng Tuyển sinh soạn bài viết này. MONG CÁC BẠN ĐỌC KỸ TRƯỚC KHI ĐẶT NHỮNG CÂU HỎI TƯƠNG TỰ!
+
+
+
+Câu hỏi 1: Môn chính nhân đôi là thế nào? Ngành nào không có môn chính? Ngành nào có môn chính nhân đôi (x2)?
+
+Trả lời:
+
+Môn Chính nhân đôi là môn sẽ được tính 2 lần trong công thức tính xét tuyển. Đó là môn Toán hoặc môn Anh văn với ngành FL1, FL2
+
+LƯU Ý QUAN TRỌNG:  Các ngành ED2, EM1, EM2, EM3, EM4, EM5 và các Chương trình đào tạo quốc tế không có môn chính (Tức không có môn nhân đôi)
+
+Muốn xem ngành nào có môn nào nhân đôi thì bạn hãy xem ở đây: http://bit.ly/ptts_hust
+
+
+
+Chủ yếu có Toán là môn Chính và Anh văn với (FL1, FL2). Chi tiết theo cột "Các tổ hợp môn" trong http://bit.ly/ptts_hust
+
+
+
+Các ngành ED2, EM1, EM2, EM3, EM4, EM5 và các Chương trình đào tạo quốc tế không có môn chính (Tức không có môn nhân đôi)
+
+
+
+ 
+
+Câu hỏi 2: Cách tính điểm xét tuyển vào ĐHBKHN? 
+
+Trả lời:
+
+Có 2 công thức tính điểm như sau:
+
+a) Đối với tổ hợp môn không có môn chính
+
+ĐX = [Môn1+Môn2 + Môn3] + Điểm ưu tiên KV/ĐT + Điểm ưu tiên xét tuyển.
+
+b) Đối với tổ hợp môn có môn chính
+
+ ĐX = [Môn chính x 2 + Môn2 + Môn3] x ¾
+
+(làm tròn đến 2 chữ số thập phân)
+
+ + Điểm ưu tiên KV/ĐT + Điểm ưu tiên xét tuyển.
+
+ 
+
+Sau khi xác định xem mình đăng ký nguyện vọng vào ngành nào? Tổ hợp nào? Bạn áp dụng công thức a hoặc b ở trên vào ngành đó.
+
+
+
+
+
+Ví dụ: Bạn Nguyễn Văn X đăng ký vào ngành "Kỹ thuật ô tô". Bạn tra cứu trong Phương thức tuyển sinh: http://bit.ly/ptts_hust
+
+P/S: Bạn có thể dùng "Ctrl + F" trên trình duyệt gõ từ khóa "ô tô" để tìm cho nhanh
+
+
+
+Vậy công thức áp dụng là công thức b. Giả dụ bạn đăng ký bằng tổ hợp A00. Điểm thi dự kiến của bạn là: Toán 8, Lý 7, Hóa 6
+=> Điểm xét tuyển của bạn = (8x2 + 7 + 6) x 3/4 + Điểm ưu tiên KV/ĐT + Điểm ưu tiên xét tuyển.
+
+(Giả dụ điểm ưu tiên xét tuyển của bạn là 0.5 do bạn đã gửi Chứng chỉ IELTS 6.0 về trường ĐHBKHN trước ngày 14/6/2019) 
+
+Lưu ý QUAN TRỌNG: Phải x3/4 để quy về Thang điểm 30
+
+Vây công thức tính điểm xét tuyển của bạn X = (8x2 + 7 + 6) x3/4 (làm tròn đến 2 chữ số thập phân) + 0.5 = 21,75 + 0,5 = 22,25 điểm
+
+
+
+Giả sử vẫn là bạn X ở trên, đăng ký thêm nguyện vọng vào ngành "Quản lý công nghiệp (EM2)"
+
+Điểm xét tuyển của bạn X sẽ tính theo Công thức a. Và sẽ là: 
+
+Điểm xét tuyển = 8 + 7 + 6 + 0.5 = 21,5 điểm
+
+
+
+Giả sử vẫn là bạn X ở trên, bạn đăng ký thêm ngành Quản lý công nghiệp-Logistics và Quản lý chuỗi cung ứng - ĐH Northampton (Anh) thì cách tính điểm xét tuyển của bạn X là: 
+
+Điểm xét tuyển = 8 + 7 + 6 + 0.5 = 21,5 điểm
+
+ 
+
+Câu hỏi 3: Điểm chuẩn năm ngoái (2018) xem ở đâu? Đã tính theo công thức nhân đôi có môn chính chưa?
+
+Trả lời:
+
+Điểm chuẩn năm 2018 (và cả 2016, 2017) em xem ở đây: http://bit.ly/diem_xet_tuyen_hust
+
+Điểm chuẩn năm ngoái là ĐÃ TÍNH THEO CÔNG THỨC a và b rồi
+
+a) Đối với tổ hợp môn không có môn chính
+
+ĐX = [Môn1+Môn2 + Môn3] + Điểm ưu tiên KV/ĐT + Điểm ưu tiên xét tuyển.
+
+b) Đối với tổ hợp môn có môn chính
+
+ ĐX = [Môn chính x 2 + Môn2 + Môn3] x ¾
+
+(làm tròn đến 2 chữ số thập phân)
+
+ + Điểm ưu tiên KV/ĐT + Điểm ưu tiên xét tuyển.
+
+ 
+
+ 
+Câu hỏi 4: Liệu con tôi thi đạt điểm 22 thì có đỗ vào ngành X?
+Trả lời:
+Đây là câu hỏi của rất nhiều thí sinh/phụ huynh tuy nhiên phòng Tuyển sinh CHƯA THỂ có ĐÁP ÁN Chính xác ngay lúc này!
+Việc đỗ hay không sẽ phụ thuộc vào RẤT NHIỀU THÍ SINH khác chứ không chỉ mỗi mình 1 bạn vì đây là cuộc thi của 900 nghìn thí sinh trên cả nước, ngoài ra còn là THỜI GIAN để nhà trường tổng hợp hồ sơ, danh sách.
+Các thí sinh/phụ huynh cần nắm rõ các mốc công bố điểm thi (dự kiến từ 14/7 - 21/7/2019) và dựa vào Điểm chuẩn năm 2018 (ở đây http://bit.ly/diem_xet_tuyen_hust ) để điều chỉnh nguyện vọng 1 LẦN DUY NHẤT vào ngày 22/7 - 17h ngày 31/7/2019. 
+P/S: Cách thay đổi nguyện vọng xem tại http://bit.ly/doi_nguyen_vong_thpt
+ 
+=> Như vậy, việc các con đỗ hay trượt sẽ phụ thuộc vào việc gia đình lựa chọn nguyện vọng có ĐÚNG ĐẮN hay không. Ví dụ nếu bạn đạt điểm 22 có thể lựa chọn các ngành NV1 có điểm năm ngoái 2018 tầm 23 điểm, rồi NV2 tầm 22 điểm, NV3 tầm 21 điểm, NV4 tầm 18-20 điểm
+Xem thêm bài viết này: http://bit.ly/cach_dky_nvong
+ 
+Câu hỏi 5: Năm nay liệu xét điểm riêng nguyện vọng A0 và A1? Điểm A1 cao hơn A0 nên liệu có công bằng?
+Trả lời:
+Năm 2019 nhà trường xét điểm theo các tổ hợp là như nhau, không phân biệt. Vậy nên A0 và A1 đều xét tương đương nhau. Hiện đã có điểm chuẩn trúng tuyển DỰ KIẾN (Xem tại BÀI VIẾT NÀY!). Các bạn theo dõi thường xuyên trên trang website https://ts.hust.edu.vn và trang Fanpage TSDHBK www.facebook.com/tsdhbk để cập nhật thêm các thông tin khác nhé.
+ 
+Câu hỏi 6: Em muốn tìm hiểu về ngành "Công nghệ sinh học"? Ngành này ra trường làm gì? Cơ hội việc làm thế nào?
+Trả lời:
+ 
+Thứ nhất, ngành em đang cần tìm nhà trường có không? Em vào đây xem danh sách các ngành đào tạo mới nhất 2019: https://ts.hust.edu.vn/b/phuong-thuc-tuyen-sinh
+
+Thứ hai, em cần CHỦ ĐỘNG click vào từng ngành để đọc xem chi tiết mỗi ngành TRƯỚC KHI HỎI:
+
+
+Ngoài ra, các em có thể liên hệ trực tiếp Khoa - Viện để hỏi sâu hơn về Chương trình học. Liên hệ tại mục "Khoa - Viện" phía trên, gửi email cho các thầy cô Viện công nghệ thông tin và truyền thông
+ 
+Hoặc sử dụng www.google.com.vn để xem thông tin liên quan về ngành trên mạng!?
+ 
+Câu hỏi 7: Em muốn đăng ký nguyện vọng sang ngành khác? Muốn đăng ký thêm nguyện vọng thì làm thế nào?
+Trả lời:
+Theo lịch của Bộ GD&ĐT, em sẽ được Thay đổi/Sửa/Xóa/Thêm 1 LẦN DUY NHẤT vào ngày 22/7 đến 17h ngày 31/7/2019. Chi tiết theo bài này: http://bit.ly/mocthi_thpt_2019
+Sau khi biết điểm thi THPT Quốc gia (dự kiến vào 14/7 - 21/7) thì em sẽ được thay đổi vào thời gian trên. Nếu em muốn đăng ký thêm nguyện vọng thì cũng thao tác trực tuyến hoặc qua phiếu ĐKXT (nếu thêm nguyện vọng thì nộp thêm phí theo quy định!)
+ 
+Câu hỏi 8: Em có thắc mắc về Học phí ngành X?
+Trả lời:
+Nhà trường có các mức học phí cho các chương trình như sau: 
+Chương trình chuẩn: Học phí từ 17 - 22trđ/1 năm học (1 năm gồm 2 học kỳ)
+Chương trình tiên tiến (Đào tạo tinh hoa - EliTECH): Học phí gấp 1,3 - 1,5 lần Chương trình chuẩn, tức 22 - 33 trđ/1 năm học (1 năm gồm 2 học kỳ)
+Chương trình Đào tạo quốc tế: Học phí từ 50-60trđ/1 năm học (tức 25-30trđ/1 học kỳ)
+Học phí của IT - E10 (Chương trình tiên tiến Khoa học Dữ liệu và Trí tuệ Nhân tạo (Data Science and AI)) khoảng 45-50 triệu đồng/năm (1 năm 2 học kỳ)
+Học phí của FL2 (Tiếng Anh chuyên nghiệp quốc tế) học phí khoảng 40 triệu đồng/năm (1 năm 2 học kỳ)
+Chi tiết em xem bài viết này: https://ts.hust.edu.vn/b/hoc-phi
+ 
+Câu hỏi 9: Em muốn tìm hiểu chi tiết về ngành IT1, IT2, IT-E6, IT-E7, IT-LTU, IT-GINP, IT-VUW....? Học IT1 và IT2 thì sau này ra trường làm gì? Chương trình học CNTT Việt Nhật các kỳ học về cái gì? Làm thế nào để nhận học bổng với các chương trình này....
+Trả lời: Nếu học sinh/phụ huynh có bất kỳ thắc mắc nào liên quan chương trình học chi tiết, chất lượng đầu ra, hay thông tin chuyên sâu về các ngành IT tại ĐHBKHN. Tiêu chuẩn chuyển tiếp, tiêu chuẩn đạt học bổng... với chương trình đào tạo quốc tế Hãy đặt câu hỏi tại: https://www.facebook.com/Vien.CNTT
+Hoặc gửi Mail trực tiếp tới các thầy cô Viện CNTT & Truyền thông:
+Phụ trách tư vấn tuyển sinh
+
+PGS. TS. Tạ Hải Tùng - tungth@soict.hust.edu.vn (Phụ trách chung)
+PGS. TS. Cao Tuấn Dũng - dungct@soict.hust.edu.vn (Phụ trách các chương trình đào tạo chuẩn: IT1, và IT2)
+PGS. TS. Trương Thị Diệu Linh - linhtd@soict.hust.edu.vn (Phụ trách các chương trình elitech: ITE6, ITE7 và ITE10)
+PGS. TS. Huỳnh Thị Thanh Bình - binhht@soict.hust.edu.vn
+ 
+Câu hỏi 10: Em muốn tìm kiếm thông tin XYZ trên website?
+Trả lời:
+Trước tiên em cần thử tìm xem có không đã. Theo hướng dẫn này: http://bit.ly/hd_ts
+Sau đó, em mới đặt câu hỏi tới các Thầy cô.
+ 
+Câu hỏi 11: Em "nghe nói" vào học 1 ngành tại ĐHBKHN thấy không phù hợp. Có thể đổi sang ngành khác? 
+Trả lời:
+KHÔNG THỂ và phải làm đơn xin Nhà trường xem xét. Nếu không được xem xét, em muốn đổi ngành chỉ có CÁCH DUY NHẤT là thi lại ĐẠI HỌC.
+Do đó, trước khi chọn thi vào ngành X nào đó, em và gia đình cần cân nhắc kỹ lưỡng, rồi tìm hiểu xem mình có đam mê/thích ngành này không? Tìm hiểu xem sau này ra trường ngành này có Tiềm năng xin việc hay không?
+ 
+Một trong những điều kiện xem xét là em chỉ được phép chuyển đổi sang ngành học có điểm xét tuyển bằng hoặc thấp hơn điểm thi của em (tại năm thi Đại học). VD: Em thi được điểm 22 thì chỉ xét chuyển sang các ngành có điểm từ 22 trở xuống tại năm đó. 
+ 
+Câu hỏi 12: So sánh ngành IT1 (Khoa học máy tính) và IT2 (Kỹ thuật máy tính)? 
+Trả lời:
+Cả 2 ngành đều đào tạo kiến thức nền tảng cơ bản và cần thiết cho thị trường lao động về CNTT trong và ngoài nước. Sinh viên theo học sẽ học chung 70% kiến thức. 
+Ở mức độ kiến thức chuyên sâu, ngành IT1 (Công nghệ thông tin - Khoa học máy tính) tập trung đào tạo về phần mềm, dữ liệu, thuật toán biểu diễn và xử lý dữ liệu. Sinh viên tốt nghiệp có thể trở thành chuyên gia phát triển phần mềm, chuyên gia phát triển các hệ thống thông tin, và chuyên gia thiết kế và phát triển giải pháp CNTT.
+ 
+Câu hỏi 13: Chương trình IT-E6 (CNTT Việt Nhật) học như thế nào? Học phí bao nhiêu?
+Trả lời:
+IT-E6 là chương trình CNTT việt nhật hướng tới thị trường Nhật Bản. Sinh viên sẽ học kiến thức bằng tiếng Việt nhưng được học thêm môn tiếng Nhật để ra trường có thể đi làm ngay cho các công ty Nhật. Bạn xem thông tin chương trình TẠI ĐÂY nhé
+Học phí chương trình tiên tiến IT-E6 gấp 1,3 - 1,5 lần chương trình chuẩn. Tức khoảng 22 - 33trđ/1 năm học.
+ 
+Câu hỏi 14: So sánh IT-E6 (CNTT Việt Nhật) và IT-E7 (Global ICT)? 
+Trả lời:
+IT-E6 là chương trình CNTT Việt Nhật hướng tới thị trường Nhật Bản. Em sẽ học kiến thức bằng tiếng Việt nhưng được học thêm môn tiếng Nhật để ra trường có thể đi làm ngay cho các công ty Nhật.
+Còn IT-E7 là chương trình CNTT global ICT, học hoàn toàn bằng tiếng Anh.
+Chương trình IT-E6: XEM CHI TIẾT
+Chương trình IT-E7: XEM CHI TIẾT
+ 
+Câu hỏi 15: Vì sao năm nay không thấy tuyển ngành IT3? IT3 đi đâu? 
+Trả lời:
+Năm 2019, Trường ĐHBKHN không tuyển sinh mã IT3. Tất cả các mã tuyển sinh ĐẦU IT đều ĐÀO TẠO Công nghệ thông tin. Sinh viên được chọn để đào tạo chuyên sâu ngay từ đầu với các mã tuyển sinh sau:
+2 chương trình chuẩn IT1: CNTT - Khoa học máy tính (Computer Science) và IT2: CNTT - Kỹ thuật máy tính (Computer Engineering)
+3 chương trình tiên tiến: IT-E6 (Công nghệ thông tin Việt Nhật), IT-E7 (Công nghệ thông tin Global ICT), IT-E10 (Khoa học dữ liệu và trí tuệ nhân tạo: DS and AI);
+4 chương trình đào tạo Quốc tế IT-LTU (liên kết với ĐH La Trobe - Úc), IT-VUW (liên kết ĐH Victoria Wellington - New Zealand), IT-GINP (liên kết với ĐH Grenoble INP - Pháp) hoặc TROY-IT (liên kết ĐH TROY - Mỹ).
+Ngoài ra, sau khi trúng tuyển, các em có thể đăng ký thi để được tuyển chọn vào chương trình Đào tạo Tài năng “Khoa học Máy tính”
+ 
+Câu hỏi 16: Em có câu hỏi về Chương trình học ngành X? Học có khó không? Bao lâu thì ra trường? Nghe nói học Bách Khoa rất nặng kiến thức? ...v...v... 
+Trả lời:
+Những câu hỏi này, em có thể tìm được câu trả lời trong Group dành cho Tân sinh viên K64. Em truy cập vào đây Xem - Hỏi để được các anh chị giải đáp: www.fb.com/groups/K64dhbkhanoi và www.fb.com/groups/K64HUSTfamily/ 
+ 
+Câu hỏi 17: Em nhận được giấy báo nhập học của BKACAD, vậy có phải là em đã trúng tuyển ĐHBK Hà Nội không?
+
+Trả lời: Một số thí sinh nhận được Giấy báo nhập học của BKACAD khi vừa thi tốt nghiệp xong và chưa biết kết quả. Điều này rất dễ gây hiểu nhầm. Tuy nhiên, nếu đọc kỹ thông tin trong giấy báo trúng tuyển đó, thí sinh và phụ huynh cũng có thể biết được thông tiin quan trọng: Học viện Công nghệ thông tin Bách khoa (tên tiếng Anh viết tắt là BKACAD) là một trung tâm đào tạo kỹ năng nghề trong lĩnh vực công nghệ thông tin thuộc hệ thống doanh nghiệp của Nhà trường (BK-Holdings). BKACAD liên kết với các đối tác nước ngoài để tổ chức các khóa đào tạo cấp chứng nhận, chứng chỉ nghề lập trình viên quốc tế. Như vậy, công tác tuyển sinh của BKACAD hoàn toàn độc lập với công tác tuyển sinh đại học của Trường Đại học Bách khoa Hà Nội. Như vậy, nếu các em HS phổ thông không có ý định học Đại học, chỉ cần học lấy chứng chỉ quốc tế ngành Quản trị mạng , Lập trình viên...thì có thể lựa chọn chương trình này.
+
+
+
+ 
+
+ 
+ 
+
+ 
+_________
+Các chương trình đào tạo Đại học CHÍNH QUY của ĐHBKHN gồm
+- 31 chương trình đào tạo chuẩn
+- các chương trình Elitech (13 chương trình tiên tiến + 3 chương trình Chất lượng cao + 7 chương trình tài năng)
+- 11 chương trình Đào tạo quốc tế
+Để tìm hiểu về các chương trình ĐẠI HỌC CHÍNH QUY ĐHBKHN mời Quý vị Phụ huynh và các em học sinh vào website Tuyển sinh của trường tại địa chỉ: https://ts.hust.edu.vn
+
+ 
+Câu hỏi 18: Nhập học trong thời gian nào và mẫu file Lí lịch sinh viên như nào?
+Như thông tin trong bài, ĐHBKHN nhập học từ 7h30 - 17h00 trong các ngày từ 10-15/8 (kể cả T7, Chủ nhật). Em xem trong bài này 
+Nhập học SV K64: http://bit.ly/k64_can_biet
+Ngoài ra, mẫu File Lí lịch sv mẫu: http://bit.ly/llsv_pdf

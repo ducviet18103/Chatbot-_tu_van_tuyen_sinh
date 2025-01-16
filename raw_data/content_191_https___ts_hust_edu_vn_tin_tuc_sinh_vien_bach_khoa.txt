@@ -1,0 +1,19 @@
+Sinh viên Bách Khoa chế tạo đèn tảo lọc không khí, bụi mịn
+21-02-2020
+
+Không khí thị thành ô nhiễm khiến con người ngột ngạt thôi thúc nhóm sinh viên Hà Nội chế tạo đèn lọc không khí, loại bỏ bụi mịn từ cây tảo.
+"Đều là sinh viên ngành môi trường, chúng tôi tận dụng khả năng quang hợp của tảo, trong quá trình quang hợp tảo sẽ hấp thụ CO2, tạo thành oxy. Do đó chúng tôi đặt đèn trong tảo để bắt tảo luôn luôn hoạt động, sinh ra lượng oxy. Chúng tôi còn ứng dụng thêm hệ thống màng lọc, trong quá trình hút không khí trong phòng, màng lọc giữ lại, loại bỏ bụi mịn PM2.5" - sinh viên Nguyễn Tân Lập (23 tuổi, Trường ĐH Bách khoa Hà Nội) chia sẻ công dụng của sản phẩm đèn tảo.
+
+
+
+Từ trái sang: Nguyễn Duy Quang, Lê Văn Dương, Đoàn Thu Phương, Phạm Văn Hoàng, Nguyễn Tân Lập cùng chế tạo đèn tảo lọc không khí, bụi mịn
+
+Sản phẩm này do Lập cùng Nguyễn Duy Quang, Lê Văn Dương, Phạm Văn Hoàng cùng học Trường ĐH Bách khoa và sinh viên Đoàn Thu Phương (20 tuổi, Trường ĐH Kinh tế quốc dân) chế tạo.
+
+Tảo là thực vật bậc thấp, nên hiệu quả quang hợp cao hơn nhiều so với cây xanh, do vậy nhóm nghiên cứu sử dụng tảo chlorella chế tạo đèn với ba phần chính: bình chứa tảo, bộ phận chiếu sáng, bộ phận cảm biến bụi PM 2.5 và CO2.
+
+Mất gần một năm vừa nghiên cứu vừa hoàn thiện, nhóm bạn cho biết sản phẩm đèn tảo được tối ưu hơn với từng loại tảo khác nhau, từng thời điểm khác nhau, ánh sáng đèn phù hợp để đảm bảo quá trình sống và phát triển của tảo. Điều đặc biệt của đèn tảo là ứng dụng công nghệ IoT, nhờ đó người dùng có thể theo dõi đèn tảo dễ dàng trên điện thoại thông minh, laptop hay thiết bị kết nối Internet với việc tích hợp cảm biến giám sát CO2.
+
+Qua thử nghiệm ban đầu, nhóm cho biết nếu sử dụng đèn tảo có thể loại bỏ 60% CO2 (nồng độ đầu vào 500-2.000ppm, đầu ra là 400-450ppm) và hiệu suất loại bỏ bụi PM2.5 đạt đến 99% (nồng độ đầu vào 40-70ug/m3, đầu ra 4-9ug/m3).
+
+Hiện đèn tảo thử nghiệm có chiều cao 1,8m, thích hợp trong không gian khép kín như phòng làm việc hoặc quán cà phê. Nhóm bạn cho biết trong tương lai sẽ tiếp tục phát triển sản phẩm này, kết hợp với in 3D để tạo ra hình dáng đèn tảo đẹp hơn.

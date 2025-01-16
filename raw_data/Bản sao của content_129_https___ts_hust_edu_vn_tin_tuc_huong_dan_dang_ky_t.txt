@@ -1,0 +1,90 @@
+Hướng dẫn đăng ký tuyển sinh - Xét tuyển đặc cách (Bước 1)
+
+I. ĐỐI TƯỢNG ĐĂNG KÝ
+
+Thí sinh đã đăng ký xét tuyển vào Trường ĐHBK Hà Nội đợt chính thức năm 2021, không dự thi tốt nghiệp năm 2021 (cả 2 đợt), được xét đặc cách tốt nghiệp; 
+
+Thí sinh tự do, đã tốt nghiệp THPT từ năm 2020 trở về trước, đã đăng ký xét tuyển vào Trường ĐHBK Hà Nội đợt chính thức năm 2021, không thể dự thi các môn trong tổ hợp xét tuyển năm 2021 (cả 2 đợt). 
+
+
+II. HƯỚNG DẪN ĐĂNG KÝ THÔNG TIN CÁ NHÂN
+
+Bước 1: Truy cập website https://dangkytuyensinh.hust.edu.vn/
+
+Chọn tiếp "ĐĂNG KÝ" để tạo tài khoản mới.
+Bước 3: Khai báo thông tin cá nhân của thí sinh
+
++ Ở phần lựa chọn ảnh chân dung, em tải lên ảnh chụp của mình bằng cách click vào nút Tải lên
+
+
+* Yêu cầu:
+
++ Ảnh chân dung nghiêm túc, rõ nét, theo kích thước ảnh tiêu chuẩn 3x4 cm (113 x151 pixel).
+
+Kinh nghiệm: Em có thể ra tiệm photo chụp ảnh, nhờ thợ ảnh lưu giúp ra ảnh kích thước 3x4 cm. Lưu lại vào gmail để sau này sử dụng nhiều lần.
+
++ Sau khi tải ảnh lên hệ thống, em tiếp tục khai báo các thông tin cá nhân bắt buộc (Họ và tên khai sinh, Giới tính, Ngày tháng năm sinh, Tỉnh thành thành phố quận huyện địa chỉ nơi sinh và thông tin chính xác về số căn cước công dân)
+
+
+
+Họ tên khai sinh: VIẾT IN HOA, CÓ DẤU
+Giới tính: Chọn Nam, Nữ hoặc Khác
+Ngày tháng năm sinh: Em có thể nhập vào theo định dạng dd/mm/yyyy hoặc chọn theo bảng sổ xuống
+Tỉnh/Thành phố nơi sinh; Quận/huyện; Xã/phường nơi sinh: Căn cứ theo Giấy khai sinh, hoặc ghi theo Bệnh viện nơi sinh ra em 
+Số căn cước công dân: Mục này em sẽ KHÔNG copy/paste được mà phải nhập bằng tay 2 lần giống nhau. Số CMND sẽ được dùng làm tên đăng nhập tài khoản, nên em lưu ý nhập chính xác để sau này làm căn cứ đối chiếu.
+Ghi chú: Với những bạn chưa có CMND có thể sử dụng CMND của người thân, nhưng lưu ý sau này nếu em có số CMND mới, em hãy chủ động liên hệ tới phòng tuyển sinh (mail: tuyensinh@hust.edu.vn để đổi lại số CMND)
+
+
+
+Tuần tự, em tải lên mặt trước và mặt sau CMND
+
+
+
++ Đối với hình ảnh CCCD/CMND/HC tải lên, lưu ý hình ảnh tải lên phải có kích thước lớn hơn hoặc bằng 350 px (khoảng 9cm trở lên). Em có thể lấy điện thoại chụp CMND của mình và tải lên.
+
+
+
+Các thông tin tiếp theo:
+
+Quốc tịch. Nếu em là người nước ngoài thì ô Quốc tịch sẽ chọn "Khác" ở cuối cùng của danh sách
+Dân tộc: Nếu em là người nước ngoài thì ô Dân tộc sẽ chọn "Khác" ở cuối cùng của danh sách
+Tôn giáo: Chọn tôn giáo của mình. Không theo tôn giáo nào, chọn "Không". Nếu không có tôn giáo của mình, em chọn "Khác" ở cuối cùng của danh sách
+Email: Nhập chính xác Email (một số bạn nhập gmail.com.vn hay gmaill.com là LỖI SAI SƠ ĐẲNG, có thể dẫn đến không nhận được mail kích hoạt tài khoản. Yêu cầu sử dụng email thường xuyên sử dụng)
+Số điện thoại: Nhập số điện thoại của em và là số thường xuyên sử dụng. Hoặc nếu em chưa có điện thoại có thể nhập số của người thân.
++ Em lưu ý cần phải NHẬP CHÍNH XÁC tài khoản email vì hệ thống sẽ gửi thông tin tài khoản kèm mật khẩu qua email mà em đã khai
+
+
+
+
+Bước 4: Khai báo địa chỉ thường trú và địa chỉ liên lạc
+* Lưu ý:
+
+Địa chỉ thường trú (lấy theo sổ hộ khẩu của gia đình)
+Trường hợp nếu đã chọn Phường/Xã ở ô trên thì không cần nhập lại tên Phường/Xã ở ô Số nhà, tên đường
+Trường hợp nếu tại ô Phường/Xã chọn Khác thì phải nhập tên Phường/Xã ở ô Số nhà, tên đường
+Địa chỉ này sẽ được dùng để gửi giấy báo dự thi, phiếu điểm và liên hệ khi cần thiết cho các em
+
+Bước 5: Khai báo quá trình học tập tại trường THPT nơi các em theo học
+
+Nơi học THPT chính là địa chỉ trường THPT em đã theo học tương ứng tại từng kỳ học THPT.
+
+Nếu các kỳ học sau giống như kỳ học 1 lớp 10 thì em chọn "Giống như học kỳ 1, lớp 10" để nhập nhanh các ô thông tin.
+
++ Ở mục này em lưu ý lựa chọn đối tượng thi. Nếu em đang theo học tại trường THPT thì tích vào ô học sinh lớp 12, ngược lại với các trường hợp còn lại thì em tích vào ô Thí sinh tự do.
+
+Bước 6: Thông tin Ưu tiên
+LƯU Ý QUAN TRỌNG:
+
+Kể cả bạn thuộc Khu vực 3; Không thuộc đối tượng ưu tiên. Cũng phải điền vào phần này. Nếu KHÔNG sẽ không thể ấn Lưu và xác nhận email đi được
+Ở mục này em cần kiểm tra chính xác mình có nằm trong diện được ưu tiên hay không.Trong mục sẽ có hai mục chính mà các em cần quan tâm là Đối tượng ưu tiên và Khu vực ưu tiên.
+* Đối tượng ưu tiên là những đối tượng thuộc nhóm ưu tiên sẽ được cộng điểm khi xét tuyển vào đại học. Theo quy định của Bộ GD&ĐT.
+
+Bước 7: Lưu và xác nhận Email
++ Sau khi hoàn thành tất cả các bước khai báo thông tin cá nhân ở trên, em kết thúc bằng cách click vào mục Lưu và xác nhận email để hoàn thành đăng ký trên hệ thống.
+
++ Hệ thống sẽ gửi về hòm thư mà em đã khai ở trên thông tin về ID đăng nhập (Chính là số CMND) và Mật khẩu đăng nhập vào Hệ thống đăng ký tuyển sinh của trường ĐH Bách Khoa Hà Nội. (Em lưu ý kiểm tra cả hòm thư SPAM nếu chưa thấy mail)
+
+
+
+Em sử dụng thông tin trên để đăng nhập tại đường link  https://dangkytuyensinh.hust.edu.vn/login và cần đổi mật khẩu ở lần Đăng nhập đầu tiên
+

@@ -1,0 +1,30 @@
+[Review] Hệ thống thông tin quản lý (MI2) (thuộc viện Toán ứng dụng và Tin học)
+22-09-2020
+
+Tiếp nối bài review trước về ngành Toán -Tin (MI1), hôm nay website tuyển sinh sẽ cung cấp cho các bạn các thông tin về ngành MI2 nhé.
+Việc sử dụng rộng rãi máy tính cũng như công nghệ thông tin đưa đến cho doanh nghiệp những khả năng cạnh tranh vượt trội cũng như các cơ quan hành chính công hoặc các cơ quan phi lợi nhuận phục vụ mọi người được tốt hơn. Hệ thống thông tin quản lý trên cơ sở máy tính trở thành yếu tố then chốt trong hầu hết các tổ chức, và chiến lược phát triển hệ thống thông tin cũng được tích hợp chặt chẽ vào chiến lược phát triển của tổ chức.
+
+Hệ thống thông tin quản lý là một ngành chứng kiến sự phát triển mạnh trong khoảng 50 năm qua song hành với nhu cầu tăng trưởng không ngừng của các tổ chức trong việc sử dụng công nghệ thông tin để vận hành các quá trình sản xuất, hỗ trợ quyết định, lên chiến lược cạnh tranh.
+
+Hệ thống thông tin là thuật ngữ dùng để chỉ các hệ thống, con người, và quá trình được sử dụng để tạo ra, lưu trữ, thao tác và phát tán thông tin. Hệ thống thông tin quản lý là muốn nói đến các hệ thống thông tin được sử dụng trong quản lý, vận hành các tổ chức kinh doanh. Lĩnh vưc Hệ thống thông tin quản lý giống như cầu nối giữa kinh doanh với Khoa học máy tính, Kỹ thuật máy tính và Hệ thống thông tin.
+
+Trong trường đại học, Hệ thống thông tin quản lý bao gồm nghiên cứu, điều tra, khảo sát, phát triển, xây dựng, cài đặt, triển khai các hạ tầng cũng như hệ thống thông tin được sử dụng trong tổ chức cho mục đích quản lý (phát triển hệ thống) và thu nhận, cài đặt, quản lý các tài nguyên và dịch vụ công nghệ thông tin (chức năng của hệ thống thông tin). Sinh viện được trang bị các kiến thức về Công nghệ thông tin, Khoa học quản lý, Kinh tế, Quản trị, ...
+
+
+
+Ảnh: Một sinh viên K64 Viện Toán Ứng dụng và Tin học
+
+Chuyên gia hệ thống thông tin quản lý chịu trách nhiệm về phát triển, cài đặt và quản trị hạ tầng công nghệ thông tin (máy tính và truyền thông), dữ liệu (cả ngoài và trong) và các hệ thống trên toàn doanh nghiệp, theo dõi các công nghệ mới để tích hợp vào chiến lược và kế hoạch của tổ chức, hỗ trợ các cá nhân và các bộ phận về hệ thống công nghệ thông tin.
+Một số nhiệm vụ đặc thù có thể kể ra như:
+
+Kiến trúc kinh doanh thông minh: đưa ra các chuẩn và các định hướng cho việc định nghĩa, chỉ đạo, xây dựng, tăng cường và tiến hóa của các nền tảng công nghệ thông tin đưa đến sự phát triển của công việc kinh doanh.
+
+Phân tích quá trình kinh doanh: cung cấp hệ thống hỗ trợ quá trình phân tích, nhận định các cơ hội, nguy cơ, thước đo cho hiệu năng cũng như sự thay đổi của tổ chức, doanh nghiệp.
+
+Nghề nghiệp trong lĩnh vực Hệ thống thông tin quản lý: Các công việc trong lĩnh vực Hệ thống thông tin quản lý trải dài trong nhiều lĩnh vực như bảo hiểm, lập trình, phân tích dữ liệu, truyền thông, bảo mật máy tính, ... Sau đây là một số ví dụ cụ thể:
+
+Chăm sóc sức khỏe: xây dựng các hệ thống thông tin liên quan đến y tế, dựa trên phân tích nhu cầu của bác sĩ, y tá, người bệnh và các tổ chức chăm sóc sức khỏe, xây dựng các mạng lưới chăm sóc sức khỏe cho phép các bác sĩ và y tá chia sẻ kiến thức cũng như thực hành, xây dựng các hệ thống khuyến nghị, theo dõi cũng như chăm sóc sức khỏe cho bệnh nhân, tạo ra các hồ sơ chính xác và có thể cung cấp tức thời về sức khỏe của bệnh nhân, nhận diện phương pháp chữa bệnh tốt nhất dựa trên mạng lưới thông tin y tế.
+
+Kinh doanh: phát triển các công cụ để thu thập và phân tích dữ liệu kinh doanh, thiết kế các hệ hỗ trợ quyết định để hỗ trợ lãnh đạo doanh nghiệp, tạo ra các công cụ phần mềm tự động hóa kho hàng và xí nghiệp.
+
+Cộng đồng: xây dựng hệ thống thông tin địa lý hỗ trợ công tác quy hoạch, sử dụng công nghệ hỗ trợ cho quá trình bầu cử, xây dựng hệ thống thành phố thông minh, cung cấp hệ thống mạng xã hội tăng cường kết nối cộng đồng.

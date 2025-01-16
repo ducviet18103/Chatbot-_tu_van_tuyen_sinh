@@ -1,0 +1,145 @@
+Điểm chuẩn trúng tuyển hệ đại học chính quy năm 2020 03-09-2020 
+
+
+
+Điểm chuẩn trúng tuyển hệ đại học chính quy năm 2020 
+
+Mã xét tuyển | Tên ngành/chương trình đào tạo | Môn chính | Điểm chuẩn
+BF1 | Kỹ thuật Sinh học | Toán | 26.20
+BF1x | Kỹ thuật Sinh học | KTTD | 20.53
+BF2 | Kỹ thuật Thực phẩm | Toán | 26.60
+BF2x | Kỹ thuật Thực phẩm | KTTD | 21.07
+BF-E12 | Kỹ thuật Thực phẩm (CT tiên tiến) | Toán | 25.94
+BF-E12x | Kỹ thuật Thực phẩm (CT tiên tiến) | KTTD | 19.04
+CH1 | Kỹ thuật Hoá học | Toán | 25.26
+CH1x | Kỹ thuật Hoá học | KTTD | 19.00
+CH2 | Hoá học | Toán | 24.16
+CH2x | Hoá học | KTTD | 19.00
+CH3 | Kỹ thuật in | Toán | 24.51
+CH3x | Kỹ thuật in | KTTD | 19.00
+CH-E11 | Kỹ thuật Hóa dược (CT tiên tiến) | Toán | 26.50
+CH-E11x | Kỹ thuật Hóa dược (CT tiên tiến) | KTTD | 20.50
+ED2 | Công nghệ giáo dục |  | 23.80
+ED2x | Công nghệ giáo dục | KTTD | 19.00
+EE1 | Kỹ thuật Điện | Toán | 27.01
+EE1x | Kỹ thuật Điện | KTTD | 22.50
+EE2 | Kỹ thuật Điều khiển - Tự động hoá | Toán | 28.16
+EE2x | Kỹ thuật Điều khiển - Tự động hoá | KTTD | 24.41
+EE-E8 | Kỹ thuật Điều khiển - Tự động hoá và Hệ thống điện (CT tiên tiến) | Toán | 27.43
+EE-E8x | Kỹ thuật Điều khiển - Tự động hoá và Hệ thống điện (CT tiên tiến) | KTTD | 23.43
+EE-EP | Tin học công nghiệp và Tự động hóa (Chương trình Việt - Pháp PFIEV) | Toán | 25.68
+EE-Epx | Tin học công nghiệp và Tự động hóa (Chương trình Việt - Pháp PFIEV) | KTTD | 20.36
+EM1 | Kinh tế công nghiệp |  | 24.65
+EM1x | Kinh tế công nghiệp | KTTD | 20.54
+EM2 | Quản lý công nghiệp |  | 25.05
+EM2x | Quản lý công nghiệp | KTTD | 19.13
+EM3 | Quản trị kinh doanh |  | 25.75
+EM3x | Quản trị kinh doanh | KTTD | 20.10
+EM4 | Kế toán |  | 25.30
+EM4x | Kế toán | KTTD | 19.29
+EM5 | Tài chính - Ngân hàng |  | 24.60
+EM5x | Tài chính - Ngân hàng | KTTD | 19.00
+EM-E13 | Phân tích kinh doanh (CT tiên tiến) | Toán | 25.03
+EM-E13x | Phân tích kinh doanh (CT tiên tiến) | KTTD | 19.09
+EM-E14 | Logistics và Quản lý chuỗi cung ứng (CT tiên tiến) |  | 25.85
+EM-E14x | Logistics và Quản lý chuỗi cung ứng (CT tiên tiến) | KTTD | 21.19
+EM-VUW | Quản trị kinh doanh - hợp tác với ĐH Victoria Wellington (New Zealand) |  | 22.70
+EM-VUWx | Quản trị kinh doanh - hợp tác với ĐH Victoria Wellington (New Zealand) | KTTD | 19.00
+ET1 | Kỹ thuật Điện tử - Viễn thông | Toán | 27.30
+ET1x | Kỹ thuật Điện tử - Viễn thông | KTTD | 23.00
+ET-E4 | Kỹ thuật Điện tử - Viễn thông (CT tiên tiến) | Toán | 27.15
+ET-E4x | Kỹ thuật Điện tử - Viễn thông (CT tiên tiến) | KTTD | 22.50
+ET-E5 | Kỹ thuật Y sinh (CT tiên tiến) | Toán | 26.50
+ET-E5x | Kỹ thuật Y sinh (CT tiên tiến) | KTTD | 21.10
+ET-E9 | Hệ thống nhúng thông minh và IoT (Ct tiên tiến) | Toán | 27.51
+ET-E9x | Hệ thống nhúng thông minh và IoT (Ct tiên tiến) | KTTD | 23.30
+ET-LUH | Điện tử - Viễn thông - hợp tác với ĐH Leibniz Hannover (Đức) |  | 23.85
+ET-LUHx | Điện tử - Viễn thông - hợp tác với ĐH Leibniz Hannover (Đức) | KTTD | 19.00
+EV1 | Kỹ thuật Môi trường | Toán | 23.85
+EV1x | Kỹ thuật Môi trường | KTTD | 19.00
+FL1 | Tiếng Anh KHKT và Công nghệ | Tiếng Anh | 24.10
+FL2 | Tiếng Anh chuyên nghiệp quốc tế | Tiếng Anh | 24.10
+HE1 | Kỹ thuật Nhiệt | Toán | 25.80
+HE1x | Kỹ thuật Nhiệt | KTTD | 19.00
+IT1 | CNTT: Khoa học Máy tính | Toán | 29.04
+IT1x | CNTT: Khoa học Máy tính | KTTD | 26.27
+IT2 | CNTT: Kỹ thuật Máy tính | Toán | 28.65
+IT2x | CNTT: Kỹ thuật Máy tính | KTTD | 25.63
+IT-E10 | Khoa học dữ liệu và Trí tuệ nhân tạo (CT tiên tiến) | Toán | 28.65
+IT-E10x | Khoa học dữ liệu và Trí tuệ nhân tạo (CT tiên tiến) | KTTD | 25.28
+IT-E6 | Công nghệ thông tin (Việt - Nhật) | Toán | 27.98
+IT-E6x | Công nghệ thông tin (Việt - Nhật) | KTTD | 24.35
+IT-E7 | Công nghệ thông tin (Global ICT) | Toán | 28.38
+IT-E7x | Công nghệ thông tin (Global ICT) | KTTD | 25.14
+IT-EP | Công nghệ thông tin (Việt - Pháp) | Toán | 27.24
+IT-Epx | Công nghệ thông tin (Việt - Pháp) | KTTD | 22.88
+IT-LTU | Công nghệ thông tin - hợp tác với ĐH La Trobe (Úc) |  | 26.50
+IT-LTUx | Công nghệ thông tin - hợp tác với ĐH La Trobe (Úc) | KTTD | 22.00
+IT-VUW | Công nghệ thông tin - hợp tác với ĐH Victoria Wellington (New Zealand) |  | 25.55
+IT-VUWx | Công nghệ thông tin - hợp tác với ĐH Victoria Wellington (New Zealand) | KTTD | 21.09
+ME1 | Kỹ thuật Cơ điện tử | Toán | 27.48
+ME1x | Kỹ thuật Cơ điện tử | KTTD | 23.60
+ME2 | Kỹ thuật Cơ khí | Toán | 26.51
+ME2x | Kỹ thuật Cơ khí | KTTD | 20.80
+ME-E1 | Kỹ thuật Cơ điện tử (CT tiên tiến) | Toán | 26.75
+ME-E1x | Kỹ thuật Cơ điện tử (CT tiên tiến) | KTTD | 22.60
+ME-GU | Cơ khí - Chế tạo máy - hợp tác với ĐH Griffith (Úc) |  | 23.90
+ME-GUx | Cơ khí - Chế tạo máy - hợp tác với ĐH Griffith (Úc) | KTTD | 19.00
+ME-LUH | Cơ điện tử - hợp tác với ĐH Leibniz Hannover (Đức) |  | 24.20
+ME-LUHx | Cơ điện tử - hợp tác với ĐH Leibniz Hannover (Đức) | KTTD | 21.60
+ME-NUT | Cơ điện tử - hợp tác với ĐHCN Nagaoka (Nhật Bản) |  | 24.50
+ME-NUTx | Cơ điện tử - hợp tác với ĐHCN Nagaoka (Nhật Bản) | KTTD | 20.50
+MI1 | Toán - Tin | Toán | 27.56
+MI1x | Toán - Tin | KTTD | 23.90
+MI2 | Hệ thống thông tin quản lý | Toán | 27.25
+MI2x | Hệ thống thông tin quản lý | KTTD | 22.15
+MS1 | Kỹ thuật Vật liệu | Toán | 25.18
+MS1x | Kỹ thuật Vật liệu | KTTD | 19.27
+MS-E3 | KHKT Vật liệu (CT tiên tiến) | Toán | 23.18
+MS-E3x | KHKT Vật liệu (CT tiên tiến) | KTTD | 19.56
+PH1 | Vật lý kỹ thuật | Toán | 26.18
+PH1x | Vật lý kỹ thuật | KTTD | 21.50
+PH2 | Kỹ thuật hạt nhân | Toán | 24.70
+PH2x | Kỹ thuật hạt nhân | KTTD | 20.00
+TE1 | Kỹ thuật Ô tô | Toán | 27.33
+TE1x | Kỹ thuật Ô tô | KTTD | 23.40
+TE2 | Kỹ thuật Cơ khí động lực | Toán | 26.46
+TE2x | Kỹ thuật Cơ khí động lực | KTTD | 21.06
+TE3 | Kỹ thuật Hàng không | Toán | 26.94
+TE3x | Kỹ thuật Hàng không | KTTD | 22.50
+TE-E2 | Kỹ thuật Ô tô (CT tiên tiến) | Toán | 26.75
+TE-E2x | Kỹ thuật Ô tô (CT tiên tiến) | KTTD | 22.50
+TE-EP | Cơ khí hàng không (Chương trình Việt - Pháp PFIEV) | Toán | 23.88
+TE-EPx | Cơ khí hàng không (Chương trình Việt - Pháp PFIEV) | KTTD | 19.00
+TROY-BA | Quản trị kinh doanh - hợp tác với ĐH Troy (Hoa Kỳ) |  | 22.50
+TROY-BAx | Quản trị kinh doanh - hợp tác với ĐH Troy (Hoa Kỳ) | KTTD | 19.00
+TROY-IT | Khoa học máy tính - hợp tác với ĐH Troy (Hoa Kỳ) |  | 25.00
+TROY-ITx | Khoa học máy tính - hợp tác với ĐH Troy (Hoa Kỳ) | KTTD | 19.00
+TX1 | Kỹ thuật Dệt - May | Toán | 23.04
+TX1x | Kỹ thuật Dệt - May | KTTD | 19.16
+
+Lưu ý:
+
+(*) Không có ngành/chương trình nào phải sử dụng đến tiêu chí phụ để xét tuyển.
+
+(**) Những mã ngành có thêm đuôi "x" sử dụng tổ hợp A19, A20 khi xét tuyển. Đây là tổ hợp sử dụng kết quả bài kiểm tra tư duy
+
+Năm 2020 điểm bài kiểm tra tư duy xét kết hợp với 2 môn thi TN THPT. A19 là Toán, Lý, Bài thi tư duy; A20 là Toán, Hóa, Bài thi tư duy
+Năm 2021, trường ĐHBKHN không sử dụng mã tổ hợp A19, A20 mà thay vào đó là BK1, BK2, BK3 vì không sử dụng xét kết hợp với điểm môn thi TN THPT nữa. (BK1: Toán, Đọc hiểu, Định hướng tự chọn Lý-Hóa; BK2: Toán, Đọc hiểu, Định hướng tự chọn Hóa-Sinh; BK3: Toán, Đọc hiểu, Định hướng tự chọn Tiếng Anh)
+(***) Mã ngành: EM-NU đổi thành EM-E14 kể từ năm tuyển sinh 2020
+
+ 
+
+ 
+
+Ghi chú:
+
+Điểm chuẩn được xác định dựa trên điểm đánh giá (ĐX) như sau:
+
+a) Đối với tổ hợp môn không có môn chính: ĐX = [(Môn1 + Môn2 + Môn3)] + Điểm ưu tiên (Khu vực / Đối tượng)
+
+b) Đối với tổ hợp môn thi có một môn chính: ĐX = [(Môn1 + Môn2 + Môn3 + Môn chính) x 3/4, làm tròn đến 2 chữ số thập phân] + Điểm ưu tiên (Khu vực / Đối tượng)
+
+
+
+

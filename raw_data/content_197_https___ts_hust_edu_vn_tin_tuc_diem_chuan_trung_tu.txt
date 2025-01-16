@@ -1,0 +1,87 @@
+Điểm chuẩn trúng tuyển hệ đại học chính quy 3 năm 2016 - 2017 - 2018 26-09-2019 
+
+
+
+Điểm chuẩn trúng tuyển hệ đại học chính quy 3 năm 2016 - 2017 - 2018 
+
+
+
+MÃ XÉT TUYỂN | NGÀNH/CHƯƠNG TRÌNH ĐÀO TẠO | ĐIỂM CHUẨN TRÚNG TUYỂN
+2016 | 2017 | 2018
+ME1 | Kỹ thuật Cơ điện tử | 25.26 | 27,00 | 23,25
+ME2 | Kỹ thuật Cơ khí | 24 | 25,75 | 21,30
+ME-E1 | CTTT Cơ điện tử | 22.74 | 25.5 | 21,55
+TE1 | Kỹ thuật Ô tô | 24 | 25.75 | 22,60
+TE2 | Kỹ thuật Cơ khí động lực | 22,20
+TE3 | Kỹ thuật Hàng không | 22,00
+TE4 | Kỹ thuật Tàu thuỷ | 20,00
+TE-E2 | CTTT Kỹ thuật Ô tô | chưa TS | 21,35
+HE1 | Kỹ thuật Nhiệt | 22.95 | 24.75 | 20,00
+MS1 | Kỹ thuật Vật liệu | 22.98 | 23.75 | 20,00
+MS-E3 | CTTT KHKT Vật liệu | 23.94 | 22.75 | 20,00
+ET1 | Kỹ thuật Điện tử - Viễn thông | 24.9 | 26.25 | 22,00
+ET-E4 | CTTT Điện tử - Viễn thông | chưa TS | 25.5 | 21,70
+ET-E5 | CTTT Kỹ thuật Y sinh | 22.83 | 25.25 | 21,70
+IT1 | Khoa học máy tính | 26.46 | 28.25 | 25,00
+IT2 | Kỹ thuật Máy tính | 23,50
+IT3 | Công nghệ thông tin | 25,35
+IT-E6 | Công nghệ thông tin Việt-Nhật | 22.59 | 26.75 | 23,10
+IT-E7 | Công nghệ thông tin ICT | 24,00
+MI1 | Toán - Tin | 24.09 | 25.75 | 22,30
+MI2 | Hệ thống thông tin quản lý | 21,60
+EE1 | Kỹ thuật Điện | 25.59 | 27.25 | 21,00
+EE2 | Kỹ thuật Điều khiển - Tự động hoá | 23,90
+EE-E8 | CTTT ĐK-TĐH và Hệ thống điện | 22.65 | 26.25 | 23,00
+CH1 | Kỹ thuật Hoá học | 23.79 | 25 | 20,00
+CH2 | Hoá học | 23.25 | 20,00
+CH3 | Kỹ thuật in | 23.16 | 21.25 | 20,00
+BF1 | Kỹ thuật Sinh học | 23.79 | 25 | 21,10
+BF2 | Kỹ thuật Thực phẩm | 21,70
+EV1 | Kỹ thuật Môi trường | 20,00
+TX1 | Kỹ thuật Dệt | 23.19 | 24.5 | 20,00
+TX2 | Công nghệ May | 20,50
+ED1 | Sư phạm Kỹ thuật công nghiệp | 21.33 | 22.5 | 20,00
+PH1 | Vật lý Kỹ thuật | 22.86 | 23.25 | 20,00
+NE1 | Kỹ thuật hạt nhân | 23.25 | 20,00
+EM1 | Kinh tế công nghiệp | 22.41 | 23 | 20,00
+EM2 | Quản lý công nghiệp | 20,00
+EM3 | Quản trị kinh doanh | 23.19 | 24.25 | 20,70
+EM4 | Kế toán | 23.19 | 23.75 | 20,50
+EM5 | Tài chính-Ngân hàng | 20,00
+FL1 | Tiếng Anh KHKT và Công nghệ | 22.44 | 24.5 | 21,00
+FL2 | Tiếng Anh chuyên nghiệp Quốc tế | 21.87 | 24.5 | 21,00
+ME-NUT | Cơ điện tử - ĐH Nagaoka | 22.5 | 23.25 | 20,35
+ME-GU | Cơ khí-Chế tạo máy-ĐH Griffith | chưa TS | 18,00
+ET-LUH | Điện tử - Viễn thông - ĐH Leibniz Hannover | 21.84 | 22 | 18,00
+IT-LTU | Công nghệ thông tin - ĐH La Trobe | 22.56 | 23.5 | 20,50
+IT-VUW | Công nghệ thông tin - ĐH Victoria Wellington | 19.74 | 22 | 19,60
+IT-GINP | Hệ thống thông tin - ĐH Grenoble INP | 21 | 20 | 18,80
+EM-VUW | Quản trị kinh doanh - ĐH Victoria Wellington | 20.1 | 21.25 | 18,00
+EM-NU | QLCN-Logistics và QL chuỗi cung ứng | 19.59 | 20 | 20,00
+TROY-BA | Quản trị kinh doanh - ĐH Troy | 19.5 | 21 | 18,00
+TROY-IT | Khoa học máy tính - ĐH Troy | 20.1 | 21.25 | 18,00
+
+Ghi chú
+
+Điểm chuẩn này được xác định dựa trên điểm xét ĐX như sau
+
+a) Đối với tổ hợp môn không có môn chính
+
+ĐX = [Môn1+Môn2 + Môn3] + Điểm ưu tiên KV/ĐT + Điểm ưu tiên xét tuyển.
+
+b) Đối với tổ hợp môn có môn chính
+
+ ĐX = [Môn chính x 2 + Môn2 + Môn3] x ¾
+
+(làm tròn đến 2 chữ số thập phân)
+
+ + Điểm ưu tiên KV/ĐT + Điểm ưu tiên xét tuyển.
+
+ 
+
+XEM THÊM
+Tổ hợp môn, ngành/chương trình đào tạo - XEM TẠI ĐÂY
+Đối tượng ưu tiên, điểm ưu tiên khu vực/đối tượng - XEM TẠI ĐÂY
+Điểm ưu tiên xét tuyển - XEM QUY CHẾ TẠI ĐÂY
+
+

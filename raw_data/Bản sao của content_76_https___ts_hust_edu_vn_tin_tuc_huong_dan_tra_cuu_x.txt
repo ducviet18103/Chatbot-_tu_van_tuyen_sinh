@@ -1,0 +1,17 @@
+Hướng dẫn tra cứu xác nhận nhập học diện thi TN THPT 21/09/2022 
+
+Trong thời điểm hiện tại, Phòng Tuyển sinh đang nhận được rất nhiều hồ sơ xác nhận nhập học từ hàng nghìn thí sinh từ khắp các tỉnh thành trên cả nước. Quá trình hậu kiểm hồ sơ được thực hiện kỹ lưỡng và có thể mất thời gian trong 1 vài ngày nên các bạn thí sinh hãy đảm bảo rằng bên chuyển phát bưu điện đã gửi hồ sơ đến (thông qua dịch vụ "Định vị bưu phẩm") trước khi liên hệ tới Phòng Tuyển sinh.
+
+Hàng ngày, các hồ sơ được hậu kiểm sẽ được cập nhật tại đường link sau: https://xacnhannhaphoc.hust.edu.vn/
+
+Để tra cứu, bạn nhập vào 2 trường thông tin:
+- Số báo danh thi TN THPT 
+- 4 số cuối mã số sinh viên 
+
+Sau đó chọn "Tra cứu" để xem kết quả. Nếu phòng tuyển sinh đã gửi đi thành công sẽ hiện "Mã định vị bưu phẩm" ở bên dưới. Bạn nhập mã này vào Link tra cứu hành trình đơn hàng là có thể thấy.
+
+LƯU Ý:
+- Nếu kết quả ghi: Chưa nhận hồ sơ. Vui lòng kiểm tra với bên chuyển phát bưu phẩm. Thì bạn thực hiện thao tác sau:
+	+ Liên hệ tới bên bưu điện/chuyển phát hoặc sử dụng chức năng "Định vị bưu phẩm" để kiểm tra xem hồ sơ của mình đang ở đâu. Nếu chưa gửi, thì hỏi xem nguyên nhân vì sao (VD: Vì thuộc vùng cách ly, do giãn cách covid-19...), bạn gửi mail về tuyensinh@hust.edu.vn nếu bên bưu điện KHÔNG THỂ CHUYỂN PHÁT ĐẾN ĐƯỢC.
+	+ Nếu bên bưu điện/chuyển phát đã gửi đến (qua kiểm tra bằng chức năng "Định vị bưu phẩm" có Phòng tuyển sinh/Trường ĐH Bách khoa Hà Nội ký nhận) thì thông thường hồ sơ sẽ mất khoảng 1 ngày để cập nhật lên hệ thống này). 
+- Cách sử dụng dịch vụ "Định vị bưu phẩm". Bạn hãy tra google để xem hướng dẫn hoặc hỏi chính bên bưu điện/chuyển phát mà bạn sử dụng.

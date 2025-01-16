@@ -1,0 +1,66 @@
+Danh sách Tổ tư vấn chuyên sâu các chương trình/ngành học 
+TT | (Mã TS) Tên Chương trình đào tạo | Họ và tên | Email | Điện thoại
+01 | (BF1) Kỹ thuật Sinh học | PGS. Nguyễn Lan Hương | huong.nguyenlanhust.edu.vn | 0903247172
+02 | (BF2) Kỹ thuật Thực phẩm | TS. Nguyễn Thị Hạnh | hanh.nguyenthihust.edu.vn | 0985899457
+03 | (BF-E12) Kỹ thuật thực phẩm (CT tiên tiến) | PGS. Vũ Thu Trang | trang.vuthuhust.edu.vn | 0934668283
+04 | (BF-E19) Kỹ thuật sinh học (CT tiên tiến) | PGS. Phạm Tuấn Anh | anh.phamtuan1hust.edu.vn | 0918674681
+05 | (CH1) Kỹ thuật Hóa học | PGS. Phan Thị Tố Nga | nga.phanthitohust.edu.vn | 0394669315
+06 | (CH2) Hóa học | PGS. Trần Thị Minh | minh.tranthihust.edu.vn | 0988557877
+07 | (MS5) Kỹ thuật in | TS. Dương Hồng Quyên | quyen.duonghonghust.edu.vn | 0982951981
+08 | (CH-E11) Kỹ thuật Hóa dược (CT tiên tiến) | TS. Đào Huy Toàn | toan.daohuyhust.edu.vn | 0915898902
+09 | (ED2) Công nghệ giáo dục | TS. Nguyễn Thị Huyền | huyen.nguyenthi2hust.edu.vn | 0964598604
+10 | (ED3) Quản lý giáo dục | TS. Nguyễn Thị Duyên | duyen.nguyenthihust.edu.vn | 0975659878
+11 | (EE1) Kỹ thuật điện | TS. Nguyễn Nga Việt | viet.nguyenngahust.edu.vn | 0333439321
+12 | (EE2) Kỹ thuật Điều khiển và Tự động hóa | PGS.TS. Vũ Hoàng Phương | phuong.vuhoanghust.edu.vn | 0989258854
+13 | (EE-E8) Kỹ thuật Điều khiển - Tự động hóa (CT tiên tiến) | TS. Nguyễn Thanh Hường | huong.nguyenthanh3hust.edu.vn | 0904466684
+14 | (EE-E18) Hệ thống điện và năng lượng tái tạo (CT tiên tiến) | TS. Nguyễn Đức Tuyên | tuyen.nguyenduchust.edu.vn | 0986509059
+15 | (EE-EP) Tin học công nghiệp và Tự động hóa (CT Việt Pháp PFIEV) | TS. Nguyễn Thanh Hường | huong.nguyenthanh3hust.edu.vn | 0904466684
+16 | (ET1) Kỹ thuật Điện tử Viễn thông | PGS.TS. Nguyễn Đức Minh | minh.nguyenduc1hust.edu.vn | 0963122389
+17 | (ET2) Kỹ thuật Y sinh | TS. Nguyễn Thái HàPGS.TS. Nguyễn Lan Hương | ha.nguyenthaihust.edu.vnhuong.nguyenlanhust.edu.vn | 09042775850903247172
+18 | (ET-E4) Kỹ thuật Điện tử Viễn thông (CT tiên tiến) | TS. Phùng Thị Kiều Hà | ha.phungthikieuhust.edu.vn | 0918343623
+19 | (ET-E5) Kỹ thuật Y sinh (CT tiên tiến) | TS. Nguyễn Thái Hà | ha.nguyenthaihust.edu.vn | 0904277585
+20 | (ET-E9) Hệ thống nhúng thông minh và IoT (CT tiên tiến) | TS. Phạm Nguyễn Thanh Loan | loan.phamnguyenthanhhust.edu.vn | 0983205761
+21 | (ET-E16) Truyền thông số và Kỹ thuật đa phương tiện (CT tiên tiến) | PGS. Trần Thị Thanh Hải | hai.tranthithanh1hust.edu.vn | 0976560526
+22 | (ET-LUH) Điện tử Viễn thông ĐH Leibniz Hannover (Đức) | TS. Nguyễn Tiến Hoà | hoa.nguyentienhust.edu.vn | 0934516862
+23 | (EM1) Quản lý năng lượng | TS. Nguyễn Hoàng Lan | lan.nguyenhoanghust.edu.vn | 0905169617
+24 | (EM2) Quản lý công nghiệp | TS. Dương Mạnh Cường | cuong.duongmanhhust.edu.vn | 0912010566
+25 | (EM3) Quản trị kinh doanh | PGS. Phạm Thị Kim Ngọc | ngoc.phamthikimhust.edu.vn | 0903217533
+26 | (EM4) Kế toán | TS. Thái Minh Hạnh | hanh.thaiminhhust.edu.vn | 0912313731
+27 | (EM5) Tài chính - Ngân hàng | TS. Nguyễn Thúc Hương Giang | giang.nguyenthuchuonghust.edu.vn | 0983837780
+28 | (EM-E13) Phân tích kinh doanh (CT tiên tiến) | TS. Hà Thị Thư Trang | trang.hathithuhust.edu.vn | 0988456780
+29 | (EM-E14) Logistics và Quản lý chuỗi cung ứng (CT tiên tiến) | TS. Trần Thị Hương | huong.tranthihust.edu.vn | 0975541238
+30 | (EV1) Kỹ thuật Môi trường | PGS. Đỗ Khắc Uẩn | uan.dokhachust.edu.vn | 0975867976
+31 | (EV2) Quản lý Tài nguyên và Môi trường | TS. Trần Thanh Chi | chi.tranthanhhust.edu.vn | 0973761680
+32 | (FL1) Tiếng Anh Khoa học Kỹ thuật và Công nghệ | ThS. Lê Hoàng Linh | linh.lehoanghust.edu.vn | 02438692201
+33 | (FL2) Tiếng Anh chuyên nghiệp quốc tế | ThS. Lê Hoàng Linh | linh.lehoanghust.edu.vn | 02438692201
+34 | (HE1) Kỹ thuật Nhiệt | TS. Trịnh Quốc Dũng | dung.trinhquochust.edu.vn | 02438696165
+35 | (IT1) CNTT: Khoa học Máy tính | TS. Phạm Đăng Hải | haipdsoict.hust.edu.vn | 02438692463
+36 | (IT2) CNTT: Kỹ thuật máy tính | PGS. Nguyễn Linh Giang | giangnlsoict.hust.edu.vn | 02438692463
+37 | (IT-E6) Công nghệ thông tin (Việt Nhật) (CT tiên tiến) | TS. Đinh Thị Hà Ly | lydthsoict.hust.edu.vn | 02438692463
+38 | (IT-E7) Công nghệ thông tin (Global ICT) (CT tiên tiến) | PGS. Trương Thị Diệu Linh | linhtdsoict.hust.edu.vn | 02438692463
+39 | (IT-E10) Khoa học Dữ liệu và Trí tuệ Nhân tạo - DSAI (CT tiên tiến) | TS. Đặng Tuấn Linh | linhdtsoict.hust.edu.vn | 02438692463
+40 | (IT-E15) An toàn không gian số - Cyber Security (CT tiên tiến) | PGS. Trần Quang Đức | ductqsoict.hust.edu.vn | 02438692463
+41 | (IT-EP) Công nghệ thông tin (Việt Pháp) (CT tiên tiến) | TS. Vũ Thị Hương Giang | giangvthsoict.hust.edu.vn | 02438692463
+42 | (ME1) Kỹ thuật Cơ điện tử | TS. Nguyễn Thành Hùng | hung.nguyenthanhhust.edu.vn | 02438696165
+43 | (ME2) Kỹ thuật Cơ khí | TS. Lê Đức Độ | do.leduchust.edu.vn | 02438696165
+44 | (ME-E1) Kỹ thuật Cơ điện tử (CT tiên tiến) | TS. Nguyễn Hải Sơn | son.nguyenhaihust.edu.vn | 02438696165
+45 | (ME-LUH) Cơ điện tử ĐH Leibniz Hannover (Đức) | TS. Nguyễn Hải Sơn | son.nguyenhaihust.edu.vn | 02438696165
+46 | (ME-NUT) Cơ điện tử ĐH Nagaoka (Nhật Bản) | TS. Nguyễn Hải Sơn | son.nguyenhaihust.edu.vn | 02438696165
+47 | (ME-GU) Cơ khí Chế tạo máy ĐH Griffith (Úc) | TS. Nguyễn Thị Ngọc Huyền | huyen.nguyenthingochust.edu.vn | 02438696165
+48 | (MI1) Toán Tin | TS. Nguyễn Cảnh Nam | nam.nguyencanhhust.edu.vn | 02438682470
+49 | (MI2) Hệ thống thông tin quản lý | TS. Nguyễn Cảnh Nam | nam.nguyencanhhust.edu.vn | 02438682470
+50 | (MS1) Kỹ thuật Vật liệu | TS. Đặng Thị Hồng Huế | hue.dangthihonghust.edu.vn | 0915268088
+51 | (MS2) Chương trình Kỹ thuật vi điện tử và công nghệ Nano | TS. Tô Thanh Loan | loan.tothanhhust.edu.vn | 0968963815
+52 | (MS3) Công nghệ vật liệu polyme và compozit | TS. Vũ Minh Đức | duc.vuminhhust.edu.vn | 0945467576
+53 | (MS-E3) Khoa học và Kỹ thuật Vật liệu (CT tiên tiến) | PGS. Đặng Quốc Khánh | khanh.dangquochust.edu.vn | 0913542329
+54 | (PH1) Vật lý kỹ thuật | PGS. Nguyễn Công Tú | tu.nguyenconghust.edu.vn | 0985450355
+55 | (PH2) Kỹ thuật hạt nhân | TS. Nguyễn Tất Thắng | thang.nguyentathust.edu.vn | 0966036278
+56 | (PH3) Vật lý Y khoa | TS. Nguyễn Tất Thắng | thang.nguyentathust.edu.vn | 0966036278
+57 | (TE1) Kỹ thuật Ô tô | PGS. TS. Đàm Hoàng Phúc | phuc.damhoanghust.edu.vn | 02438696165
+58 | (TE2) Kỹ thuật Cơ khí động lực | PGS. TS. Trần Xuân Bộ | bo.tranxuanhust.edu.vn | 02438696165
+59 | (TE3) Kỹ thuật Hàng không | PGS. Hoàng Thị Kim Dung | dung.hoangthikimhust.edu.vn | 02438696165
+60 | (TE-E2) Kỹ thuật Ô tô (CT tiên tiến) | Nguyễn Thế Lương | luong.nguyenthehust.edu.vn | 02438696165
+61 | (TE EP) Cơ khí hàng không (CT Việt Pháp PFIEV) | PGS. Hoàng Thị Kim Dung | dung.hoangthikimhust.edu.vn | 02438696165
+62 | (TX1) Công nghệ Dệt May | TS. Đào Anh Tuấn | tuan.daoanhhust.edu.vn | 0979200780
+63 | (TROY-BA) Quản trị kinh doanh ĐH Troy (Hoa Kỳ) | TS. Nguyễn Thanh Hương | huong.nguyenthanh4hust.edu.vn | 0398698689
+64 | (TROY-IT) Khoa học máy tính ĐH Troy (Hoa Kỳ) | TS. Nguyễn Cảnh Nam | nam.nguyencanhhust.edu.vn | 02438692463

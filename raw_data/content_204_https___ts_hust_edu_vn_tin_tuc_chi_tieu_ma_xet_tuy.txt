@@ -1,0 +1,114 @@
+Chỉ tiêu - Mã xét tuyển năm 2019
+26-09-2019
+
+Năm 2019, trường Đại học Bách Khoa Hà Nội dự kiến tuyển 6680 chỉ tiêu, đồng thời, trường triển khai tuyển sinh 07 chương trình mới, bao gồm: (1) Chương trình tiên tiến Hệ thống nhúng thông minh và IoT; (2) Chương trình tiên tiến Khoa học Dữ liệu và Trí tuệ Nhân tạo (học bằng tiếng Anh); (3) Chương trình tiên tiến Kỹ thuật Hóa – Dược (học bằng tiếng Anh); (4) Chương trình tiên tiến Kỹ thuật Thực phẩm (học bằng tiếng Anh); (5) Chương trình tiên tiến Phân tích Kinh doanh (học bằng tiếng Anh); (6) C
+Thi Sinh
+
+(MÃ TRƯỜNG BKA)
+
+Năm 2019, trường Đại học Bách Khoa Hà Nội dự kiến tuyển 6680 chỉ tiêu, đồng thời, trường triển khai tuyển sinh 07 chương trình mới, bao gồm:
+
+Chương trình tiên tiến Hệ thống nhúng thông minh và IoT
+Chương trình tiên tiến Khoa học Dữ liệu và Trí tuệ Nhân tạo (học bằng tiếng Anh)
+Chương trình tiên tiến Kỹ thuật Hóa – Dược (học bằng tiếng Anh)
+Chương trình tiên tiến Kỹ thuật Thực phẩm (học bằng tiếng Anh)
+Chương trình tiên tiến Phân tích Kinh doanh (học bằng tiếng Anh)
+Công nghệ Giáo dục
+Chương trình hợp tác đào tạo quốc tế ngành Cơ điện tử hợp tác với ĐH Leibniz Hannover, CHLB Đức
+Mã xét tuyển cho các ngành/chương trình đào tạo, tổ hợp môn xét tuyển và chỉ tiêu tuyển sinh đại học hệ chính quy năm 2019 như sau:
+
+Ngành / Chương trình đào tạo | Mã xét tuyển | Chỉ tiêu dự kiến | Khoa - Viện | Các tổ hợp môn
+
+1. Nhóm ngành Kỹ thuật cơ khí, Cơ khí động lực, Hàng không, Chế tạo máy ()
+Kỹ thuật Cơ điện tử | ME1 | 300 | Viện Cơ khí | A00: TOÁN, Lý, Hóa;A01: TOÁN, Lý, Anh;(Toán là môn chính, nhân hệ số 2)
+Kỹ thuật Cơ khí | ME2 | 500 | Viện Cơ khí
+Kỹ thuật Ô tô | TE1 | 220 | Viện Cơ khí động lực
+Kỹ thuật Cơ khí động lực | TE2 | 90 | Viện Cơ khí động lực
+Kỹ thuật Hàng không | TE3 | 50 | Viện Cơ khí động lực
+Chương trình tiên tiến Cơ điện tử | ME-E1 | 80 | Viện Cơ khí
+Chương trình tiên tiến Kỹ thuật Ô tô | TE-E2 | 40 | Viện Cơ khí động lực
+2. Nhóm ngành Kỹ thuật Điện, Điện tử, Công nghệ thông tin, Khoa học máy tính, Hệ thống thông tin ()
+Kỹ thuật Điện | EE1 | 220 | Viện Điện | A00: TOÁN, Lý, Hóa;A01: TOÁN, Lý, Anh;(Toán là môn chính, nhân hệ số 2)
+Kỹ thuật Điều khiển - Tự động hóa | EE2 | 500 | Viện Điện
+Chương trình tiên tiến Điều khiển-Tự động hóa và Hệ thống điện | EE-E8 | 80 | Viện Điện
+Kỹ thuật Điện tử - Viễn thông | ET1 | 500 | Viện Điện tử - Viễn thông
+Chương trình tiên tiến Điện tử - Viễn thông | ET-E4 | 40 | Viện Điện tử - Viễn thông
+Chương trình tiên tiến Kỹ thuật Y sinh | ET-E5 | 40 | Viện Điện tử - Viễn thông
+Chương trình tiên tiến Hệ thống nhúng thông minh và IoT | ET-E9 | 40 | Viện Điện tử - Viễn thông
+CNTT: Khoa học Máy tính | IT1 | 260 | Viện CNTT và Truyền thông
+CNTT: Kỹ thuật Máy tính | IT2 | 180 | Viện CNTT và Truyền thông
+Chương trình tiên tiến Khoa học dữ liệu và Trí tuệ nhân tạo (Data Science and AI) | IT-E10 | 40 | Viện CNTT và Truyền thông
+Công nghệ thông tin Việt-Nhật | IT-E6 | 240 | Viện CNTT và Truyền thông
+Công nghệ thông tin Global ICT | IT-E7 | 120 | Viện CNTT và Truyền thông
+Toán-Tin | MI1 | 100 | Viện Toán ứng dụng và Tin học
+Hệ thống thông tin quản lý | MI2 | 60 | Viện Toán ứng dụng và Tin học
+3. Nhóm ngành Kỹ thuật Hóa học, Thực phẩm, Sinh học, Môi trường
+Kỹ thuật Hóa học | CH1 | 460 | Viện Kỹ thuật hóa học | A00: TOÁN, Lý, Hóa;B00: TOÁN, Hóa, Sinh;D07: TOÁN, Hóa, Anh;(Toán là môn chính, nhân hệ số 2)
+Hóa học | CH2 | 80 | Viện Kỹ thuật hóa học
+Kỹ thuật in | CH3 | 30 | Viện Kỹ thuật hóa học
+Chương trình tiên tiến Kỹ thuật Hóa dược | CH-E11 | 30 | Viện Kỹ thuật hóa học
+Kỹ thuật Sinh học | BF1 | 80 | Viện CN Sinh học và CN Thực phẩm
+Kỹ thuật Thực phẩm | BF2 | 200 | Viện CN Sinh học và CN Thực phẩm
+Chương trình tiên tiến Kỹ thuật Thực phẩm | BF-E12 | 30 | Viện CN Sinh học và CN Thực phẩm
+Kỹ thuật Môi trường | EV1 | 120 | Viện Khoa học và CN Môi trường
+4. Nhóm ngành Kỹ thuật Vật liệu, Kỹ thuật Nhiệt, Vật lý kỹ thuật, Kỹ thuật Dệt - May
+Kỹ thuật Vật liệu | MS1 | 220 | Viện Khoa học và Kỹ thuật vật liệu | A00: TOÁN, Lý, Hóa;A01: TOÁN, Lý, Anh;D07: TOÁN, Hóa, Anh;(Toán là môn chính, nhân hệ số 2)
+Chương trình tiên tiến Kỹ thuật Vật liệu (Vật liệu thông minh và Nano) | MS-E3 | 30 | Viện Khoa học và Kỹ thuật vật liệu
+Kỹ thuật Nhiệt | HE1 | 250 | Viện Khoa học và CN Nhiệt Lạnh | A00: TOÁN, Lý, Hóa;A01: TOÁN, Lý, Anh;(Toán là môn chính, nhân hệ số 2)
+Kỹ thuật Dệt - May | TX1 | 200 | Viện Dệt may - Da giầy và Thời trang
+Vật lý kỹ thuật | PH1 | 150 | Viện Vật lý kĩ thuật
+Kỹ thuật hạt nhân | PH2 | 30 | Viện Vật lý kĩ thuật | A00: TOÁN, Lý, Hóa;A01: TOÁN, Lý, Anh;A02: TOÁN, Lý, Sinh; (Toán là môn chính, nhân hệ số 2)
+5. Nhóm ngành Công nghệ giáo dục, Kinh tế - Quản lý, Ngôn ngữ Anh
+Công nghệ giáo dục | ED2 | 40 | Viện Sư phạm kỹ thuật | A00: Toán, Lý, Hóa;A01: Toán, Lý, Anh;D01: Toán, Văn, Anh;(Không có môn chính)
+Kinh tế công nghiệp | EM1 | 40 | Viện Kinh tế quản lý
+Quản lý công nghiệp | EM2 | 100 | Viện Kinh tế quản lý
+Quản trị kinh doanh | EM3 | 80 | Viện Kinh tế quản lý
+Kế toán | EM4 | 60 | Viện Kinh tế quản lý
+Tài chính-Ngân hàng | EM5 | 40 | Viện Kinh tế quản lý
+Chương trình tiên tiến Phân tích kinh doanh | EM-E13 | 30 | Viện Kinh tế quản lý | A00: TOÁN, Lý, Hóa;A01: TOÁN, Lý, Anh;(Toán là môn chính, nhân hệ số 2)
+Tiếng Anh KHKT và Công nghệ | FL1 | 150 | Viện Ngoại ngữ | D01: Toán, Văn, ANH;(Anh là môn chính, nhân hệ số 2)
+Tiếng Anh chuyên nghiệp quốc tế | FL2 | 60 | Viện Ngoại ngữ
+Ghi chú:() Các nhóm ngành được xếp hạng 401-550 thế giới và số 1 Việt Nam theo QS World University Ranking by Subject năm 2019, cụ thể là nhóm ngành ME và TE nằm trong top 451-500, nhóm ngành mã EE và ET nằm trong TOP 401, nhóm ngành mã IT và MI nằm trong TOP 501-550
+CHƯƠNG TRÌNH LIÊN KẾT QUỐC TẾ
+Cơ điện tử - ĐH CN Nagaoka (Nhật Bản) | ME-NUT | 100 | SIE, Viện Cơ khí | A00: Toán-Lý-Hóa;A01: Toán-Lý-Anh;D07: Toán-Hóa-Anh;(Không có môn chính)
+Cơ khí-Chế tạo máy - ĐH Griffith (Úc) | ME-GU | 40 | SIE, Viện Cơ khí
+Cơ điện tử - ĐH Leibniz Hannover (Đức) | ME-LUH | 40 | SIE, Viện Cơ khí
+Điện tử-Viễn thông - ĐH Leibniz Hannover (Đức) | ET-LUH | 40 | SIE, Viện Điện tử - Viễn thông
+Công nghệ thông tin - ĐH La Trobe (Úc) | IT-LTU | 70 | SIE, Viện CNTT và Truyền thông
+Công nghệ thông tin - ĐH Victoria Wellington (New Zealand) | IT-VUW | 60 | SIE, Viện CNTT và Truyền thông
+Hệ thống thông tin - ĐH Grenoble INP (Pháp) | IT-GINP | 40 | SIE, Viện CNTT và Truyền thông | D07: Toán-Hóa-Anh;D29: Toán-Lý-Pháp;(Không có môn chính)
+Quản trị kinh doanh - ĐH Victoria Wellington (New Zealand) | EM-VUW | 40 | SIE, Viện Kinh tế quản lý | A00: Toán-Lý-Hóa;A01: Toán-Lý-Anh;D01:Toán-Văn-Anh;D07: Toán-Hóa-Anh;(Không có môn chính)
+Quản lý công nghiệp-Logistics và Quản lý chuỗi cung ứng - ĐH Northampton (Anh) | EM-NU | 40 | SIE, Viện Kinh tế quản lý
+Quản trị kinh doanh - ĐH Troy (Hoa Kỳ) | TROY-BA | 40 | SIE, Viện Kinh tế quản lý
+Khoa học máy tính - ĐH Troy (Hoa Kỳ) | TROY-IT | 40 | SIE, Viện CNTT và Truyền thông
+Ghi chú:Đối với các chương trình ĐTQT (trừ các chương trình hợp tác với Nhật, Đức, Pháp) điều kiện ngoại ngữ:  4.5 IELTS hoặc tương đương. Trong trường hợp thí sinh chưa đạt sẽ được Nhà Trường tổ chức học Tiếng Anh tăng cường ngay sau khi nhập học.
+
+
+
+
+
+
+Chat trực tuyến bằng cách: Truy cập Link: m.me/tsdhbk Hoặc quét mã QR CODE bằng Camera hoặc ứng dụng trên Smart Phone: | QR Code
+
+
+
+
+
+
+
+Lưu tin 
+
+Bình luận 
+
+
+
+
+
+
+
+Chia sẻ 
+
+
+
+
+

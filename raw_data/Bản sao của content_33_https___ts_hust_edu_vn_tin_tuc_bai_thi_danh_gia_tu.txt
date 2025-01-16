@@ -1,0 +1,29 @@
+Bài thi đánh giá tư duy 2023: mức độ đánh giá tư duy, dạng câu hỏi và các ví dụ mẫu 
+Với định hướng đánh giá tư duy của học sinh, đem lại sự thành công cho người học ở bậc đại học, ba năng lực trong bài thi đánh giá tư duy năm 2023 đã được xác định gồm: (1) Tư duy Toán học; (2) Tư duy Đọc hiểu; (3) Tư duy Khoa học/Giải quyết vấn đề. 
+1. Mức độ đánh giá tư duy
+- Mức độ 1: Tư duy tái hiện
+Thể hiện khả năng nhớ lại kiến thức, thực hiện tư duy theo những quy trình đã biết.
+Các hành động tư duy cần đánh giá: xác định, tìm kiếm, lựa chọn, nhắc lại, đặt tên, ghép nối ...
+- Mức độ 2: Tư duy suy luận
+Thể hiện khả năng lập luận có căn cứ, thực hiện tư duy phân tích, tổng hợp dựa theo vận dụng quy trình thích ứng với điều kiện.
+Các hành động tư duy cần đánh giá: phân loại, so sánh, chỉ được minh chứng, tổng hợp, vận dụng, đưa ra lí lẽ, suy luận, giải thích, áp dụng, tóm tắt …
+- Mức độ 3: Tư duy bậc cao
+Thiết lập và thực hiện được các mô hình đánh giá, giải thích dựa trên bằng chứng.
+Các hành động tư duy cần đánh giá: phân tích, đánh giá, phân biệt, phán đoán, lập luận (nhiều bước), kiểm tra giả thuyết…
+2. Lĩnh vực đánh giá
+Với định hướng đánh giá tư duy của học sinh, đem lại sự thành công cho người học ở bậc đại học, trong bài thi đánh giá tư duy ba năng lực tư duy đã được xác định gồm:
+(1)     Tư duy Toán học
+(2)     Tư duy Đọc hiểu
+(3)     Tư duy Khoa học/Giải quyết vấn đề.
+Phần đánh giá tư duy toán học: nội dung gồm kiến thức về các lĩnh vực số học, đại số, hàm số, hình học, thống kê và xác xuất. Cấu trúc câu hỏi có ý nghĩa cả về vấn đề và ngữ cảnh, đại diện cho các mối quan hệ toán học; truy cập các kiến thức toán học bằng trí nhớ; kết hợp với thông tin đã cho; mô hình hóa, tính toán và thao tác toán học; diễn giải; áp dụng các kỹ năng lập luận, đưa ra quyết định dựa trên toán học và thuật toán/tựa thuật toán phù hợp. Phần đánh giá tư duy toán học nhấn mạnh tới tư duy định lượng và áp dụng phần tính toán hoặc ghi nhớ các công thức phức tạp. Các câu hỏi hàm chứa các vấn đề từ dễ đến khó với độ tin cậy để đảm bảo mức độ phân hóa thí sinh theo yêu cầu.
+Phần đánh giá tư duy đọc hiểu: đánh giá khả năng đọc nhanh và hiểu đúng. Các câu hỏi của phần thi đọc hiểu yêu cầu học sinh chuyển hóa ý nghĩa từ một số văn bản thuộc các thể loại: Văn bản khoa học, Văn bản văn học, Văn bản báo chí, nhằm đo lường khả năng thu thập được thông tin với những gì được tuyên bố rõ ràng và lập luận để xác định ý nghĩa tiềm ẩn. Các câu hỏi yêu cầu học sinh sử dụng các kỹ năng viện dẫn và lập luận để xác định các ý chính, định vị và giải thích các chi tiết quan trọng; hiểu chuỗi các sự kiện, so sánh, hiểu mối quan hệ nhân quả, xác định ý nghĩa của từ, cụm từ và các tuyên bố dựa vào ngữ cảnh; khái quát hóa, phân tích giọng văn và phương pháp của tác giả; phân tích các đòi hỏi và bằng chứng trong các cuộc tranh luận và tích hợp thông tin từ nhiều văn bản liên quan.
+Phần đánh giá tư duy khoa học/giải quyết vấn đề: Phần thi được thiết kế gồm (1) Tập hợp các thông tin khoa học và (2) Các câu hỏi trắc nghiệm, nhằm đo lường khả năng: tính, giải thích được dữ liệu; chỉ ra được phương án phù hợp với thông tin khoa học; thiết lập và thực hiện được các mô hình đánh giá, suy luận và kết quả thử nghiệm.
+Thông tin khoa học được truyền tải theo một trong ba định dạng khác nhau: biểu diễn dữ liệu (đồ thị khoa học, bảng biểu và sơ đồ), tóm tắt nghiên cứu (mô tả một hoặc nhiều thí nghiệm liên quan) hoặc quan điểm xung đột (hai hoặc nhiều tóm tắt mô hình lý thuyết, hiện tượng không phù hợp với nhau).
+3. Kiểu câu hỏi đánh giá tư duy
+Đề thi gồm các câu hỏi trắc nghiệm. Những kiểu câu hỏi trắc nghiệm được sử dụng bao gồm (câu hỏi chỉ được tính điểm nếu thí sinh lựa chọn đầy đủ phương án):
+- Nhiều lựa chọn (chọn nhiều phương án đúng).
+- Lựa chọn: Đúng/Sai
+- Trả lời ngắn (điền câu trả lời).
+- Kéo thả (chọn sẵn trong menu)
+
+
